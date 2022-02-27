@@ -84,37 +84,37 @@ items:
     commands:
       - 'info website'
 links:
-  store: 'https://store.semivanilla.com/'
-  map: 'https://semivanilla.com/map'
-  vote: 'https://semivanilla.com/vote'
-  website: 'https://semivanilla.com/'
+  store: 'https://store.asthonia.com/'
+  map: 'https://asthonia.com/map'
+  vote: 'https://asthonia.com/vote'
+  website: 'https://asthonia.com/'
   discord: 'https://discord.gg/3WzZ3x6wGp'
-  rules: 'https://semivanilla.com/rules'
+  rules: 'https://asthonia.com/rules'
 
 book:
   help:
     pages: 27
     0:
-      - '    <gradient:gold:#b24747><bold>SemiVanilla MC</bold></gradient>'
+      - '    <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient>'
       - '           <bold>Help</bold>'
       - ''
       - 'Pages:'
-      - '<color:#ffaa00> 2</color> - Land Claiming'
-      - '<color:#fb9b19> 5</color> - Skills & Abilities'
-      - '<color:#f58c26> 8</color> - Custom Mobs'
-      - '<color:#ee7e30>11</color> - Custom Enchants'
-      - '<color:#e57137>14</color> - Messaging'
-      - '<color:#da653d>16</color> - Teleporting'
-      - '<color:#ce5a42>18</color> - Vanilla+'
-      - '<color:#c05045>22</color> - Other'
-      - '<color:#b24747>26</color> - More Help'
+      - '<color:#55ffff> 2</color> - Land Claiming'
+      - '<color:#00edff> 5</color> - Skills & Abilities'
+      - '<color:#00d9ff> 8</color> - Custom Mobs'
+      - '<color:#00c4ff>11</color> - Custom Enchants'
+      - '<color:#00acff>14</color> - Messaging'
+      - '<color:#0091ff>16</color> - Teleporting'
+      - '<color:#6072f5>18</color> - Vanilla+'
+      - '<color:#8f4dd5>22</color> - Other'
+      - '<color:#aa00aa>25</color> - More Help'
     1:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '       <color:#ffaa00><bold>Section I</bold></color>'
+      - '       <color:#55ffff><bold>Section I</bold></color>'
       - '    <bold>Land Claiming</bold>'
     2:
       - '    <bold>Land Claiming</bold>'
@@ -138,20 +138,20 @@ book:
       - 'from your Mining level.'
       - ''
       - 'You can create up to'
-      - '1 Land intially.'
+      - '2 Lands intially.'
       - ''
       - '<bold>Commands:</bold>'
       - ' - /lands help'
       - ''
-      - '    <click:open_url:https://semivanilla.com/claiming><gradient:gold:#b24747><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://semivanilla.com/claiming><gradient:gold:#b24747><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://asthonia.com/claiming><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://asthonia.com/claiming><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
     4:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '      <color:#fb9b19><bold>Section II</bold></color>'
+      - '      <color:#00edff><bold>Section II</bold></color>'
       - '  <bold>Skills & Abilities</bold>'
     5:
       - '  <bold>Skills & Abilities</bold>'
@@ -180,15 +180,15 @@ book:
       - ' - /<skillname>'
       - ' - /mana'
       - ''
-      - '    <click:open_url:https://semivanilla.com/skills><gradient:gold:#b24747><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://semivanilla.com/skills><gradient:gold:#b24747><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://asthonia.com/skills><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://asthonia.com/skills><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
     7:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '     <color:#fb9b19><bold>Section III</bold></color>'
+      - '     <color:#00d9ff><bold>Section III</bold></color>'
       - '    <bold>Custom Mobs</bold>'
     8:
       - '    <bold>Custom Mobs</bold>'
@@ -216,20 +216,20 @@ book:
       - 'more difficult as you'
       - 'level up your skills!'
       - ''
-      - '    <click:open_url:https://semivanilla.com/mobs><gradient:gold:#b24747><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://semivanilla.com/mobs><gradient:gold:#b24747><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://asthonia.com/mobs><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://asthonia.com/mobs><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
     10:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '      <color:#ee7e30><bold>Section IV</bold></color>'
+      - '      <color:#00c4ff><bold>Section IV</bold></color>'
       - '  <bold>Custom Enchants</bold>'
     11:
       - '  <bold>Custom Enchants</bold>'
       - ''
-      - 'There are 124 unique'
+      - 'There are 123 unique'
       - 'custom enchants you'
       - 'can put on your'
       - 'weapons, armor, and'
@@ -250,15 +250,15 @@ book:
       - 'books in loot chests'
       - 'and villagers.'
       - ''
-      - '    <click:open_url:https://semivanilla.com/enchants><gradient:gold:#b24747><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://semivanilla.com/enchants><gradient:gold:#b24747><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://asthonia.com/enchants><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://asthonia.com/enchants><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
     13:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '       <color:#e57137><bold>Section V</bold></color>'
+      - '       <color:#00acff><bold>Section V</bold></color>'
       - '       <bold>Messaging</bold>'
     14:
       - '       <bold>Messaging</bold>'
@@ -278,7 +278,7 @@ book:
       - ''
       - ''
       - ''
-      - '      <color:#da653d><bold>Section VI</bold></color>'
+      - '      <color:#0091ff><bold>Section VI</bold></color>'
       - '     <bold>Teleporting</bold>'
     16:
       - '     <bold>Teleporting</bold>'
@@ -292,14 +292,13 @@ book:
       - '- /tpa'
       - '- /tpahere'
       - '- /lands spawn'
-      - '- /fasttravel'
     17:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '     <color:#ce5a42><bold>Section VII</bold></color>'
+      - '     <color:#6072f5><bold>Section VII</bold></color>'
       - '       <bold>Vanilla+</bold>'
     18:
       - '       <bold>Vanilla+</bold>'
@@ -346,7 +345,7 @@ book:
       - ''
       - ''
       - ''
-      - '    <color:#c05045><bold>Section VIII</bold></color>'
+      - '    <color:#8f4dd5><bold>Section VIII</bold></color>'
       - '         <bold>Other</bold>'
     22:
       - '         <bold>Other</bold>'
@@ -364,21 +363,6 @@ book:
       - '/trade to trade items'
       - 'with others.'
     23:
-      - 'Bounties:'
-      - ''
-      - 'When a player kills'
-      - 'another player, they'
-      - 'steal some Fighting XP'
-      - 'and become a "bounty"'
-      - ''
-      - 'If a bounty is killed,'
-      - 'the killer gets all of'
-      - 'the XP the bounty'
-      - 'stole.'
-      - ''
-      - 'Bounties last 24'
-      - 'hours.'
-    24:
       - 'GSit:'
       - ''
       - 'Custom movement'
@@ -392,15 +376,15 @@ book:
       - '- /lay'
       - '- /sit'
       - '- /spin'
-    25:
+    24:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '      <color:#b24747><bold>Section IX</bold></color>'
+      - '      <color:#aa00aa><bold>Section IX</bold></color>'
       - '       <bold>More Help</bold>'
-    26:
+    25:
       - '       <bold>More Help</bold>'
       - ''
       - 'Need more help?'
@@ -409,15 +393,15 @@ book:
       - 'on most things in'
       - 'this book.'
       - ''
-      - '<click:open_url:%website-link%>     <gradient:gold:#b24747><bold>CLICK HERE</bold></gradient></click>'
+      - '<click:open_url:%website-link%>     <gradient:aqua:dark_purple><bold>CLICK HERE</bold></gradient></click>'
       - ''
       - 'Or, join our Discord!'
       - ''
-      - '<click:open_url:%discord-link%>     <gradient:gold:#b24747><bold>CLICK HERE</bold></gradient></click>'
+      - '<click:open_url:%discord-link%>     <gradient:aqua:dark_purple><bold>CLICK HERE</bold></gradient></click>'
   store:
     pages: 1
     0:
-      - '<click:open_url:%store-link%>    <gradient:gold:#b24747><bold>SemiVanilla MC</gradient></bold></click>'
+      - '<click:open_url:%store-link%>      <gradient:aqua:dark_purple><bold>Asthonia</gradient></bold></click>'
       - '<click:open_url:%store-link%>         <bold>Store</bold></click>'
       - ''
       - '<click:open_url:%store-link%>Help us share the</click>'
@@ -428,11 +412,11 @@ book:
       - '<click:open_url:%store-link%>server. Thank you!</click>'
       - ''
       - ''
-      - '<click:open_url:%store-link%>   <gradient:gold:#b24747><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%store-link%>   <gradient:aqua:dark_purple><bold>CLICK TO OPEN</bold></gradient></click>'
   map:
     pages: 1
     0:
-      - '<click:open_url:%map-link%>    <gradient:gold:#b24747><bold>SemiVanilla MC</bold></gradient></click>'
+      - '<click:open_url:%map-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%map-link%>           <bold>Map</bold></click>'
       - ''
       - '<click:open_url:%map-link%>View the entire</click>'
@@ -443,11 +427,11 @@ book:
       - '<click:open_url:%map-link%>Shows approximate</click>'
       - '<click:open_url:%map-link%>location.</click>'
       - ''
-      - '<click:open_url:%map-link%>   <gradient:gold:#b24747><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%map-link%>   <gradient:aqua:dark_purple><bold>CLICK TO OPEN</bold></gradient></click>'
   vote:
     pages: 1
     0:
-      - '<click:open_url:%vote-link%>    <gradient:gold:#b24747><bold>SemiVanilla MC</bold></gradient></click>'
+      - '<click:open_url:%vote-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%vote-link%>     <bold>Vote Portal</bold></click>'
       - ''
       - '<click:open_url:%vote-link%>Support us by voting</click>'
@@ -458,11 +442,11 @@ book:
       - '<click:open_url:%vote-link%>rewards.</click>'
       - ''
       - ''
-      - '<click:open_url:%vote-link%>   <gradient:gold:#b24747><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%vote-link%>   <gradient:aqua:dark_purple><bold>CLICK TO OPEN</bold></gradient></click>'
   website:
     pages: 1
     0:
-      - '<click:open_url:%website-link%>    <gradient:gold:#b24747><bold>SemiVanilla MC</bold></gradient></click>'
+      - '<click:open_url:%website-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%website-link%>        <bold>Website</bold></click>'
       - ''
       - '<click:open_url:%website-link%>Bookmark us! Favorite</click>'
@@ -473,11 +457,11 @@ book:
       - '<click:open_url:%website-link%>Discord, and more.</click>'
       - ''
       - ''
-      - '<click:open_url:%website-link%>   <gradient:gold:#b24747><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%website-link%>   <gradient:aqua:dark_purple><bold>CLICK TO OPEN</bold></gradient></click>'
   discord:
     pages: 1
     0:
-      - '<click:open_url:%discord-link%>    <gradient:gold:#b24747><bold>SemiVanilla MC</bold></gradient></click>'
+      - '<click:open_url:%discord-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%discord-link%>        <bold>Discord</bold></click>'
       - ''
       - '<click:open_url:%discord-link%>Join the community!</click>'
@@ -488,11 +472,11 @@ book:
       - '<click:open_url:%discord-link%>discussion!</click>'
       - ''
       - ''
-      - '<click:open_url:%discord-link%>   <gradient:gold:#b24747><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%discord-link%>   <gradient:aqua:dark_purple><bold>CLICK TO OPEN</bold></gradient></click>'
   rules:
     pages: 1
     0:
-      - '<click:open_url:%rules-link%>    <gradient:gold:#b24747><bold>SemiVanilla MC</bold></gradient></click>'
+      - '<click:open_url:%rules-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%rules-link%>          <bold>Rules</bold></click>'
       - ''
       - 'Summary:'
@@ -503,4 +487,4 @@ book:
       - ''
       - ''
       - ''
-      - '<click:open_url:%rules-link%>   <gradient:gold:#b24747><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%rules-link%>   <gradient:aqua:dark_purple><bold>CLICK TO OPEN</bold></gradient></click>'

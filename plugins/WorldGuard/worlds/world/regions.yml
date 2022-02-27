@@ -23,7 +23,7 @@ regions:
         max: {x: -240, y: 85, z: -7670}
         members: {}
         flags: {deny-message: §cYou cannot do that near a boat race track., vehicle-place: allow,
-            vehicle-destroy: allow, interact: allow, pvp: deny}
+            interact: allow, vehicle-destroy: allow, pvp: deny}
         owners:
             unique-ids: [37d6fd08-da41-4b94-9523-ddd75c62470d]
         type: cuboid
@@ -51,4 +51,10 @@ regions:
         flags: {deny-message: §cYou cannot do that near a FastTravel.}
         owners: {}
         type: cuboid
+        priority: 0
+    __global__:
+        members: {}
+        flags: {pvp: deny}
+        owners: {}
+        type: global
         priority: 0

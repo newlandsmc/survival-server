@@ -76,15 +76,15 @@ world-settings:
                 type: world-border
             order: 0
         player-tracker:
-            enabled: false
-            update-interval-seconds: 30
+            enabled: true
+            update-interval-seconds: 5
             show-controls: false
-            default-hidden: true
+            default-hidden: false
             layer-priority: 2
             z-index: 2
             nameplate:
-                enabled: false
-                show-head: false
+                enabled: true
+                show-head: true
                 heads-url: https://mc-heads.net/avatar/{uuid}/16
                 show-armor: false
                 show-health: false

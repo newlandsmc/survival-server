@@ -1,8 +1,16 @@
-+ Updated: Spanish language by @C4BR3R4
-- Fixed: [#1659] Flight control flag warning due configuration
-- Fixed: [#1677] Nation effects not getting removed when activating and leaving right after
-- Fixed: [#1690] squaremap error due no longer implemented method
++ Added: Allow everyone to read books of lecterns, but not take it, unless they have block_break
++ Added: [Suggestion] categories.yml: You can now add categories.
+    A land can choose a category to make it easier for players to find the correct one
+    in /lands list. For example if you're looking for shops.
++ Added /lands menu main shortcut back
 
 --> Language file (en-US.yml): 
-+ String: general.teleportation.bossbar
-+ String: general.combat-tag.bossbar
++ Message: command.menu
++ Message: command.menu.invalid
++ Message: nations.message.untrusted
+
+--> GUI file (en-US.yml): 
++ Item: gui.land_various.f.category
++ Item: gui.global_lands.f.toggle-category
+--> Flags (roles.yml and config.yml)
++ snow_melt

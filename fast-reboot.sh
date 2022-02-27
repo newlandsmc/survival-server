@@ -2,7 +2,7 @@
 
 rconHost='localhost'
 rconPort='25575'
-rconPass='JrvX3gKwNaVEgbcm2fQxnV9FCdzDnrTQ'
+rconPass='uhP2emAfauYvKLmCer8ndcsw5BnFYHtR'
 
 /var/minecraft/mcrcon/mcrcon -H $rconHost -P $rconPort -p $rconPass 'broadcast &cServer rebooting in 30 seconds.'
 

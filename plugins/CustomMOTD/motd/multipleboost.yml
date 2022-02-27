@@ -1,6 +1,6 @@
-line1: '<dark_gray>             <strikethrough>  ]<white><strikethrough>     <reset> <yellow><bold>Semi<gold><bold>Vanilla<red><bold> MC <white><strikethrough>     <dark_gray><strikethrough>[  <reset>'
-line2: '<bold>           <yellow>MULTIPLE XP Boosts Active!'
+line1: '<dark_gray>                 <strikethrough>  ]<white><strikethrough>     <reset> <gradient:light_purple:dark_purple><bold>Asthonia</gradient> <white><strikethrough>     <dark_gray><strikethrough>[  <reset>'
+line2: '           <gradient:#6db8e7:#9af4a1><bold>Multiple XP Boosters Active!'
 active: false
-restricted: false
+restricted: true
 weight: 0
 counter: 0
