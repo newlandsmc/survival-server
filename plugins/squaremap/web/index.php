@@ -3,17 +3,17 @@
   <head>
     <title>Asthonia Minecraft Server | Map</title>
     <meta charset="utf-8" />
-    <meta name="description" content="A semi-vanilla 1.18.1 survival Minecraft server. Hard survival. RPG skills and abilities. Java + Bedrock support! A challenging adventure awaits... Join Now!" />
+    <meta name="description" content="1.18.1 RPG survival Minecraft server! Friendly community. PVE. RPG skills and abilities. Java + Bedrock support! A challenging adventure awaits... Join Now!" />
     <meta property="og:url" content="https://asthonia.com" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Asthonia Minecraft Server" />
-    <meta property="og:description" content="A semi-vanilla 1.18.1 survival Minecraft server. Hard survival. RPG skills. Java + Bedrock support!" />
+    <meta property="og:description" content="1.18.1 RPG survival Minecraft server! Friendly community. PVE. RPG skills and abilities. Java + Bedrock support!" />
     <meta property="og:image" content="https://asthonia.com/assets/images/promo-card.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="twitter:domain" content="asthonia.com" />
     <meta property="twitter:url" content="https://asthonia.com" />
     <meta name="twitter:title" content="Asthonia Minecraft Server" />
-    <meta name="twitter:description" content="A semi-vanilla 1.18.1 survival Minecraft server. Hard survival. RPG skills. Java + Bedrock support!" />
+    <meta name="twitter:description" content="1.18.1 RPG survival Minecraft server! Friendly community. PVE. RPG skills and abilities. Java + Bedrock support!" />
     <meta name="twitter:image" content="https://asthonia.com/assets/images/promo-card.jpg" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
