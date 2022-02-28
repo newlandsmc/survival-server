@@ -11,10 +11,10 @@ first-join-dialogue:
     message: "How you got here is not important now...\nYou're hungry and unarmed, and you can't shake the feeling something lurks in the shadows...\n<yellow>There must be something you can eat in that chest.\n<gray>..."
     delay: 6
   4:
-    message: "You'll need some tools to survive this strange new world...\nSomething tells you not all players will be friendly...\n<yellow>A sword should be your top priority.\n<gray>..."
+    message: "You'll need some tools to survive this strange new world...\nSomething tells you there's danger when night falls...\n<yellow>A sword should be your top priority.\n<gray>..."
     delay: 6
   5:
-    message: "\n<yellow><strikethrough>                                                                  <reset>\n\n            <white><bold>Welcome to SemiVanilla MC!<reset>\n             A new adventure lies ahead,\n                with lots to discover!\n         Need help along the way? Discord!\n           <gray>https://semivanilla.com/discord\n\n<yellow><strikethrough>                                                                  <reset>"
+    message: "\n<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                  <reset>\n\n                <white><bold>Welcome to Asthonia!<reset>\n             A new adventure lies ahead,\n                with lots to discover!\n         Need help along the way? Discord!\n           <gray>https://asthornia.com/discord\n\n<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                  <reset>"
     delay: 6
     mute-chat-for: 0
 
