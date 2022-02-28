@@ -95,7 +95,7 @@ book:
   help:
     pages: 27
     0:
-      - '    <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient>'
+      - '        <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient>'
       - '           <bold>Help</bold>'
       - ''
       - 'Pages:'
@@ -229,7 +229,7 @@ book:
     11:
       - '  <bold>Custom Enchants</bold>'
       - ''
-      - 'There are 123 unique'
+      - 'There are 114 unique'
       - 'custom enchants you'
       - 'can put on your'
       - 'weapons, armor, and'
@@ -401,7 +401,7 @@ book:
   store:
     pages: 1
     0:
-      - '<click:open_url:%store-link%>      <gradient:aqua:dark_purple><bold>Asthonia</gradient></bold></click>'
+      - '<click:open_url:%store-link%>        <gradient:aqua:dark_purple><bold>Asthonia</gradient></bold></click>'
       - '<click:open_url:%store-link%>         <bold>Store</bold></click>'
       - ''
       - '<click:open_url:%store-link%>Help us share the</click>'
@@ -416,7 +416,7 @@ book:
   map:
     pages: 1
     0:
-      - '<click:open_url:%map-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
+      - '<click:open_url:%map-link%>        <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%map-link%>           <bold>Map</bold></click>'
       - ''
       - '<click:open_url:%map-link%>View the entire</click>'
@@ -431,7 +431,7 @@ book:
   vote:
     pages: 1
     0:
-      - '<click:open_url:%vote-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
+      - '<click:open_url:%vote-link%>        <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%vote-link%>     <bold>Vote Portal</bold></click>'
       - ''
       - '<click:open_url:%vote-link%>Support us by voting</click>'
@@ -446,7 +446,7 @@ book:
   website:
     pages: 1
     0:
-      - '<click:open_url:%website-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
+      - '<click:open_url:%website-link%>        <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%website-link%>        <bold>Website</bold></click>'
       - ''
       - '<click:open_url:%website-link%>Bookmark us! Favorite</click>'
@@ -461,7 +461,7 @@ book:
   discord:
     pages: 1
     0:
-      - '<click:open_url:%discord-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
+      - '<click:open_url:%discord-link%>        <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%discord-link%>        <bold>Discord</bold></click>'
       - ''
       - '<click:open_url:%discord-link%>Join the community!</click>'
@@ -476,7 +476,7 @@ book:
   rules:
     pages: 1
     0:
-      - '<click:open_url:%rules-link%>      <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
+      - '<click:open_url:%rules-link%>        <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%rules-link%>          <bold>Rules</bold></click>'
       - ''
       - 'Summary:'

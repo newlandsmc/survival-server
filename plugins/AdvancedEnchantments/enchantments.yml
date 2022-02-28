@@ -1002,39 +1002,6 @@ permafrost:
         - "WAIT:20"
         - "ADD_HARM:2 %victim%"
         - "BLOOD %victim%"
-reaper:
-  display: "%group-color%Reaper"
-  description: "Chance to give your opponent the wither and\nblindness effects while dealing damage"
-  applies-to: "Axes"
-  type: "ATTACK"
-  group: "RARE"
-  applies:
-    - ALL_AXE
-  levels:
-    1:
-      chance: 8
-      cooldown: 16
-      effects:
-        - "POTION:WITHER:0:35 %victim%"
-        - "POTION:BLINDNESS:0:35 %victim%"
-    2:
-      chance: 10
-      cooldown: 14
-      effects:
-        - "POTION:WITHER:0:40 %victim%"
-        - "POTION:BLINDNESS:0:40 %victim%"
-    3:
-      chance: 12
-      cooldown: 12
-      effects:
-        - "POTION:WITHER:0:50 %victim%"
-        - "POTION:BLINDNESS:0:50 %victim%"
-    4:
-      chance: 14
-      cooldown: 10
-      effects:
-        - "POTION:WITHER:0:60 %victim%"
-        - "POTION:BLINDNESS:0:60 %victim%"
 netherslayer:
   display: "%group-color%Nether Slayer"
   description: "Increases damage dealt to nether mobs."
@@ -1080,30 +1047,6 @@ netherslayer:
         - "%mob type% = BLAZE or %mob type% = ZOMBIE_PIGMAN or %mob type% = PIG_ZOMBIE or %mob type% = GHAST : %allow%"
       effects:
         - "INCREASE_DAMAGE:<random number>10-40</random number> %attacker%"
-blind:
-  display: "%group-color%Blind"
-  description: "A chance of causing blindness when attacking."
-  applies-to: "Swords"
-  type: "ATTACK"
-  group: "RARE"
-  applies:
-    - ALL_SWORD
-  levels:
-    1:
-      chance: 5
-      cooldown: 5
-      effects:
-        - "POTION:BLINDNESS:0:60 %victim%"
-    2:
-      chance: 10
-      cooldown: 5
-      effects:
-        - "POTION:BLINDNESS:1:80 %victim%"
-    3:
-      chance: 15
-      cooldown: 5
-      effects:
-        - "POTION:BLINDNESS:2:100 %victim%"
 allure:
   display: "%group-color%Allure"
   description: "Your attack pulls enemies towards you."
@@ -1407,40 +1350,6 @@ vampire:
       effects:
         - "WAIT:40"
         - "ADD_HEALTH:<random number>1-6</random number>"
-greatsword:
-  display: "%group-color%Greatsword"
-  description: "Increases damage against players who are wielding\na Bows at the time they are hit."
-  applies-to: "Swords"
-  type: "ATTACK"
-  group: "RARE"
-  applies:
-    - ALL_SWORD
-  levels:
-    1:
-      condition:
-        - "%victim is holding% contains BOW : %allow%"
-      effects:
-        - "INCREASE_DAMAGE:<random number>20-35</random number> %attacker%"
-    2:
-      condition:
-        - "%victim is holding% contains BOW : %allow%"
-      effects:
-        - "INCREASE_DAMAGE:<random number>30-45</random number> %attacker%"
-    3:
-      condition:
-        - "%victim is holding% contains BOW : %allow%"
-      effects:
-        - "INCREASE_DAMAGE:<random number>40-80</random number> %attacker%"
-    4:
-      condition:
-        - "%victim is holding% contains BOW : %allow%"
-      effects:
-        - "INCREASE_DAMAGE:<random number>75-115</random number>"
-    5:
-      condition:
-        - "%victim is holding% contains BOW : %allow%"
-      effects:
-        - "INCREASE_DAMAGE:<random number>110-150</random number>"
 bowmaster:
   display: "%group-color%Bowsmaster"
   description: "Multiplies damage against players who are wielding\na Swords at the time they are hit."
@@ -1628,7 +1537,7 @@ dodge:
   display: "%group-color%Dodge"
   description: "Chance to dodge physical enemy, chance increases\nwhen sneaking."
   applies-to: "Leggings"
-  type: "DEFENSE"
+  type: "DEFENSE;DEFENSE_MOB"
   group: "LEGENDARY"
   applies:
     - ALL_LEGGINGS
@@ -1867,36 +1776,6 @@ safeguard:
       cooldown: 5
       effects:
         - "POTION:DAMAGE_RESISTANCE:1:60 %victim%"
-shatter:
-  display: "%group-color%Shatter"
-  description: "Chance to deal extra durability damage to all\nenemy armor with every attack."
-  applies-to: "Swords, Axes"
-  type: "ATTACK"
-  group: "LEGENDARY"
-  applies:
-    - ALL_AXE
-    - ALL_SWORD
-  levels:
-    1:
-      chance: 12
-      cooldown: 2
-      effects:
-        - "DAMAGE_ARMOR:2 %victim%"
-    2:
-      chance: 25
-      cooldown: 2
-      effects:
-        - "DAMAGE_ARMOR:2 %victim%"
-    3:
-      chance: 39
-      cooldown: 2
-      effects:
-        - "DAMAGE_ARMOR:2 %victim%"
-    4:
-      chance: 46
-      cooldown: 2
-      effects:
-        - "DAMAGE_ARMOR:2 %victim%"
 heavy:
   display: "%group-color%Heavy"
   description: "Decreases damage from enemy bows by 4% per\nlevel."
@@ -2474,7 +2353,7 @@ unholy:
   display: "%group-color%Unholy"
   description: "Chance to deal weakness and wither effects."
   applies-to: "Boots, Leggings, Chestplates, Helmets"
-  type: "DEFENSE"
+  type: "DEFENSE;DEFENSE_MOB"
   group: "EXOTIC"
   applies:
     - ALL_ARMOR
@@ -2896,30 +2775,6 @@ neutralize:
       cooldown: 20
       effects:
         - "DISARM %victim%"
-disarm:
-  display: "%group-color%Disarm"
-  description: "Chance to disarm opponent."
-  applies-to: "Swords"
-  type: "ATTACK"
-  group: "FABLED"
-  applies:
-    - ALL_SWORD
-  levels:
-    1:
-      chance: 2
-      cooldown: 20
-      effects:
-        - "DISARM %victim%"
-    2:
-      chance: 4
-      cooldown: 20
-      effects:
-        - "DISARM %victim%"
-    3:
-      chance: 5
-      cooldown: 20
-      effects:
-        - "DISARM %victim%"
 phoenix:
   display: "%group-color%Phoenix"
   description: "Chance to revive yourself when killed."
@@ -2975,7 +2830,7 @@ bluntforce:
   description: "Chance to strike with great force."
   applies-to: "Axes"
   group: "RARE"
-  type: "ATTACK"
+  type: "ATTACK;ATTACK_MOB"
   applies:
     - "ALL_AXE"
   levels:
@@ -3062,30 +2917,6 @@ slingshot:
       condition: "%is holding% contains FIREWORK : %stop%"
       effects:
         - "BOOST:UP:16"
-confusion:
-  display: '%group-color%Confusion'
-  description: "A chance to deal nausea to your victim."
-  applies-to: 'Axes'
-  type: 'ATTACK'
-  group: 'UNCOMMON'
-  applies:
-    - ALL_AXE
-  levels:
-    1:
-      chance: 13
-      cooldown: 4
-      effects:
-        - 'POTION:CONFUSION:0:40 %victim%'
-    2:
-      chance: 19
-      cooldown: 5
-      effects:
-        - 'POTION:CONFUSION:0:80 %victim%'
-    3:
-      chance: 24
-      cooldown: 6
-      effects:
-        - 'POTION:CONFUSION:0:120 %victim%'
 lifebloom:
   display: '%group-color%Lifebloom'
   description: "Heals allies around you on your death."
@@ -3145,40 +2976,6 @@ endershift:
       effects:
         - 'POTION:SPEED:1:120 %victim%'
         - 'POTION:ABSORPTION:2:80 %victim%'
-skillswipe:
-  display: '%group-color%Skill Swipe'
-  description: "A chance to steal some of your enemy's EXP every\ntime you damage them."
-  applies-to: 'Swords'
-  type: 'ATTACK'
-  group: 'UNCOMMON'
-  applies:
-    - ALL_SWORD
-  levels:
-    1:
-      chance: 15
-      cooldown: 5
-      effects:
-        - 'STEAL_EXP:<random number>25-125</random number> %attacker%'
-    2:
-      chance: 17
-      cooldown: 5
-      effects:
-        - 'STEAL_EXP:<random number>25-175</random number> %attacker%'
-    3:
-      chance: 19
-      cooldown: 5
-      effects:
-        - 'STEAL_EXP:<random number>25-225</random number> %attacker%'
-    4:
-      chance: 21
-      cooldown: 5
-      effects:
-        - 'STEAL_EXP:<random number>25-275</random number> %attacker%'
-    5:
-      chance: 23
-      cooldown: 5
-      effects:
-        - 'STEAL_EXP:<random number>25-350</random number> %attacker%'
 execute:
   display: '%group-color%Execute'
   description: "Damage buff when your target is at low HP."
@@ -3265,7 +3062,7 @@ enrage:
   display: '%group-color%Enrage'
   description: 'Deal more damage on low HP.'
   applies-to: 'Swords'
-  type: 'ATTACK'
+  type: 'ATTACK;ATTACK_MOB'
   group: 'LEGENDARY'
   applies:
     - ALL_SWORD
@@ -3291,34 +3088,6 @@ enrage:
         - "%attacker health% < 6 : %allow%"
       effects:
         - 'ADD_HARM:<random number>1-4</random number> %victim%'
-demonic:
-  display: '%group-color%Demonic'
-  description: "Chance to remove fire resistance from your\nenemy."
-  applies-to: 'Swords, Axes'
-  type: 'ATTACK'
-  group: 'LEGENDARY'
-  applies:
-    - ALL_SWORD
-    - ALL_AXE
-  levels:
-    1:
-      chance: 9
-      cooldown: 2
-      effects:
-        - 'CURE:FIRE_RESISTANCE %victim%'
-        - 'CURE_PERMANENT:FIRE_RESISTANCE %victim%'
-    2:
-      chance: 16
-      cooldown: 2
-      effects:
-        - 'CURE:FIRE_RESISTANCE %victim%'
-        - 'CURE_PERMANENT:FIRE_RESISTANCE %victim%'
-    3:
-      chance: 22
-      cooldown: 2
-      effects:
-        - 'CURE:FIRE_RESISTANCE %victim%'
-        - 'CURE_PERMANENT:FIRE_RESISTANCE %victim%'
 dominate:
   display: '%group-color%Dominate'
   description: "Chance to weaken enemy players when attacked,\ncausing them to deal less damage."
@@ -3352,7 +3121,7 @@ arsonist:
   display: '%group-color%Arsonist'
   description: "Chance to deal more damage whilst on fire"
   applies-to: 'Swords'
-  type: 'ATTACK'
+  type: 'ATTACK;ATTACK_MOB'
   group: 'LEGENDARY'
   applies:
     - 'ALL_SWORD'
@@ -3382,7 +3151,7 @@ soulwhisper:
   display: '%group-color%Soul Whisper'
   description: "Chance to cure wither and poison when attacked and\nheal at high levels."
   applies-to: 'Chestplates'
-  type: 'DEFENSE'
+  type: 'DEFENSE;DEFENSE_MOB'
   group: 'LEGENDARY'
   applies:
     - ALL_CHESTPLATE
@@ -3513,7 +3282,7 @@ metaphysical:
   display: '%group-color%Metaphysical'
   description: "Chance to be cured of slowness when attacked. At\nmax level, you will only be affected approx. 10%\nof the time."
   applies-to: 'Boots'
-  type: 'DEFENSE'
+  type: 'DEFENSE;DEFENSE_MOB'
   group: 'LEGENDARY'
   applies:
     - ALL_BOOTS
@@ -3572,7 +3341,7 @@ guardian:
   display: '%group-color%Guardian'
   description: "Automatically heals and cures all nearby\nallies."
   applies-to: 'Boots, Leggings, Chestplates, Helmets'
-  type: 'DEFENSE'
+  type: 'DEFENSE;DEFENSE_MOB'
   group: 'EXOTIC'
   applies:
     - 'ALL_ARMOR'
@@ -3622,45 +3391,11 @@ guardian:
         - 'CURE:NAUSEA <aoe> radius=10 target=undamageable </aoe>'
         - 'CURE:WITHER <aoe> radius=10 target=undamageable </aoe>'
         - 'MESSAGE:&e*** &ePROTECTION &e*** &7(%victim name%) <aoe> radius=10 target=undamageable </aoe>'
-stun:
-  display: '%group-color%Stun'
-  description: "Chance to slow opponent, make them feel weak, and\nremove slowness from you."
-  applies-to: 'Swords, Axes'
-  type: 'ATTACK'
-  group: 'EXOTIC'
-  applies:
-    - ALL_AXE
-    - ALL_SWORD
-  levels:
-    1:
-      chance: 15
-      cooldown: 6
-      effects:
-        - 'POTION:SLOW:0:120 %victim%'
-        - 'CURE:SLOW %attacker%'
-        - 'CURE_PERMANENT:SLOW %attacker%'
-        - 'POTION:WEAKNESS:0:80 %victim%'
-    2:
-      chance: 23
-      cooldown: 6
-      effects:
-        - 'POTION:SLOW:0:120 %victim%'
-        - 'CURE:SLOW %attacker%'
-        - 'CURE_PERMANENT:SLOW %attacker%'
-        - 'POTION:WEAKNESS:0:80 %victim%'
-    3:
-      chance: 35
-      cooldown: 6
-      effects:
-        - 'POTION:SLOW:1:120 %victim%'
-        - 'CURE:SLOW %attacker%'
-        - 'CURE_PERMANENT:SLOW %attacker%'
-        - 'POTION:WEAKNESS:0:80 %victim%'
 inversion:
   display: '%group-color%Inversion'
   description: "Chance to block damage dealt to you and heal you\nfor 1-5 HP."
   applies-to: 'Swords'
-  type: 'DEFENSE'
+  type: 'DEFENSE;DEFENSE_MOB'
   group: 'EXOTIC'
   applies:
     - ALL_SWORD
@@ -3693,7 +3428,7 @@ rage:
   display: '%group-color%Rage'
   description: "For every combo hit you land, chance to do 0.5\nheart damage per combo to your opponent."
   applies-to: 'Swords, Axes'
-  type: 'ATTACK'
+  type: 'ATTACK;ATTACK_MOB'
   group: 'EXOTIC'
   applies:
     - ALL_AXE
@@ -3912,7 +3647,7 @@ diminish:
   display: '%group-color%Diminish'
   description: "When this effect procs, the next attack dealt to\nyou cannot deal more than the (total amount of\ndamage / 2) you took from the previous attack."
   applies-to: 'Boots, Leggings, Chestplates, Helmets'
-  type: 'DEFENSE'
+  type: 'DEFENSE;DEFENSE_MOB'
   group: 'EXOTIC'
   applies:
     - ALL_ARMOR
@@ -4177,7 +3912,7 @@ markofthebeast:
   display: '%group-color%Mark of the Beast'
   description: "Once an enemy is afflicted with the mark all\nincoming damage is increased by 2x for up to 5\nseconds"
   applies-to: 'Boots, Leggings, Chestplates, Helmets'
-  type: 'DEFENSE'
+  type: 'DEFENSE;DEFENSE_MOB'
   group: 'FABLED'
   applies:
     - ALL_ARMOR
@@ -4246,7 +3981,7 @@ chainlifesteal:
   display: '%group-color%Chain Lifesteal'
   description: "Chance to regain health from multiple enemies near\nyour damaged target based on level"
   applies-to: 'Boots, Leggings, Chestplates, Helmets'
-  type: 'ATTACK'
+  type: 'ATTACK;ATTACK_MOB'
   group: 'FABLED'
   applies:
     - ALL_ARMOR
