@@ -1,16 +1,6 @@
-+ Added: Allow everyone to read books of lecterns, but not take it, unless they have block_break
-+ Added: [Suggestion] categories.yml: You can now add categories.
-    A land can choose a category to make it easier for players to find the correct one
-    in /lands list. For example if you're looking for shops.
-+ Added /lands menu main shortcut back
-
---> Language file (en-US.yml): 
-+ Message: command.menu
-+ Message: command.menu.invalid
-+ Message: nations.message.untrusted
-
---> GUI file (en-US.yml): 
-+ Item: gui.land_various.f.category
-+ Item: gui.global_lands.f.toggle-category
---> Flags (roles.yml and config.yml)
-+ snow_melt
++ Added: Don't send bossbar if text is empty
++ Added: {world}, {x}, {y}, {z} placeholders to capture point bossbars
++ Changed: [#1730] Include bank balance in cashback placeholder at /lands delete
+- Fixed: [#1723] own lands counting towards lands.lands in invite menu
+- Fixed: [#1733] Cancel interaction on selection
+- Fixed: Combat tag time not extending

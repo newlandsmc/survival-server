@@ -481,7 +481,7 @@ gui:
       failure_no-spawn:
         name: '&cNo Spawnpoint'
         lore:
-        - '&cThis land has''t set a spawn set.'
+        - '&cThis land hasn''t set a spawn yet.'
     p:
       placeholder_1:
         material: BLACK_STAINED_GLASS_PANE
@@ -2837,7 +2837,7 @@ gui:
         name: '&cNot Allowed'
         lore:
         - '&cYou''re not allowed to'
-        - '&cteleport to any land spawn.'
+        - '&cteleport to any land spawns.'
       failure_no-spawn:
         name: '&cNo Spawn set'
         lore:

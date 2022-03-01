@@ -149,8 +149,6 @@ land:
         - ATTACK_ANIMAL
         - ATTACK_MONSTER
         - SPAWN_TELEPORT
-        - ENDER_PEARL
-        - LAND_ENTER
         - VEHICLE_USE
         - ITEM_PICKUP
         - LAND_CLAIM_BORDER
@@ -164,5 +162,6 @@ land:
       default:
         - LAND_ENTER
         - ITEM_PICKUP
+        - ENDER_PEARL
         - ATTACK_PLAYER
         - ATTACK_MONSTER
