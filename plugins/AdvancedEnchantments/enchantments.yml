@@ -92,7 +92,7 @@ replanter:
     1:
       condition:
         - "%is crop% = false : %stop%"
-        - "%is fully grown% = false : %stop%"
+#        - "%is fully grown% = false : %stop%"
       effects:
         - "PLANT_SEEDS:0:%block drop type%"
 loyal:
@@ -359,19 +359,6 @@ rebreather:
         - "FILL_OXYGEN:20"
         - "WAIT:5"
         - "FILL_OXYGEN:20"
-decapitation:
-  display: "%group-color%Decapitation"
-  description: "Opponents head drop on death."
-  applies-to: "Swords, Axes"
-  type: "KILL_PLAYER"
-  group: "COMMON"
-  applies:
-    - ALL_SWORD
-    - ALL_AXE
-  levels:
-    1:
-      effects:
-        - "DROP_HEAD %victim%"
 forcefield:
   display: "%group-color%Forcefield"
   description: "Chance to push away your opponent."
