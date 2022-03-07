@@ -123,7 +123,7 @@ allow-third-party-ears: false
 show-cooldown: false
 
 # Controls if coordinates are shown to players.
-show-coordinates: false
+show-coordinates: true
 
 # Whether Bedrock players are blocked from performing their scaffolding-style bridging.
 disable-bedrock-scaffolding: true
