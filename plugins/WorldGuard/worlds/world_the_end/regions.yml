@@ -10,19 +10,9 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    end-island:
-        min: {x: -128, y: 0, z: -128}
-        max: {x: 128, y: 255, z: 128}
-        members: {}
-        flags: {deny-message: §cYou cannot do that here!, greeting: '§cWarning: The
-                main end island is protected! You will not be able to place or break
-                blocks here.', passthrough: allow, block-break: deny, tnt: deny, block-place: deny}
-        owners: {}
-        type: cuboid
-        priority: 0
     __global__:
         members: {}
-        flags: {pvp: deny}
+        flags: {deny-message: '', pvp: deny}
         owners: {}
         type: global
         priority: 0
