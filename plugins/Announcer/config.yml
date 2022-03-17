@@ -101,3 +101,12 @@ messages:
     - 'your land. <click:open_url:https://asthonia.com/claiming><gradient:aqua:dark_purple>https://asthonia.com/claiming</gradient></click>'
     - ''
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
+  11:
+    - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                
+                 <reset>'
+    - ''
+    - 'Mana and hearts GUI getting in your way?'
+    - 'You can disable it with <gradient:yellow:red>/abtoggle</gradient>.'
+    - ''
+    - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                
+                 <reset>'

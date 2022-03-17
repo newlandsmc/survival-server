@@ -84,10 +84,10 @@ items:
     commands:
       - 'info website'
 links:
-  store: 'https://store.asthonia.com/'
+  store: 'https://store.asthonia.com'
   map: 'https://asthonia.com/map'
   vote: 'https://asthonia.com/vote'
-  website: 'https://asthonia.com/'
+  website: 'https://asthonia.com'
   discord: 'https://discord.gg/3WzZ3x6wGp'
   rules: 'https://asthonia.com/rules'
 
