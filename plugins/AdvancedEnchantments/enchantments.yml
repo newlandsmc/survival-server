@@ -392,19 +392,6 @@ rebreather:
         - "FILL_OXYGEN:20"
         - "WAIT:5"
         - "FILL_OXYGEN:20"
-decapitation:
-  display: "%group-color%Decapitation"
-  description: "Opponents head drop on death."
-  applies-to: "Swords, Axes"
-  type: "KILL_PLAYER"
-  group: "COMMON"
-  applies:
-    - ALL_SWORD
-    - ALL_AXE
-  levels:
-    1:
-      effects:
-        - "DROP_HEAD %victim%"
 forcefield:
   display: "%group-color%Forcefield"
   description: "Chance to push away your opponent."
@@ -597,14 +584,16 @@ veinminer:
 telepathy:
   display: "%group-color%Telepathy"
   description: "Automatically places ores in your inventory."
-  applies-to: "Pickaxes"
+  applies-to: "Pickaxes, Axes, Hoes"
   type: "MINING"
   group: "UNCOMMON"
   applies:
     - ALL_PICKAXES
+    - ALL_AXE
+    - ALL_HOE
   levels:
     1:
-      condition: "%block type% contains ORE : %allow%"
+      condition: "%block type% contains ORE or %block type% contains LOG or %is crop% = TRUE : %allow%"
       effects:
         - "TP_DROPS"
 enderslayer:
@@ -1009,7 +998,7 @@ venom:
   display: "%group-color%Venom"
   description: "Chance of giving poison effect."
   applies-to: "Bows, Crossbows"
-  type: "BOW_MOB"
+  type: "BOW;BOW_MOB"
   group: "UNCOMMON"
   applies:
     - BOW
@@ -1147,27 +1136,27 @@ shockwave:
   levels:
     1:
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - "PULL_AWAY:0.5 %attacker%"
     2:
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - "PULL_AWAY:1.0 %attacker%"
     3:
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - "PULL_AWAY:1.5 %attacker%"
     4:
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - "PULL_AWAY:2.0 %attacker%"
     5:
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - "PULL_AWAY:2.5 %attacker%"
 vampire:
@@ -2630,21 +2619,21 @@ endershift:
     1:
       cooldown: 30
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'POTION:SPEED:1:40 %victim%'
         - 'POTION:ABSORPTION:0:20 %victim%'
     2:
       cooldown: 30
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'POTION:SPEED:1:60 %victim%'
         - 'POTION:ABSORPTION:1:40 %victim%'
     3:
       cooldown: 30
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'POTION:SPEED:1:120 %victim%'
         - 'POTION:ABSORPTION:2:80 %victim%'
@@ -2661,35 +2650,35 @@ execute:
       chance: 9
       cooldown: 2
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:<random number>10-50</random number> %attacker%'
     2:
       chance: 15
       cooldown: 2
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:<random number>10-50</random number> %attacker%'
     3:
       chance: 21
       cooldown: 2
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:<random number>10-50</random number> %attacker%'
     4:
       chance: 27
       cooldown: 2
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:<random number>10-50</random number> %attacker%'
     5:
       chance: 35
       cooldown: 2
       condition:
-        - "%victim health% > 6 : %block%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:<random number>10-50</random number> %attacker%'
 trap:
@@ -2870,7 +2859,7 @@ rage:
       effects:
         - 'ADD_HARM:%combo% %victim%'
         - 'BLOOD %victim%'
-        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%! *** %victim%'
+        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%) *** %attacker%'
     2:
       chance: 30
       condition:
@@ -2879,7 +2868,7 @@ rage:
       effects:
         - 'ADD_HARM:%combo% %victim%'
         - 'BLOOD %victim%'
-        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%! *** %victim%'
+        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%) *** %attacker%'
     3:
       chance: 35
       condition:
@@ -2888,7 +2877,7 @@ rage:
       effects:
         - 'ADD_HARM:%combo% %victim%'
         - 'BLOOD %victim%'
-        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%! *** %victim%'
+        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%) *** %attacker%'
     4:
       chance: 40
       condition:
@@ -2897,7 +2886,7 @@ rage:
       effects:
         - 'ADD_HARM:%combo% %victim%'
         - 'BLOOD %victim%'
-        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%! *** %victim%'
+        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%) *** %attacker%'
     5:
       chance: 45
       condition:
@@ -2906,7 +2895,7 @@ rage:
       effects:
         - 'ADD_HARM:%combo% %victim%'
         - 'BLOOD %victim%'
-        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%! *** %victim%'
+        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%) *** %attacker%'
     6:
       chance: 50
       condition:
@@ -2915,7 +2904,7 @@ rage:
       effects:
         - 'ADD_HARM:%combo% %victim%'
         - 'BLOOD %victim%'
-        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%! *** %victim%'
+        - 'MESSAGE:&5*** RAGE (COMBO: %attacker combo%) *** %attacker%'
 diminish:
   display: '%group-color%Diminish'
   description: "When this effect procs, the next attack dealt to\nyou cannot deal more than the (total amount of\ndamage / 2) you took from the previous attack."
