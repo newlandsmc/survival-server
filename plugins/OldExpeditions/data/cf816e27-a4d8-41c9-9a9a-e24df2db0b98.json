@@ -1,0 +1,51 @@
+{
+  "uuid": "cf816e27-a4d8-41c9-9a9a-e24df2db0b98",
+  "name": "_IzzyRobyn",
+  "totalVotes": 221,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 5
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 6
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 7
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 8
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 9
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 10
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 4,
+    "day": 10
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 12
+  }
+}

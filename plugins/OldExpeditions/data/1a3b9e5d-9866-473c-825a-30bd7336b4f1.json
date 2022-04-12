@@ -1,0 +1,26 @@
+{
+  "uuid": "1a3b9e5d-9866-473c-825a-30bd7336b4f1",
+  "name": "ItsDexterous115",
+  "totalVotes": 1,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 18
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 4,
+    "day": 4
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 4
+  }
+}

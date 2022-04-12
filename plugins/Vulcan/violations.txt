@@ -1625,3 +1625,207 @@
 [04-11-2022] [00:12:27] Vout failed Bad Packets (Type M) [VL: 1] [Ping: 58] [TPS: 20] [Version: 1.18] [Client: Fabric] delay=50
 [04-11-2022] [00:14:23] Vout failed Bad Packets (Type M) [VL: 1] [Ping: 57] [TPS: 20] [Version: 1.18] [Client: Fabric] delay=47
 [04-11-2022] [00:54:21] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 227] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-11-2022] [01:54:49] Superjackboi failed Bad Packets (Type N) [VL: 1] [Ping: 33] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:54:50] Superjackboi failed Bad Packets (Type N) [VL: 2] [Ping: 33] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:54:51] Superjackboi failed Bad Packets (Type N) [VL: 3] [Ping: 33] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:55:20] Superjackboi failed Bad Packets (Type N) [VL: 4] [Ping: 51] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:56:13] Superjackboi failed Ground Spoof (Type B) [VL: 1] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-11-2022] [01:56:25] Superjackboi failed Bad Packets (Type N) [VL: 5] [Ping: 67] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:56:26] Superjackboi failed Bad Packets (Type N) [VL: 6] [Ping: 67] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:56:27] Superjackboi failed Bad Packets (Type N) [VL: 7] [Ping: 67] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:56:30] Superjackboi failed Bad Packets (Type N) [VL: 8] [Ping: 69] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:56:32] Superjackboi failed Fast Break (Type A) [VL: 1] [Ping: 69] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-949.0 tool=AIR
+[04-11-2022] [01:56:45] Superjackboi failed Scaffold (Type I) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=8.68167273711834E-4 deltaYaw=153.60938 deltaPitch=52.436806
+[04-11-2022] [01:56:45] Superjackboi failed Scaffold (Type J) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=8.68167273711834E-4 deltaPitch=52.436806
+[04-11-2022] [01:56:45] Superjackboi failed Scaffold (Type J) [VL: 2] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=9.870901234576568E-5 deltaPitch=52.82745
+[04-11-2022] [01:56:45] Superjackboi failed Scaffold (Type D) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] rotation=191
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type D) [VL: 2] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] rotation=164
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type I) [VL: 2] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=5.060555827780533E-4 deltaYaw=172.67514 deltaPitch=54.55767
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type J) [VL: 3] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=5.060555827780533E-4 deltaPitch=54.55767
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type H) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] final=-29.567276470314006
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type D) [VL: 3] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] rotation=241
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type G) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] angle=1.9605073 delay=163 acceleration=4.305703800333571E-6
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type J) [VL: 4] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=4.305703800333571E-6 deltaPitch=55.73497
+[04-11-2022] [01:56:46] Superjackboi failed Bad Packets (Type N) [VL: 9] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type D) [VL: 4] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] rotation=1068
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type J) [VL: 5] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=1.0197190196192807E-4 deltaPitch=56.249443
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type H) [VL: 2] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] final=-27.89200278157025
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type D) [VL: 5] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] rotation=548
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type J) [VL: 6] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=6.028863847382382E-4 deltaPitch=53.99346
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type G) [VL: 2] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] angle=0.7502111 delay=40 acceleration=6.307656426984276E-4
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type J) [VL: 7] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] acceleration=6.307656426984276E-4 deltaPitch=59.28055
+[04-11-2022] [01:56:46] Superjackboi failed Scaffold (Type H) [VL: 3] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] final=-32.13384937993363
+[04-11-2022] [01:56:47] Superjackboi failed Scaffold (Type G) [VL: 3] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] angle=0.61291206 delay=259 acceleration=4.28968995097867E-5
+[04-11-2022] [01:56:52] Superjackboi failed Ground Spoof (Type B) [VL: 2] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-11-2022] [01:56:52] Superjackboi failed Ground Spoof (Type B) [VL: 3] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-11-2022] [01:56:52] Superjackboi failed Ground Spoof (Type B) [VL: 4] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-11-2022] [01:56:57] Superjackboi failed Bad Packets (Type N) [VL: 10] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:57:09] Superjackboi failed Bad Packets (Type N) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:57:10] Superjackboi failed Bad Packets (Type N) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:57:38] Superjackboi failed Fast Break (Type A) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=GRASS_BLOCK diff=-250.0 tool=AIR
+[04-11-2022] [01:57:47] Superjackboi failed Bad Packets (Type N) [VL: 3] [Ping: 45] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:57:47] Superjackboi failed Fast Break (Type A) [VL: 2] [Ping: 45] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=GRASS_BLOCK diff=-301.0 tool=AIR
+[04-11-2022] [01:57:48] Superjackboi failed Bad Packets (Type N) [VL: 4] [Ping: 45] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:57:49] Superjackboi failed Fast Break (Type A) [VL: 3] [Ping: 45] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=GRASS_BLOCK diff=-299.0 tool=AIR
+[04-11-2022] [01:57:51] Superjackboi failed Bad Packets (Type N) [VL: 5] [Ping: 45] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [01:57:54] Superjackboi failed Fast Break (Type A) [VL: 4] [Ping: 45] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-702.0 tool=AIR
+[04-11-2022] [01:58:07] Superjackboi failed Ground Spoof (Type B) [VL: 1] [Ping: 52] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-11-2022] [01:58:07] Superjackboi failed Ground Spoof (Type B) [VL: 2] [Ping: 52] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-11-2022] [03:41:19] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 225] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-11-2022] [06:13:57] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 303] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-11-2022] [07:25:29] Potaae failed Motion (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:25:56] Potaae failed Motion (Type A) [VL: 1] [Ping: 41] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:25:57] Potaae failed Motion (Type A) [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:26:04] Potaae failed Motion (Type A) [VL: 3] [Ping: 56] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:26:14] Potaae failed Motion (Type A) [VL: 4] [Ping: 56] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:26:42] Potaae failed Motion (Type A) [VL: 5] [Ping: 74] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:26:47] Potaae failed Motion (Type A) [VL: 6] [Ping: 81] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:11] Potaae failed Motion (Type A) [VL: 7] [Ping: 87] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:11] Potaae failed Motion (Type A) [VL: 8] [Ping: 87] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:28] Potaae failed Motion (Type A) [VL: 9] [Ping: 91] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:29] Potaae failed Motion (Type A) [VL: 10] [Ping: 91] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:29] Potaae failed Motion (Type A) [VL: 11] [Ping: 91] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:29] Potaae failed Motion (Type A) [VL: 12] [Ping: 91] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:29] Potaae failed Motion (Type A) [VL: 13] [Ping: 91] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:29] Potaae failed Motion (Type A) [VL: 14] [Ping: 91] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:29] Potaae failed Motion (Type A) [VL: 15] [Ping: 91] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-11-2022] [07:27:37] Zyodl failed Jesus (Type A) [VL: 1] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:38] Zyodl failed Jesus (Type A) [VL: 2] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:39] Zyodl failed Jesus (Type A) [VL: 3] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type E) [VL: 1] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaXZ=0.32227548509537535
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type A) [VL: 4] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type A) [VL: 5] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type A) [VL: 6] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type B) [VL: 1] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.899999951685391
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type A) [VL: 7] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type B) [VL: 2] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.899999951685391
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type E) [VL: 2] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaXZ=4.899999951685391
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type A) [VL: 8] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type B) [VL: 3] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.899999951685391
+[04-11-2022] [07:27:41] Zyodl failed Jesus (Type A) [VL: 9] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:42] Zyodl failed Jesus (Type B) [VL: 4] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.899999951763659
+[04-11-2022] [07:27:42] Zyodl failed Jesus (Type A) [VL: 10] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:42] Zyodl failed Jesus (Type B) [VL: 5] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.899999951763659
+[04-11-2022] [07:27:42] Zyodl failed Jesus (Type A) [VL: 11] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:42] Zyodl failed Jesus (Type B) [VL: 6] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.899999938329295
+[04-11-2022] [07:27:44] Zyodl failed Jesus (Type A) [VL: 12] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:44] Zyodl failed Jesus (Type B) [VL: 7] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.900000226267031
+[04-11-2022] [07:27:44] Zyodl failed Jesus (Type A) [VL: 13] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:44] Zyodl failed Jesus (Type B) [VL: 8] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.899999968322813
+[04-11-2022] [07:27:44] Zyodl failed Jesus (Type A) [VL: 14] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:44] Zyodl failed Jesus (Type B) [VL: 9] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0 deltaXZ=4.900000196069655
+[04-11-2022] [07:27:44] Zyodl failed Jesus (Type A) [VL: 15] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:56] Zyodl failed Jesus (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:27:57] Zyodl failed Jesus (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[04-11-2022] [07:28:02] Zyodl failed Aim (Type Y) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=26.189817 dist=3.6949132250284293
+[04-11-2022] [07:28:03] Zyodl failed Aim (Type Y) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=26.052706 dist=3.792197116350458
+[04-11-2022] [07:28:03] Zyodl failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=48
+[04-11-2022] [07:28:03] Zyodl failed Aim (Type Y) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=26.650452 dist=3.86895358582354
+[04-11-2022] [07:28:04] Zyodl failed Aim (Type Y) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=26.77847 dist=2.15442654767324
+[04-11-2022] [07:28:04] Zyodl failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=49
+[04-11-2022] [07:28:04] Zyodl failed Aim (Type Y) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=26.509567 dist=1.8913085413819029
+[04-11-2022] [09:06:42] OrestisWasTaken failed Jesus (Type E) [VL: 1] [Ping: 189] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.21478925053766162
+[04-11-2022] [09:16:51] OrestisWasTaken failed Flight (Type B) [VL: 1] [Ping: 144] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.03499999999999659 difference=0.07280000209808803 ticks=11 delay=51 tp=57
+[04-11-2022] [09:16:52] OrestisWasTaken failed Flight (Type B) [VL: 2] [Ping: 144] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=3.4584433961746193 ticks=14 delay=57 tp=1
+[04-11-2022] [09:21:52] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 165] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=66
+[04-11-2022] [09:21:53] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 165] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=43
+[04-11-2022] [09:21:54] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 165] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=45
+[04-11-2022] [09:21:55] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 165] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=79
+[04-11-2022] [09:22:40] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 63] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=62
+[04-11-2022] [09:24:40] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 232] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=1 lastSlot=1
+[04-11-2022] [09:24:41] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 232] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-11-2022] [09:24:41] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 232] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-11-2022] [09:24:47] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-11-2022] [09:24:47] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=7 lastSlot=7
+[04-11-2022] [09:24:54] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 142] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=48
+[04-11-2022] [09:24:55] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 142] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=70
+[04-11-2022] [09:24:56] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 142] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=50
+[04-11-2022] [09:24:58] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=3 lastSlot=3
+[04-11-2022] [09:25:03] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=1 lastSlot=1
+[04-11-2022] [09:25:03] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-11-2022] [09:25:04] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-11-2022] [09:25:14] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-11-2022] [09:25:15] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=7 lastSlot=7
+[04-11-2022] [09:25:28] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 77] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=1 lastSlot=1
+[04-11-2022] [09:25:33] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=3 lastSlot=3
+[04-11-2022] [09:25:34] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-11-2022] [09:25:34] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-11-2022] [09:25:35] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-11-2022] [09:25:55] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 59] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=3 lastSlot=3
+[04-11-2022] [09:25:55] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 59] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-11-2022] [09:25:56] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 59] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-11-2022] [09:25:57] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 87] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=71
+[04-11-2022] [09:25:58] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 87] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=45
+[04-11-2022] [09:26:03] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-11-2022] [09:26:04] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=7 lastSlot=7
+[04-11-2022] [09:27:52] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 182] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=73
+[04-11-2022] [09:28:00] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 182] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=47
+[04-11-2022] [09:29:19] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 111] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=41
+[04-11-2022] [09:29:20] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 111] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=55
+[04-11-2022] [09:29:43] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 147] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=44
+[04-11-2022] [09:29:43] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 147] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=58
+[04-11-2022] [09:30:00] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=53
+[04-11-2022] [09:30:04] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=49
+[04-11-2022] [09:30:05] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=68
+[04-11-2022] [09:30:05] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=44
+[04-11-2022] [09:30:29] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=64
+[04-11-2022] [09:30:30] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=43
+[04-11-2022] [09:30:31] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=57
+[04-11-2022] [09:30:32] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=56
+[04-11-2022] [09:30:39] OrestisWasTaken failed Aim (Type Y) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] diff=20.2427 dist=2.526037268702736
+[04-11-2022] [09:30:44] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=69
+[04-11-2022] [09:30:45] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=59
+[04-11-2022] [09:30:45] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=41
+[04-11-2022] [09:30:46] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=63
+[04-11-2022] [09:31:21] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 106] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=47
+[04-11-2022] [09:42:48] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 232] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=1 lastSlot=1
+[04-11-2022] [09:42:55] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 232] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=1 lastSlot=1
+[04-11-2022] [09:43:06] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 232] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-11-2022] [09:43:15] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=7 lastSlot=7
+[04-11-2022] [09:43:16] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=1 lastSlot=1
+[04-11-2022] [09:43:18] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-11-2022] [09:43:23] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=1 lastSlot=1
+[04-11-2022] [09:59:57] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 145] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=67
+[04-11-2022] [09:59:58] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 145] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=43
+[04-11-2022] [10:00:14] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 150] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=67
+[04-11-2022] [10:00:14] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 150] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=44
+[04-11-2022] [10:00:27] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=43
+[04-11-2022] [10:00:46] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 231] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-11-2022] [10:01:29] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=74
+[04-11-2022] [10:02:47] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 196] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=87
+[04-11-2022] [10:02:48] OrestisWasTaken failed Kill Aura (Type A) [VL: 3] [Ping: 196] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=43
+[04-11-2022] [10:02:48] OrestisWasTaken failed Kill Aura (Type A) [VL: 4] [Ping: 196] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=90
+[04-11-2022] [10:03:06] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=46
+[04-11-2022] [10:03:09] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=51
+[04-11-2022] [10:06:17] OrestisWasTaken failed Kill Aura (Type A) [VL: 1] [Ping: 146] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=44
+[04-11-2022] [10:06:20] OrestisWasTaken failed Kill Aura (Type A) [VL: 2] [Ping: 146] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=44
+[04-11-2022] [10:12:49] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 253] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-11-2022] [11:22:30] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 255] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-11-2022] [11:22:31] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 255] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=7 lastSlot=7
+[04-11-2022] [11:22:40] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 255] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-11-2022] [11:22:46] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-11-2022] [11:25:31] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 221] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=1 lastSlot=1
+[04-12-2022] [05:05:21] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 222] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-12-2022] [05:05:22] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 222] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-12-2022] [09:34:45] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 221] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-12-2022] [11:27:54] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 226] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=8 lastSlot=8
+[04-12-2022] [11:29:53] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 228] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-12-2022] [11:32:48] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 226] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-12-2022] [11:32:49] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 226] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-12-2022] [11:33:30] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 226] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-12-2022] [11:37:34] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 232] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-12-2022] [11:38:35] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 226] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=4 lastSlot=4
+[04-12-2022] [11:39:21] thomasmad11 failed Bad Packets (Type G) [VL: 3] [Ping: 225] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=5 lastSlot=5
+[04-12-2022] [11:40:44] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 174] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-12-2022] [11:49:52] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 235] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=6 lastSlot=6
+[04-12-2022] [11:51:27] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 246] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=7 lastSlot=7
+[04-12-2022] [12:35:52] thomasmad11 failed Bad Packets (Type G) [VL: 1] [Ping: 226] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=7 lastSlot=7
+[04-12-2022] [12:36:26] thomasmad11 failed Bad Packets (Type G) [VL: 2] [Ping: 223] [TPS: 20] [Version: 1.18] [Client: Fabric] slot=8 lastSlot=8
+[04-12-2022] [12:57:21] Pumpkinsoop2010 failed Step (Type B) [VL: 1] [Ping: 125] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=4 deltaY=-0.04199996888634416
+[04-12-2022] [12:57:21] Pumpkinsoop2010 failed Step (Type B) [VL: 2] [Ping: 125] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=5 deltaY=-0.11760000228882461
+[04-12-2022] [12:57:21] Pumpkinsoop2010 failed Step (Type B) [VL: 3] [Ping: 125] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=6 deltaY=-0.11760000228882461
+[04-12-2022] [12:57:21] Pumpkinsoop2010 failed Step (Type B) [VL: 4] [Ping: 125] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=7 deltaY=0.6299999803304672
+[04-12-2022] [12:57:22] Pumpkinsoop2010 failed Step (Type B) [VL: 5] [Ping: 125] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=7 deltaY=0.0
+[04-12-2022] [15:08:48] sard009 failed Jesus (Type E) [VL: 1] [Ping: 615] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.1732547066766281
+[04-12-2022] [19:01:08] JEMZaz123 failed Jesus (Type E) [VL: 1] [Ping: 85] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.1783957993422169
+[04-12-2022] [19:01:09] JEMZaz123 failed Jesus (Type B) [VL: 1] [Ping: 85] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.005000000000002558 deltaXZ=0.14318870322642888

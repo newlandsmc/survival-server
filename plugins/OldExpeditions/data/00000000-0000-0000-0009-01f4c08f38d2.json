@@ -1,0 +1,20 @@
+{
+  "uuid": "00000000-0000-0000-0009-01f4c08f38d2",
+  "name": "*Saumaan",
+  "totalVotes": 0,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 4,
+    "day": 6
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 6
+  }
+}

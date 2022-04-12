@@ -1,0 +1,27 @@
+{
+  "uuid": "7078592c-6c0c-43a0-a957-52367d365297",
+  "name": "Joshuaatan",
+  "totalVotes": 5,
+  "offlineEarned": 0,
+  "votesToday": 5,
+  "expeditions": [
+    "VOTE",
+    "VOTE",
+    "VOTE",
+    "VOTE",
+    "VOTE"
+  ],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 30
+    }
+  ],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 30
+  }
+}

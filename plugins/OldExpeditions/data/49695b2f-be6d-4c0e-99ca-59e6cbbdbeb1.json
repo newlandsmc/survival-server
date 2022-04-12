@@ -1,0 +1,31 @@
+{
+  "uuid": "49695b2f-be6d-4c0e-99ca-59e6cbbdbeb1",
+  "name": "omegonalpharius",
+  "totalVotes": 12,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 4
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 5
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 4,
+    "day": 5
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 5
+  }
+}

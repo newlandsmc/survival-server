@@ -1,0 +1,26 @@
+{
+  "uuid": "02ca0e58-0019-4c6a-a5fc-700d96be1c3d",
+  "name": "Squishy_Alpaca",
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 3,
+    "day": 5
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 5
+  },
+  "totalVotes": 6,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "e7b74963-cd84-48dc-8817-64b1d28bae41",
+  "name": "PrismaBlue",
+  "totalVotes": 1,
+  "offlineEarned": 0,
+  "votesToday": 1,
+  "expeditions": [
+    "VOTE"
+  ],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 11
+    }
+  ],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 11
+  }
+}

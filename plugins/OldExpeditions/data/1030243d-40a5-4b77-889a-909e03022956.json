@@ -1,0 +1,15 @@
+{
+  "uuid": "1030243d-40a5-4b77-889a-909e03022956",
+  "name": "SecretSupply",
+  "totalVotes": 0,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 16
+  }
+}

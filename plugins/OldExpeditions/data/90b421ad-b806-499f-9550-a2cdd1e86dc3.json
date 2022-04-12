@@ -1,0 +1,41 @@
+{
+  "uuid": "90b421ad-b806-499f-9550-a2cdd1e86dc3",
+  "name": "JigKeyy",
+  "totalVotes": 23,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 25
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 26
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 27
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 28
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 3,
+    "day": 28
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 30
+  }
+}

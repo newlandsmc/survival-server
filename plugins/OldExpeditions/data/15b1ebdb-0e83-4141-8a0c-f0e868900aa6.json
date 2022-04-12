@@ -1,0 +1,51 @@
+{
+  "uuid": "15b1ebdb-0e83-4141-8a0c-f0e868900aa6",
+  "name": "titzx",
+  "totalVotes": 50,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 2
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 3
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 4
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 5
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 7
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 8
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 14
+    }
+  ],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 17
+  }
+}

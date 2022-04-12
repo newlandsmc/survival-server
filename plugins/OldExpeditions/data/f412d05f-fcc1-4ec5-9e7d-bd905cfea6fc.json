@@ -1,0 +1,15 @@
+{
+  "uuid": "f412d05f-fcc1-4ec5-9e7d-bd905cfea6fc",
+  "name": "GottaSlay",
+  "totalVotes": 0,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 25
+  }
+}

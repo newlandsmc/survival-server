@@ -1,0 +1,31 @@
+{
+  "uuid": "60577695-2d7a-412f-ba33-675ea52b46e9",
+  "name": "heathestus",
+  "totalVotes": 12,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 9
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 12
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 3,
+    "day": 9
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 17
+  }
+}

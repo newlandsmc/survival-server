@@ -1,0 +1,29 @@
+{
+  "uuid": "a5350acb-e5d9-4454-bc95-9cc00efe1c2a",
+  "name": "Sazior",
+  "totalVotes": 6,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [
+    "VOTE",
+    "VOTE",
+    "VOTE",
+    "VOTE",
+    "VOTE",
+    "VOTE",
+    "SUPER_VOTE"
+  ],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 20
+    }
+  ],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 21
+  }
+}

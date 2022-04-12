@@ -1,0 +1,23 @@
+{
+  "uuid": "3cb216b3-cb57-49c7-9a7d-5b08ef125aca",
+  "name": "markaus77",
+  "totalVotes": 1,
+  "offlineEarned": 0,
+  "votesToday": 1,
+  "expeditions": [
+    "VOTE"
+  ],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 9
+    }
+  ],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 9
+  }
+}

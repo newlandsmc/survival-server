@@ -1,0 +1,31 @@
+{
+  "uuid": "cd82edd9-de73-43b1-ad9f-ef6e57eea0c9",
+  "name": "CocoComputer",
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 3,
+    "day": 13
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 13
+  },
+  "totalVotes": 11,
+  "offlineEarned": 0,
+  "votesToday": 5,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 12
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 13
+    }
+  ]
+}

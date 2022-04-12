@@ -1,0 +1,51 @@
+{
+  "uuid": "db3b6dbb-38a8-4a54-98de-17f37c9ad0cf",
+  "name": "CaptainGetz0",
+  "totalVotes": 29,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [
+    "VOTE",
+    "VOTE",
+    "VOTE",
+    "VOTE"
+  ],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 11
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 12
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 14
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 16
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 23
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 3,
+    "day": 23
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 23
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "9887e18a-9106-4404-8276-67786fd557b9",
+  "name": "OrestisWasTaken",
+  "totalVotes": 11,
+  "offlineEarned": 0,
+  "votesToday": 5,
+  "expeditions": [],
+  "unclaimedRewards": [],
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 10
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 11
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 4,
+    "day": 10
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 11
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "uuid": "12b67c23-15f6-480f-8fbe-9a2011064fd0",
+  "name": "toxicvidca",
+  "totalVotes": 6,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 6
+    }
+  ],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 21
+  }
+}

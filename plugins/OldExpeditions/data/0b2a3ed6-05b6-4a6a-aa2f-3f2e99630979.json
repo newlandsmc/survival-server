@@ -1,0 +1,15 @@
+{
+  "uuid": "0b2a3ed6-05b6-4a6a-aa2f-3f2e99630979",
+  "name": "snowspott",
+  "totalVotes": 0,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 10
+  }
+}

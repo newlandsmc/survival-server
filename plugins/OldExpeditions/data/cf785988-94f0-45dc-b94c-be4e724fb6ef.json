@@ -1,0 +1,25 @@
+{
+  "uuid": "cf785988-94f0-45dc-b94c-be4e724fb6ef",
+  "name": "Psychicae",
+  "totalVotes": 3,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [
+    "VOTE",
+    "VOTE",
+    "VOTE"
+  ],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 27
+    }
+  ],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 5
+  }
+}

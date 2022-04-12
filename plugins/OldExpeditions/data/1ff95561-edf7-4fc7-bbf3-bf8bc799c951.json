@@ -1,0 +1,36 @@
+{
+  "uuid": "1ff95561-edf7-4fc7-bbf3-bf8bc799c951",
+  "name": "ImCreach",
+  "totalVotes": 14,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 10
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 11
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 12
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 3,
+    "day": 12
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 16
+  }
+}

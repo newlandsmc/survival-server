@@ -1,0 +1,46 @@
+{
+  "uuid": "13e93462-9238-40b4-b46e-ac76ee94d7c0",
+  "name": "Kaiballz",
+  "totalVotes": 204,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 7
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 8
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 9
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 10
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "day": 11
+    }
+  ],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 4,
+    "day": 11
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 12
+  }
+}

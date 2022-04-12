@@ -1,0 +1,19 @@
+{
+  "uuid": "84255a0c-659d-4b28-8cec-1b37a030875b",
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 3,
+    "day": 12
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 3,
+    "day": 12
+  },
+  "totalVotes": 0,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": []
+}

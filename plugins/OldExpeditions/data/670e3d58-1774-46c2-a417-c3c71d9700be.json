@@ -1,0 +1,21 @@
+{
+  "uuid": "670e3d58-1774-46c2-a417-c3c71d9700be",
+  "name": "Teji2",
+  "totalVotes": 6,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {},
+  "lastVotes": [
+    {
+      "year": 2022,
+      "month": 3,
+      "day": 12
+    }
+  ],
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 8
+  }
+}
