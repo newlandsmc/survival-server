@@ -84,7 +84,7 @@ items:
     commands:
       - 'info website'
 links:
-  store: 'https://store.asthonia.com'
+  store: 'https://store.semivanilla.com'
   map: 'https://asthonia.com/map'
   vote: 'https://asthonia.com/vote'
   website: 'https://asthonia.com'
@@ -133,7 +133,7 @@ book:
       - 'the Land into plots.'
     3:
       - 'You can claim up to 15'
-      - 'chunks intially. More'
+      - 'chunks initially. More'
       - 'chunks are earned'
       - 'from your Mining level.'
       - ''
@@ -401,7 +401,7 @@ book:
   store:
     pages: 1
     0:
-      - '<click:open_url:%store-link%>        <gradient:aqua:dark_purple><bold>Asthonia</gradient></bold></click>'
+      - '<click:open_url:%store-link%>        <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient></click>'
       - '<click:open_url:%store-link%>         <bold>Store</bold></click>'
       - ''
       - '<click:open_url:%store-link%>Help us share the</click>'

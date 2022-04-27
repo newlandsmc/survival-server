@@ -1,0 +1,30 @@
+{
+  "uuid": "00000000-0000-0000-0009-000004563ca0",
+  "name": "*trev502000",
+  "totalVotes": 0,
+  "offlineEarned": 0,
+  "votesToday": 0,
+  "expeditions": [],
+  "unclaimedRewards": {
+    "DAILY": [
+      "base64:H4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2Dgns/BwJSZwiCWm5mXmlyUmFZilZ6TXx6flFpUlJlazMjA6pxfmlfCxgAAIOXHgzwAAAA\u003d",
+      "base64:H4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2Dgns/BwJSZwiCem5mXmlyUmFZiVVyemloSn5RaVJSZWszIwOqcX5pXwsUAADfZYqo9AAAA",
+      "base64:H4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2Dgns/BwJSZwiCRm5mXmlyUmFZilZibWpJRWVwSX5yRWJTCyMDqnF+aV8LOAADqydd9PgAAAA\u003d\u003d",
+      "base64:H4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2Dgns/BwJSZwiCWm5mXmlyUmFZilZGfl1oZn5RfUpKTysjA6pxfmlfCyAAA5E9zhDwAAAA\u003d",
+      "base64:H4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2Dgns/BwJSZwiCUm5mXmlyUmFZiVZRYHp9ZlJ/HyMDqnF+aV8LGAAAFNJaROAAAAA\u003d\u003d",
+      "base64:H4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2Dgns/BwJSZwiCYm5mXmlyUmFZilZ+YHZ+Tn87IwOqcX5pXosoAACAnNxA3AAAA",
+      "base64:H4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2Dgns/BwJSZwiCam5mXmlyUmFZilZqXkloUX5CaWJTDyMDqnF+aV8LEAABDEC0UOwAAAA\u003d\u003d"
+    ]
+  },
+  "lastVotes": [],
+  "lastDailyClaim": {
+    "year": 2022,
+    "month": 4,
+    "day": 18
+  },
+  "lastDayUpdated": {
+    "year": 2022,
+    "month": 4,
+    "day": 18
+  }
+}

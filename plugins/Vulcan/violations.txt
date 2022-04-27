@@ -1829,3 +1829,406 @@
 [04-12-2022] [15:08:48] sard009 failed Jesus (Type E) [VL: 1] [Ping: 615] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.1732547066766281
 [04-12-2022] [19:01:08] JEMZaz123 failed Jesus (Type E) [VL: 1] [Ping: 85] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.1783957993422169
 [04-12-2022] [19:01:09] JEMZaz123 failed Jesus (Type B) [VL: 1] [Ping: 85] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.005000000000002558 deltaXZ=0.14318870322642888
+[04-12-2022] [22:36:05] KindaBlockBoy failed Invalid *(Type A)* [VL: 1] [Ping: 45] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] dXZ=2.8424225788141007 max=1.2000000476837158
+[04-13-2022] [03:23:23] Frqmed_ failed Elytra (Type L) [VL: 1] [Ping: 93] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.3740354450974053 pitch=11.472126 rt=3937
+[04-14-2022] [12:59:44] Juju_47 failed Bad Packets (Type A) [VL: 1] [Ping: 43] [TPS: 20] [Version: 1.18] [Client: Vanilla] flying=false
+[04-14-2022] [12:59:44] Juju_47 failed Bad Packets (Type A) [VL: 2] [Ping: 43] [TPS: 20] [Version: 1.18] [Client: Vanilla] flying=false
+[04-14-2022] [12:59:44] Juju_47 failed Bad Packets (Type A) [VL: 3] [Ping: 43] [TPS: 20] [Version: 1.18] [Client: Vanilla] flying=false
+[04-14-2022] [17:35:12] ShaormaBuilds failed Flight (Type E) [VL: 1] [Ping: 148] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=7 acceleration=0.0 deltaY=0.0 delay=39 tp=19
+[04-14-2022] [17:35:13] ShaormaBuilds failed Flight (Type E) [VL: 2] [Ping: 148] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=7 acceleration=0.0 deltaY=0.0 delay=54 tp=18
+[04-14-2022] [17:35:17] ShaormaBuilds failed Flight (Type E) [VL: 3] [Ping: 147] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=7 acceleration=0.0 deltaY=0.0 delay=50 tp=31
+[04-14-2022] [17:35:40] ShaormaBuilds failed Flight (Type E) [VL: 1] [Ping: 146] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=7 acceleration=0.0 deltaY=0.0 delay=51 tp=47
+[04-14-2022] [20:35:39] ShaormaBuilds failed Jump (Type B) [VL: 1] [Ping: 153] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=1.0756566485300851 limit=0.41999998688697815 tp=2
+[04-14-2022] [21:14:24] ClayGoddessSari failed Bad Packets (Type M) [VL: 1] [Ping: 41] [TPS: 20] [Version: 1.18] [Client: Fabric] delay=95
+[04-14-2022] [22:09:53] orangerolen failed Timer (Type D) [VL: 8] [Ping: 90] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[04-14-2022] [22:09:53] orangerolen failed Timer (Type D) [VL: 9] [Ping: 90] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=98 delay=0
+[04-14-2022] [22:09:53] orangerolen failed Timer (Type D) [VL: 10] [Ping: 90] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[04-14-2022] [22:09:53] orangerolen failed Timer (Type D) [VL: 11] [Ping: 90] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[04-14-2022] [22:09:53] orangerolen failed Timer (Type D) [VL: 12] [Ping: 90] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[04-14-2022] [22:09:53] orangerolen failed Timer (Type D) [VL: 13] [Ping: 90] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[04-14-2022] [22:09:53] orangerolen failed Timer (Type D) [VL: 14] [Ping: 1298] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=80 delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=1
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 2) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:29] AsianRiceBowl failed Bad Packets (Type 1) [VL: 15] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 1) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:41] AsianRiceBowl failed Bad Packets (Type 2) [VL: 15] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=1
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=1
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 2) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:22:48] AsianRiceBowl failed Bad Packets (Type 1) [VL: 15] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=0
+[04-15-2022] [01:24:35] AsianRiceBowl failed Aim (Type Y) [VL: 1] [Ping: 1711] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=25.497257 dist=3.2234087822785695
+[04-15-2022] [01:24:36] AsianRiceBowl failed Aim (Type Y) [VL: 2] [Ping: 1711] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=22.287445 dist=2.6239943531893837
+[04-15-2022] [01:24:36] AsianRiceBowl failed Motion (Type D) [VL: 1] [Ping: 1711] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:24:36] AsianRiceBowl failed Aim (Type Y) [VL: 3] [Ping: 1711] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=31.775116 dist=2.9309448388572985
+[04-15-2022] [01:24:36] AsianRiceBowl failed Aim (Type Y) [VL: 4] [Ping: 1711] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=29.470413 dist=3.2830127539323746
+[04-15-2022] [01:24:37] AsianRiceBowl failed Aim (Type Y) [VL: 5] [Ping: 1711] [TPS: 20] [Version: 1.18.2] [Client: Fabric] diff=27.979849 dist=3.083616672549223
+[04-15-2022] [01:25:21] AsianRiceBowl failed Motion (Type D) [VL: 1] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:22] AsianRiceBowl failed Motion (Type D) [VL: 2] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:22] AsianRiceBowl failed Motion (Type D) [VL: 3] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:23] AsianRiceBowl failed Motion (Type D) [VL: 4] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:23] AsianRiceBowl failed Motion (Type D) [VL: 5] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:24] AsianRiceBowl failed Motion (Type D) [VL: 6] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:24] AsianRiceBowl failed Motion (Type D) [VL: 7] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:25] AsianRiceBowl failed Motion (Type D) [VL: 8] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:25] AsianRiceBowl failed Motion (Type D) [VL: 9] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:27] AsianRiceBowl failed Motion (Type D) [VL: 10] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:27] AsianRiceBowl failed Motion (Type D) [VL: 11] [Ping: 218] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:28] AsianRiceBowl failed Motion (Type D) [VL: 12] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:28] AsianRiceBowl failed Motion (Type D) [VL: 13] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:33] AsianRiceBowl failed Motion (Type D) [VL: 1] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:33] AsianRiceBowl failed Motion (Type D) [VL: 2] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:33] AsianRiceBowl failed Motion (Type D) [VL: 3] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:34] AsianRiceBowl failed Motion (Type D) [VL: 4] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:34] AsianRiceBowl failed Motion (Type D) [VL: 5] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:35] AsianRiceBowl failed Motion (Type D) [VL: 6] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:35] AsianRiceBowl failed Motion (Type D) [VL: 7] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:35] AsianRiceBowl failed Motion (Type D) [VL: 8] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:36] AsianRiceBowl failed Motion (Type D) [VL: 9] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:36] AsianRiceBowl failed Motion (Type D) [VL: 10] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:36] AsianRiceBowl failed Motion (Type D) [VL: 11] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:37] AsianRiceBowl failed Motion (Type D) [VL: 12] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:37] AsianRiceBowl failed Motion (Type D) [VL: 13] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:38] AsianRiceBowl failed Motion (Type D) [VL: 14] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:39] AsianRiceBowl failed Motion (Type D) [VL: 15] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:47] AsianRiceBowl failed Motion (Type D) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:48] AsianRiceBowl failed Motion (Type D) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:48] AsianRiceBowl failed Motion (Type D) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:49] AsianRiceBowl failed Motion (Type D) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:49] AsianRiceBowl failed Motion (Type D) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:49] AsianRiceBowl failed Motion (Type D) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:49] AsianRiceBowl failed Motion (Type D) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:50] AsianRiceBowl failed Motion (Type D) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:50] AsianRiceBowl failed Motion (Type D) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:51] AsianRiceBowl failed Motion (Type D) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:51] AsianRiceBowl failed Motion (Type D) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:52] AsianRiceBowl failed Motion (Type D) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:52] AsianRiceBowl failed Motion (Type D) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:52] AsianRiceBowl failed Motion (Type D) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:52] AsianRiceBowl failed Motion (Type D) [VL: 15] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:57] AsianRiceBowl failed Motion (Type D) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:58] AsianRiceBowl failed Motion (Type D) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [01:25:58] AsianRiceBowl failed Motion (Type D) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.100000000064938E-5
+[04-15-2022] [10:02:58] ShaormaBuilds failed Strafe (Type A) [VL: 1] [Ping: 145] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] difference=0.03465843254545109 deltaXZ=0.2631907198110639
+[04-15-2022] [14:28:38] LielasBikses failed Flight (Type B) [VL: 1] [Ping: 129] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=44 delay=50 tp=41
+[04-15-2022] [14:28:38] LielasBikses failed Flight (Type B) [VL: 2] [Ping: 129] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=46 delay=51 tp=43
+[04-15-2022] [14:28:38] LielasBikses failed Flight (Type B) [VL: 3] [Ping: 129] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=48 delay=50 tp=45
+[04-15-2022] [14:28:38] LielasBikses failed Flight (Type B) [VL: 4] [Ping: 129] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=50 delay=47 tp=47
+[04-15-2022] [14:28:38] LielasBikses failed Flight (Type B) [VL: 5] [Ping: 129] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=52 delay=48 tp=49
+[04-15-2022] [14:28:38] LielasBikses failed Flight (Type B) [VL: 6] [Ping: 129] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=54 delay=48 tp=51
+[04-15-2022] [17:52:20] Frqmed_ failed Elytra (Type L) [VL: 1] [Ping: 103] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.7786163788423153 pitch=-33.23251 rt=42835
+[04-15-2022] [21:00:17] stevieSkywalker failed Criticals (Type A) [VL: 1] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:18] stevieSkywalker failed Criticals (Type A) [VL: 2] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:18] stevieSkywalker failed Criticals (Type A) [VL: 3] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:18] stevieSkywalker failed Criticals (Type A) [VL: 4] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:18] stevieSkywalker failed Criticals (Type A) [VL: 5] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:19] stevieSkywalker failed Criticals (Type A) [VL: 6] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:19] stevieSkywalker failed Criticals (Type A) [VL: 7] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:19] stevieSkywalker failed Criticals (Type A) [VL: 8] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:19] stevieSkywalker failed Criticals (Type A) [VL: 9] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:19] stevieSkywalker failed Criticals (Type A) [VL: 10] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:24] stevieSkywalker failed Criticals (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:25] stevieSkywalker failed Criticals (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:25] stevieSkywalker failed Criticals (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:25] stevieSkywalker failed Criticals (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:25] stevieSkywalker failed Criticals (Type A) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:26] stevieSkywalker failed Criticals (Type A) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:26] stevieSkywalker failed Criticals (Type A) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:26] stevieSkywalker failed Criticals (Type A) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:26] stevieSkywalker failed Criticals (Type A) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:00:27] stevieSkywalker failed Criticals (Type A) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:05] stevieSkywalker failed Criticals (Type A) [VL: 1] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:05] stevieSkywalker failed Criticals (Type A) [VL: 2] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:05] stevieSkywalker failed Criticals (Type A) [VL: 3] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:05] stevieSkywalker failed Criticals (Type A) [VL: 4] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:06] stevieSkywalker failed Criticals (Type A) [VL: 5] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:06] stevieSkywalker failed Criticals (Type A) [VL: 6] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:06] stevieSkywalker failed Criticals (Type A) [VL: 7] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:06] stevieSkywalker failed Criticals (Type A) [VL: 8] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:07] stevieSkywalker failed Criticals (Type A) [VL: 9] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:06:07] stevieSkywalker failed Criticals (Type A) [VL: 10] [Ping: 156] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:10:00] stevieSkywalker failed Criticals (Type A) [VL: 1] [Ping: 148] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.0625 modulo=0.0
+[04-15-2022] [21:11:05] stevieSkywalker failed Scaffold (Type C) [VL: 1] [Ping: 144] [TPS: 20] [Version: 1.18.2] [Client: Fabric] ticks=24 delay=44
+[04-15-2022] [21:11:06] stevieSkywalker failed Scaffold (Type C) [VL: 2] [Ping: 144] [TPS: 20] [Version: 1.18.2] [Client: Fabric] ticks=30 delay=178
+[04-15-2022] [21:11:06] stevieSkywalker failed Scaffold (Type D) [VL: 1] [Ping: 144] [TPS: 20] [Version: 1.18.2] [Client: Fabric] rotation=409
+[04-15-2022] [21:11:06] stevieSkywalker failed Bad Packets (Type M) [VL: 1] [Ping: 144] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=67
+[04-15-2022] [21:11:29] stevieSkywalker failed Motion (Type A) [VL: 1] [Ping: 139] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:29] stevieSkywalker failed Motion (Type A) [VL: 2] [Ping: 139] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:30] stevieSkywalker failed Motion (Type A) [VL: 3] [Ping: 139] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:30] stevieSkywalker failed Motion (Type A) [VL: 4] [Ping: 139] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:30] stevieSkywalker failed Motion (Type A) [VL: 5] [Ping: 139] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:30] stevieSkywalker failed Motion (Type A) [VL: 6] [Ping: 139] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:30] stevieSkywalker failed Motion (Type A) [VL: 7] [Ping: 139] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:32] stevieSkywalker failed Motion (Type A) [VL: 8] [Ping: 134] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:32] stevieSkywalker failed Motion (Type A) [VL: 9] [Ping: 134] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:33] stevieSkywalker failed Motion (Type A) [VL: 10] [Ping: 134] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:33] stevieSkywalker failed Motion (Type A) [VL: 11] [Ping: 134] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:11:33] stevieSkywalker failed Motion (Type A) [VL: 12] [Ping: 134] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.20000000000000284
+[04-15-2022] [21:12:05] stevieSkywalker failed Fast Break (Type A) [VL: 1] [Ping: 126] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=GRASS_BLOCK diff=-879.0 tool=AIR
+[04-15-2022] [22:03:15] FasPlays2143 failed Fast Break (Type A) [VL: 1] [Ping: 3625] [TPS: 20] [Version: 1.18] [Client: Vanilla] block=OAK_LOG diff=-203.0 tool=OAK_LOG
+[04-16-2022] [00:52:54] ItsJustJ failed Fast Break (Type A) [VL: 1] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=IRON_ORE diff=-146.0 tool=IRON_PICKAXE
+[04-16-2022] [04:40:33] chipboy123 failed Motion (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [04:40:34] chipboy123 failed Motion (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [04:40:35] chipboy123 failed Motion (Type A) [VL: 3] [Ping: 61] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [04:40:36] chipboy123 failed Motion (Type A) [VL: 1] [Ping: 61] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [04:40:36] chipboy123 failed Motion (Type A) [VL: 2] [Ping: 61] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [04:40:37] chipboy123 failed Motion (Type A) [VL: 3] [Ping: 61] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [04:40:37] chipboy123 failed Motion (Type A) [VL: 4] [Ping: 61] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [04:40:38] chipboy123 failed Motion (Type A) [VL: 5] [Ping: 61] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [04:40:38] chipboy123 failed Motion (Type A) [VL: 6] [Ping: 61] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.0
+[04-16-2022] [21:32:07] PhysicalLogic failed Flight (Type B) [VL: 1] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.19113605714731818 difference=0.09793230701888242 ticks=35 delay=62 tp=54
+[04-16-2022] [21:32:07] PhysicalLogic failed Flight (Type B) [VL: 2] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.21225589904592823 difference=0.09152895057300621 ticks=37 delay=52 tp=56
+[04-16-2022] [21:32:07] PhysicalLogic failed Flight (Type B) [VL: 3] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.18668494474079722 difference=0.05039351704741768 ticks=39 delay=71 tp=58
+[04-16-2022] [21:32:07] PhysicalLogic failed Flight (Type B) [VL: 4] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.12950731822251527 difference=0.04926085420213508 ticks=41 delay=22 tp=60
+[04-16-2022] [21:32:07] PhysicalLogic failed Flight (Type B) [VL: 5] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.0 difference=0.010871452945137727 ticks=43 delay=35 tp=62
+[04-16-2022] [21:32:07] PhysicalLogic failed Flight (Type B) [VL: 6] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=-0.0041441984474630544 difference=0.07425580307841585 ticks=45 delay=63 tp=64
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 7] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=-0.010346683965423153 difference=0.07563539202545132 ticks=47 delay=62 tp=66
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 8] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=-0.01368768431770917 difference=0.07677544008617594 ticks=49 delay=80 tp=68
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 9] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=-0.011991393435167197 difference=0.08037158929169111 ticks=51 delay=55 tp=70
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 10] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=-0.006721033877916227 difference=0.08064016752034743 ticks=53 delay=55 tp=72
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 11] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=-0.003528659106919463 difference=0.07967226663994374 ticks=55 delay=70 tp=74
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 12] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=-0.0010813979431958387 difference=0.07726222979547674 ticks=57 delay=97 tp=76
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 13] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=8.225714229013192E-4 difference=0.08037816137238263 ticks=59 delay=50 tp=78
+[04-16-2022] [21:32:08] PhysicalLogic failed Motion (Type D) [VL: 1] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=8.225714229013192E-4
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 14] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.001397713534537104 difference=0.07842795576991038 ticks=61 delay=80 tp=80
+[04-16-2022] [21:32:08] PhysicalLogic failed Motion (Type D) [VL: 2] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.001397713534537104
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 15] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.001397713534537104 difference=0.07842795576991038 ticks=63 delay=50 tp=82
+[04-16-2022] [21:32:08] PhysicalLogic failed Motion (Type A) [VL: 1] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.001397713534537104
+[04-16-2022] [21:32:08] PhysicalLogic failed Flight (Type B) [VL: 16] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.0012079282477515108 difference=0.07823817048312479 ticks=65 delay=44 tp=84
+[04-16-2022] [21:32:08] PhysicalLogic failed Motion (Type D) [VL: 3] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.0012079282477515108
+[04-16-2022] [21:32:09] PhysicalLogic failed Flight (Type B) [VL: 17] [Ping: 720] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=9.203523583707351E-4 difference=0.078418408555492 ticks=67 delay=65 tp=86
+[04-17-2022] [18:42:56] orangerolen failed Timer (Type D) [VL: 8] [Ping: 88] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[04-17-2022] [18:42:57] orangerolen failed Timer (Type D) [VL: 9] [Ping: 88] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=79 delay=0
+[04-17-2022] [22:29:02] _IzzyRobyn failed Fast Break (Type A) [VL: 1] [Ping: 97] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-198.0 tool=NETHERITE_PICKAXE
+[04-17-2022] [22:29:02] _IzzyRobyn failed Fast Break (Type A) [VL: 2] [Ping: 97] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-198.0 tool=NETHERITE_PICKAXE
+[04-17-2022] [22:29:02] _IzzyRobyn failed Fast Break (Type A) [VL: 3] [Ping: 97] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-198.0 tool=NETHERITE_PICKAXE
+[04-17-2022] [22:29:02] _IzzyRobyn failed Fast Break (Type A) [VL: 4] [Ping: 97] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-197.0 tool=NETHERITE_PICKAXE
+[04-18-2022] [09:07:06] xxcass1e failed Fast Break (Type A) [VL: 1] [Ping: 82] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=GRAVEL diff=-251.0 tool=TORCH
+[04-19-2022] [16:45:36] PhysicalLogic failed Jesus (Type C) [VL: 1] [Ping: 439] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.0
+[04-20-2022] [15:10:22] PhysicalLogic failed Scaffold (Type D) [VL: 1] [Ping: 170] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] rotation=340
+[04-20-2022] [15:10:22] PhysicalLogic failed Scaffold (Type D) [VL: 2] [Ping: 170] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] rotation=252
+[04-20-2022] [17:04:36] PhysicalLogic failed Scaffold (Type D) [VL: 1] [Ping: 1082] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] rotation=231
+[04-20-2022] [17:04:37] PhysicalLogic failed Scaffold (Type D) [VL: 2] [Ping: 1082] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] rotation=650
+[04-20-2022] [17:04:38] PhysicalLogic failed Scaffold (Type D) [VL: 3] [Ping: 1082] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] rotation=301
+[04-20-2022] [17:04:38] PhysicalLogic failed Scaffold (Type H) [VL: 1] [Ping: 1082] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] final=-28.5417943822608
+[04-20-2022] [17:04:38] PhysicalLogic failed Scaffold (Type D) [VL: 4] [Ping: 1082] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] rotation=529
+[04-20-2022] [17:17:11] PhysicalLogic failed Jesus (Type B) [VL: 1] [Ping: 285] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=-0.003198157126561796 deltaXZ=0.16987062426760904
+[04-20-2022] [17:17:14] PhysicalLogic failed Jesus (Type B) [VL: 2] [Ping: 285] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:b4db1c9] deltaY=0.0 deltaXZ=0.17025517698606274
+[04-20-2022] [19:44:38] Manvirdd102 failed Elytra (Type M) [VL: 1] [Ping: 27] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.15000000596046448 m=3.581517374340315E-9
+[04-20-2022] [19:44:38] Manvirdd102 failed Elytra (Type M) [VL: 2] [Ping: 27] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.15000000596046448 m=3.581517374340315E-9
+[04-20-2022] [19:44:38] Manvirdd102 failed Elytra (Type M) [VL: 3] [Ping: 27] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.15000000596046448 m=3.581517374340315E-9
+[04-21-2022] [14:11:06] Manvirdd102 failed Elytra (Type L) [VL: 1] [Ping: 33] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=1.3637554013070599 pitch=-20.297716 rt=14306
+[04-21-2022] [14:11:06] Manvirdd102 failed Elytra (Type L) [VL: 2] [Ping: 33] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=1.3399375338159274 pitch=-14.597731 rt=14309
+[04-21-2022] [14:11:06] Manvirdd102 failed Elytra (Type L) [VL: 3] [Ping: 33] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=1.296494870077595 pitch=-12.647736 rt=14312
+[04-21-2022] [20:59:01] ClayGoddessSari failed Invalid *(Type A)* [VL: 1] [Ping: 43] [TPS: 20] [Version: 1.18] [Client: Fabric] dXZ=2.316460055544673 max=1.2000000476837158
+[04-22-2022] [11:48:12] bacongrubber failed Jesus (Type B) [VL: 1] [Ping: 41] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.01220000015496936 deltaXZ=0.14740089530882197
+[04-22-2022] [14:56:27] OnionDoesStuff failed Fast Break (Type A) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-946.0 tool=AIR
+[04-22-2022] [14:56:32] OnionDoesStuff failed Fast Break (Type A) [VL: 2] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-952.0 tool=AIR
+[04-22-2022] [14:57:20] OnionDoesStuff failed Kill Aura (Type A) [VL: 1] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=52
+[04-22-2022] [14:57:20] OnionDoesStuff failed Kill Aura (Type A) [VL: 2] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=52
+[04-22-2022] [14:57:22] OnionDoesStuff failed Kill Aura (Type A) [VL: 3] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=54
+[04-22-2022] [14:57:22] OnionDoesStuff failed Kill Aura (Type A) [VL: 4] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=51
+[04-22-2022] [14:57:30] OnionDoesStuff failed Kill Aura (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=49
+[04-22-2022] [14:57:30] OnionDoesStuff failed Kill Aura (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=49
+[04-22-2022] [14:57:46] OnionDoesStuff failed Kill Aura (Type A) [VL: 3] [Ping: 10] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=51
+[04-22-2022] [14:57:56] OnionDoesStuff failed Fast Break (Type A) [VL: 1] [Ping: 10] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COBBLESTONE diff=-551.0 tool=STONE_PICKAXE
+[04-22-2022] [14:57:57] OnionDoesStuff failed Fast Break (Type A) [VL: 2] [Ping: 10] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=CRAFTING_TABLE diff=-394.0 tool=STONE_AXE
+[04-22-2022] [14:58:19] OnionDoesStuff failed Kill Aura (Type A) [VL: 4] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] delay=54
+[04-22-2022] [14:58:50] OnionDoesStuff failed Fast Break (Type A) [VL: 1] [Ping: 9] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-216.0 tool=STONE_PICKAXE
+[04-22-2022] [14:58:51] OnionDoesStuff failed Fast Break (Type A) [VL: 2] [Ping: 9] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-219.0 tool=STONE_PICKAXE
+[04-22-2022] [14:58:53] OnionDoesStuff failed Fast Break (Type A) [VL: 3] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-386.0 tool=STONE_PICKAXE
+[04-22-2022] [14:58:55] OnionDoesStuff failed Fast Break (Type A) [VL: 4] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-378.0 tool=STONE_PICKAXE
+[04-22-2022] [14:58:57] OnionDoesStuff failed Fast Break (Type A) [VL: 5] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-382.0 tool=STONE_PICKAXE
+[04-22-2022] [14:58:58] OnionDoesStuff failed Fast Break (Type A) [VL: 6] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-204.0 tool=STONE_PICKAXE
+[04-22-2022] [14:58:59] OnionDoesStuff failed Fast Break (Type A) [VL: 7] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-315.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:00] OnionDoesStuff failed Fast Break (Type A) [VL: 8] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-316.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:01] OnionDoesStuff failed Fast Break (Type A) [VL: 9] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-467.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:02] OnionDoesStuff failed Fast Break (Type A) [VL: 10] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-317.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:03] OnionDoesStuff failed Fast Break (Type A) [VL: 11] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-213.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:03] OnionDoesStuff failed Fast Break (Type A) [VL: 12] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-313.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:05] OnionDoesStuff failed Fast Break (Type A) [VL: 13] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-212.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:06] OnionDoesStuff failed Fast Break (Type A) [VL: 14] [Ping: 17] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-375.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:06] OnionDoesStuff failed Fast Break (Type A) [VL: 15] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-209.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:32] OnionDoesStuff failed Fast Break (Type A) [VL: 1] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-221.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:33] OnionDoesStuff failed Fast Break (Type A) [VL: 2] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-206.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:34] OnionDoesStuff failed Fast Break (Type A) [VL: 3] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-416.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:35] OnionDoesStuff failed Fast Break (Type A) [VL: 4] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-276.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:36] OnionDoesStuff failed Fast Break (Type A) [VL: 5] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-211.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:36] OnionDoesStuff failed Fast Break (Type A) [VL: 6] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-217.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:38] OnionDoesStuff failed Fast Break (Type A) [VL: 7] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-365.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:39] OnionDoesStuff failed Fast Break (Type A) [VL: 8] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-526.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:39] OnionDoesStuff failed Fast Break (Type A) [VL: 9] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-527.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:40] OnionDoesStuff failed Fast Break (Type A) [VL: 10] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-221.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:41] OnionDoesStuff failed Fast Break (Type A) [VL: 11] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-313.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:42] OnionDoesStuff failed Fast Break (Type A) [VL: 12] [Ping: 8] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-939.0 tool=STONE_PICKAXE
+[04-22-2022] [14:59:43] OnionDoesStuff failed Fast Break (Type A) [VL: 13] [Ping: 15] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=IRON_ORE diff=-728.0 tool=STONE_PICKAXE
+[04-23-2022] [09:17:58] ClayGoddessSari failed Bad Packets (Type M) [VL: 1] [Ping: 29] [TPS: 20] [Version: 1.18] [Client: Fabric] delay=67
+[04-23-2022] [14:58:41] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 1] [Ping: 51] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-23-2022] [14:58:41] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 2] [Ping: 51] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-23-2022] [14:58:41] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 3] [Ping: 51] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-23-2022] [14:58:53] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 4] [Ping: 58] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-23-2022] [14:58:53] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 5] [Ping: 58] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-24-2022] [11:45:01] PhysicalLogic failed Scaffold (Type D) [VL: 1] [Ping: 253] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] rotation=238
+[04-24-2022] [11:45:02] PhysicalLogic failed Scaffold (Type D) [VL: 2] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] rotation=803
+[04-24-2022] [11:45:02] PhysicalLogic failed Scaffold (Type H) [VL: 1] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] final=-30.382766763711206
+[04-24-2022] [11:45:02] PhysicalLogic failed Scaffold (Type G) [VL: 1] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] angle=0.73459214 delay=154 acceleration=6.422585052318075E-5
+[04-24-2022] [11:45:02] PhysicalLogic failed Scaffold (Type D) [VL: 3] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] rotation=186
+[04-24-2022] [11:45:03] PhysicalLogic failed Scaffold (Type D) [VL: 4] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] rotation=308
+[04-24-2022] [11:45:03] PhysicalLogic failed Scaffold (Type H) [VL: 2] [Ping: 231] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] final=254.12383282859406
+[04-24-2022] [11:45:38] PhysicalLogic failed Scaffold (Type D) [VL: 1] [Ping: 191] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] rotation=263
+[04-24-2022] [11:45:38] PhysicalLogic failed Scaffold (Type H) [VL: 1] [Ping: 191] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] final=-27.187674908466708
+[04-24-2022] [14:50:00] Manvirdd102 failed Fast Break (Type A) [VL: 1] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-331.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [14:50:00] Manvirdd102 failed Fast Break (Type A) [VL: 2] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-330.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [14:50:00] Manvirdd102 failed Fast Break (Type A) [VL: 3] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-330.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [14:50:00] Manvirdd102 failed Fast Break (Type A) [VL: 4] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-329.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [14:50:00] Manvirdd102 failed Fast Break (Type A) [VL: 5] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-329.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [14:50:00] Manvirdd102 failed Fast Break (Type A) [VL: 6] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-329.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [14:50:01] Manvirdd102 failed Fast Break (Type A) [VL: 7] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-328.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [14:50:01] Manvirdd102 failed Fast Break (Type A) [VL: 8] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-328.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [14:50:01] Manvirdd102 failed Fast Break (Type A) [VL: 9] [Ping: 25] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-327.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [16:36:03] Manvirdd102 failed Fast Break (Type A) [VL: 1] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=END_STONE diff=-131.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [16:36:03] Manvirdd102 failed Fast Break (Type A) [VL: 2] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=END_STONE diff=-130.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [16:36:03] Manvirdd102 failed Fast Break (Type A) [VL: 3] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=EMERALD_BLOCK diff=-130.0 tool=NETHERITE_PICKAXE
+[04-24-2022] [18:47:20] FI1ZY failed Invalid *(Type A)* [VL: 1] [Ping: 48] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] dXZ=3.9239682603077943 max=1.2000000476837158
+[04-24-2022] [20:34:38] GorgonThor10 failed Jesus (Type E) [VL: 1] [Ping: 81] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.18997186830530355
+[04-24-2022] [20:34:39] GorgonThor10 failed Jesus (Type B) [VL: 1] [Ping: 81] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.005000000000002558 deltaXZ=0.1738027866866712
+[04-24-2022] [23:58:18] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:02:35] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 1] [Ping: 86] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:02:35] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 2] [Ping: 86] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:05:01] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 3] [Ping: 86] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:05:11] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 4] [Ping: 85] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:08:47] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 1] [Ping: 84] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:08:49] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 2] [Ping: 84] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:08:49] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 3] [Ping: 84] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:08:49] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 4] [Ping: 84] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:08:50] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 5] [Ping: 84] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:09:13] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 1] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:09:13] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 2] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:09:13] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 3] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:09:13] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 4] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:09:34] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 5] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:09:47] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:09:47] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:09:47] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [00:10:05] DragonFuryPlayz failed Ground Spoof (Type B) [VL: 4] [Ping: 22] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[04-25-2022] [07:19:39] HayleyGrinnell failed Jesus (Type E) [VL: 1] [Ping: 92] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.21507389555527656
+[04-26-2022] [02:01:17] sidewardlamb86 failed Motion (Type A) [VL: 1] [Ping: 59] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=3.9000000000000057
+[04-26-2022] [02:01:17] sidewardlamb86 failed Motion (Type A) [VL: 2] [Ping: 59] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=3.9000000000000057
+[04-26-2022] [02:01:17] sidewardlamb86 failed Motion (Type A) [VL: 3] [Ping: 59] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=3.9000000000000057
+[04-26-2022] [02:01:17] sidewardlamb86 failed Motion (Type A) [VL: 4] [Ping: 59] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=3.9000000000000057
+[04-26-2022] [02:01:17] sidewardlamb86 failed Motion (Type A) [VL: 5] [Ping: 60] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=3.9000000000000057
+[04-26-2022] [02:01:53] sidewardlamb86 failed Motion (Type A) [VL: 6] [Ping: 61] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=3.9000000000000057
+[04-26-2022] [02:02:03] sidewardlamb86 failed Motion (Type A) [VL: 7] [Ping: 62] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=3.9000000000000057
+[04-26-2022] [02:02:04] sidewardlamb86 failed Motion (Type A) [VL: 8] [Ping: 62] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=3.9000000000000057
+[04-26-2022] [03:39:25] Tommyguns1995 failed Invalid *(Type A)* [VL: 1] [Ping: 85] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] dXZ=3.3557781483783033 max=1.2000000476837158
+[04-26-2022] [04:33:22] Tommyguns1995 failed Flight (Type B) [VL: 1] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03999999910593033 difference=0.07920000074505808 ticks=11 delay=1 tp=119
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 2] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03999999910593033 difference=0.07920000074505808 ticks=13 delay=50 tp=121
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 3] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=0.03920000163912775 ticks=15 delay=51 tp=123
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 4] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.045000000298024645 difference=0.057900001704690035 ticks=17 delay=50 tp=125
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 5] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.010500001281499749 difference=0.12768000216722564 ticks=19 delay=56 tp=127
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 6] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.02737499833852297 difference=0.09132000108719421 ticks=21 delay=59 tp=129
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 7] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.036843748243526875 difference=0.08223000081717935 ticks=23 delay=36 tp=131
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 8] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.046999998867512716 difference=0.08620000050664046 ticks=25 delay=33 tp=133
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 9] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.24700001287460083 difference=0.007800002890827884 ticks=27 delay=49 tp=135
+[04-26-2022] [04:33:23] Tommyguns1995 failed Flight (Type B) [VL: 10] [Ping: 540] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=2.402493321664339 ticks=30 delay=0 tp=1
+[04-26-2022] [08:37:27] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=88
+[04-26-2022] [08:37:27] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 110] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=9 delay=1
+[04-26-2022] [08:37:27] HayleyGrinnell failed Fast Place *(Type B)* [VL: 3] [Ping: 110] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=9 delay=0
+[04-26-2022] [08:37:57] HayleyGrinnell failed Fast Place *(Type B)* [VL: 4] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=75
+[04-26-2022] [08:37:57] HayleyGrinnell failed Fast Place *(Type B)* [VL: 5] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=102
+[04-26-2022] [08:37:58] HayleyGrinnell failed Fast Place *(Type B)* [VL: 6] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=27 delay=84
+[04-26-2022] [08:39:49] HayleyGrinnell failed Fast Place *(Type B)* [VL: 7] [Ping: 99] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=61
+[04-26-2022] [08:39:49] HayleyGrinnell failed Fast Place *(Type B)* [VL: 8] [Ping: 99] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=66
+[04-26-2022] [08:39:49] HayleyGrinnell failed Fast Place *(Type B)* [VL: 9] [Ping: 99] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=71
+[04-26-2022] [08:40:31] HayleyGrinnell failed Fast Place *(Type B)* [VL: 10] [Ping: 88] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=66
+[04-26-2022] [08:40:31] HayleyGrinnell failed Fast Place *(Type B)* [VL: 11] [Ping: 88] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=9 delay=103
+[04-26-2022] [08:40:31] HayleyGrinnell failed Fast Place *(Type B)* [VL: 12] [Ping: 88] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=9 delay=101
+[04-26-2022] [08:42:36] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 85] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=9 delay=89
+[04-26-2022] [08:42:36] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 85] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=0
+[04-26-2022] [08:44:42] HayleyGrinnell failed Fast Place *(Type B)* [VL: 3] [Ping: 89] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=65
+[04-26-2022] [08:44:43] HayleyGrinnell failed Fast Place *(Type B)* [VL: 4] [Ping: 89] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] blocks=6 delay=67
+[04-26-2022] [16:01:10] HiImGhost failed Motion (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-26-2022] [16:01:11] HiImGhost failed Motion (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-26-2022] [16:01:11] HiImGhost failed Motion (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-26-2022] [16:01:36] HiImGhost failed Motion (Type A) [VL: 4] [Ping: 55] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-26-2022] [16:01:37] HiImGhost failed Motion (Type A) [VL: 5] [Ping: 55] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-26-2022] [16:01:37] HiImGhost failed Motion (Type A) [VL: 6] [Ping: 55] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-26-2022] [16:01:38] HiImGhost failed Motion (Type A) [VL: 7] [Ping: 55] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=5.0
+[04-27-2022] [17:07:24] Natan0108 failed Strafe (Type A) [VL: 1] [Ping: 80] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] difference=0.03648395323103441 deltaXZ=0.2784825601279408
