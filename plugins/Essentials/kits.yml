@@ -14,7 +14,12 @@
 # Essentials will treat all .yml files in the `kits` subdirectory as kits files, and will add any kits from those files along with the kits in `kits.yml`.
 # Any file in the `kits` subdirectory must be formatted in the same way as this file. This allows you to define multiple kits in each file.
 # For more information, visit http://wiki.ess3.net/wiki/Kits
-kits: []
+kits:
+  claim:
+    delay: 900
+    items:
+      - golden_shovel 1
+      - stick 1
 #  tools:
 #    delay: 10
 #    items:
@@ -44,3 +49,4 @@ kits: []
 #      - fireworkrocket 1 name:Angry_Creeper color:red fade:green type:creeper power:1
 #      - fireworkrocket 1 name:Starry_Night color:yellow,orange fade:blue type:star effect:trail,twinkle power:1
 #      - fireworkrocket 2 name:Solar_Wind color:yellow,orange fade:red shape:large effect:twinkle color:yellow,orange fade:red shape:ball effect:trail color:red,purple fade:pink shape:star effect:trail power:1
+

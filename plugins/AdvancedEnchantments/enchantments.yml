@@ -1412,30 +1412,6 @@ dodge:
       effects:
         - "STOP_ATTACK"
         - "PLAY_SOUND:ENTITY_BAT_TAKEOFF:0.7 %victim%"
-enderroots:
-  display: "%group-color%Enderroots"
-  description: "Chance of disabling enderpearls for your\nenemy."
-  applies-to: "Swords"
-  type: "ATTACK;ATTACK_MOB"
-  group: "LEGENDARY"
-  applies:
-    - ALL_SWORD
-  levels:
-    1:
-      chance: 15
-      cooldown: 180
-      effects:
-        - "CANCEL_USE:enderpearl:100 %victim%"
-    2:
-      chance: 23
-      cooldown: 120
-      effects:
-        - "CANCEL_USE:enderpearl:100 %victim%"
-    3:
-      chance: 31
-      cooldown: 60
-      effects:
-        - "CANCEL_USE:enderpearl:100 %victim%"
 momentum:
   display: "%group-color%Momentum"
   description: "Chance to gain speed boost with fireworks."
