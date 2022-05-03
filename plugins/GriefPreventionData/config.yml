@@ -22,19 +22,19 @@ GriefPrevention:
     ProtectHorses: true
     ProtectDonkeys: true
     ProtectLlamas: true
-    InitialBlocks: 500
+    InitialBlocks: 1000
     Claim Blocks Accrued Per Hour:
       Default: 0
     Max Accrued Claim Blocks:
-      Default: 97500
+      Default: 98000
     Accrued Idle Threshold: -1
     AccruedIdlePercent: 100
     AbandonReturnRatio: 1.0
     AutomaticNewPlayerClaimsRadius: 4
     AutomaticNewPlayerClaimsRadiusMinimum: 0
-    ExtendIntoGroundDistance: 5
-    MinimumWidth: 10
-    MinimumArea: 100
+    ExtendIntoGroundDistance: 8
+    MinimumWidth: 16
+    MinimumArea: 256
     MaximumDepth: -2147483648
     InvestigationTool: STICK
     ModificationTool: GOLDEN_SHOVEL
