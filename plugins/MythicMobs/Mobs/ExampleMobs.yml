@@ -10,6 +10,7 @@ SkeletalKnight:
   Damage: 5
   Skills:
   - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
+  - command{c="soulsadmin add <target.name> 1"} @trigger ~onDeath
   Modules:
     ThreatTable: true
   Equipment:
@@ -34,6 +35,7 @@ SkeletonKing:
   Damage: 7
   Skills:
   - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
+  - command{c="soulsadmin add <target.name> 1"} @trigger ~onDeath
   - skill{s=SummonSkeletons} @self 0.1
   - skill{s=SmashAttack} @target >0 0.2
   Modules:
@@ -54,6 +56,7 @@ SkeletalMinion:
   Display: '&aSkeletal Minion'
   Skills:
   - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
+  - command{c="soulsadmin add <target.name> 1"} @trigger ~onDeath
   Modules:
     ThreatTable: true
   Health: 10
@@ -77,5 +80,6 @@ AngrySludge:
     ThreatTable: true
   Skills:
   - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
+  - command{c="soulsadmin add <target.name> 1"} @trigger ~onDeath
   - skill{s=AngrySludgePoison} 0.2
   - blockmask{material=SLIME_BLOCK;r=1;duration=100} @self ~onTimer:20
