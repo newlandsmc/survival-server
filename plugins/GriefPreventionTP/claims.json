@@ -1,0 +1,207 @@
+[
+  {
+    "claimID": 58,
+    "owner": "b05b6caf-16a6-4a30-b2e1-1034e625ef87",
+    "spawn": {
+      "x": 11974.0,
+      "y": 112.0,
+      "z": 2116.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 79.80001,
+      "yaw": -6.3068323
+    },
+    "isPublic": false,
+    "name": "Witch"
+  },
+  {
+    "claimID": 3,
+    "owner": "8653b5db-09de-461f-bd69-8235dc9d385d",
+    "spawn": {
+      "x": 5201.0,
+      "y": 62.0,
+      "z": 4205.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 17.549845,
+      "yaw": 92.04488
+    },
+    "isPublic": false,
+    "name": "Baconton",
+    "ownerName": "bacongrubber"
+  },
+  {
+    "claimID": 11,
+    "owner": "8653b5db-09de-461f-bd69-8235dc9d385d",
+    "spawn": {
+      "x": 3817.0,
+      "y": -4.0,
+      "z": 10566.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 29.100193,
+      "yaw": -178.7204
+    },
+    "isPublic": false,
+    "name": "AxelFarm",
+    "ownerName": "bacongrubber"
+  },
+  {
+    "claimID": 9,
+    "owner": "8653b5db-09de-461f-bd69-8235dc9d385d",
+    "spawn": {
+      "x": 9360.0,
+      "y": 66.0,
+      "z": 5451.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 33.899696,
+      "yaw": 174.39214
+    },
+    "isPublic": false,
+    "name": "PorkRoll",
+    "ownerName": "bacongrubber"
+  },
+  {
+    "claimID": 56,
+    "owner": "b05b6caf-16a6-4a30-b2e1-1034e625ef87",
+    "spawn": {
+      "x": 11551.0,
+      "y": 13.0,
+      "z": -12604.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 31.6496,
+      "yaw": -1.0430588
+    },
+    "isPublic": false,
+    "name": "Sari"
+  },
+  {
+    "claimID": 109,
+    "owner": "777dbac9-55a2-470a-b294-142ab2e7ed79",
+    "spawn": {
+      "x": 5417.0,
+      "y": 69.0,
+      "z": 3882.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 28.250603,
+      "yaw": 87.97467
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "AlwaysInRhythm"
+  },
+  {
+    "claimID": 100,
+    "owner": "8653b5db-09de-461f-bd69-8235dc9d385d",
+    "spawn": {
+      "x": 1705.0,
+      "y": 63.0,
+      "z": 12595.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 16.049871,
+      "yaw": -85.83037
+    },
+    "isPublic": false,
+    "name": "Desert",
+    "ownerName": "bacongrubber"
+  },
+  {
+    "claimID": 110,
+    "owner": "a04b5b6d-a0ba-472f-a68b-b61cc8bb0db6",
+    "spawn": {
+      "x": -11175.0,
+      "y": 131.0,
+      "z": 1396.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": -4.650207,
+      "yaw": 89.99951
+    },
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "Astronomy_Fox"
+  },
+  {
+    "claimID": 88,
+    "owner": "b05b6caf-16a6-4a30-b2e1-1034e625ef87",
+    "spawn": {
+      "x": 12701.0,
+      "y": 63.0,
+      "z": -14349.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 45.44958,
+      "yaw": -160.47467
+    },
+    "isPublic": false,
+    "name": "Guardian"
+  },
+  {
+    "claimID": 102,
+    "owner": "eddc6586-8475-4778-b043-0e0588389596",
+    "spawn": {
+      "x": 7858.0,
+      "y": 75.0,
+      "z": 8521.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 9.749997,
+      "yaw": 114.750244
+    },
+    "isPublic": false,
+    "name": "cliffside",
+    "ownerName": "Bageroth"
+  },
+  {
+    "claimID": 57,
+    "owner": "b05b6caf-16a6-4a30-b2e1-1034e625ef87",
+    "spawn": {
+      "x": 12131.0,
+      "y": -42.0,
+      "z": -12989.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 42.600292,
+      "yaw": -88.15747
+    },
+    "isPublic": true,
+    "name": "End",
+    "ownerName": "ClayGoddessSari"
+  },
+  {
+    "claimID": 103,
+    "owner": "8653b5db-09de-461f-bd69-8235dc9d385d",
+    "spawn": {
+      "x": -14989.0,
+      "y": 125.0,
+      "z": -14991.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 29.40078,
+      "yaw": -167.92012
+    },
+    "isPublic": false,
+    "name": "NorthWest",
+    "ownerName": "bacongrubber"
+  },
+  {
+    "claimID": 108,
+    "owner": "8653b5db-09de-461f-bd69-8235dc9d385d",
+    "spawn": {
+      "x": -14528.0,
+      "y": 73.0,
+      "z": -10099.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 13.799738,
+      "yaw": 112.584
+    },
+    "isPublic": false,
+    "name": "MountainTwn",
+    "ownerName": "bacongrubber"
+  }
+]

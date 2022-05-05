@@ -85,11 +85,11 @@ items:
       - 'info website'
 links:
   store: 'https://store.semivanilla.com'
-  map: 'https://asthonia.com/map'
-  vote: 'https://asthonia.com/vote'
-  website: 'https://asthonia.com'
+  map: 'https://semivanilla.com/asthonia/map'
+  vote: 'https://semivanilla.com/vote'
+  website: 'https://semivanilla.com/asthonia'
   discord: 'https://discord.gg/3WzZ3x6wGp'
-  rules: 'https://asthonia.com/rules'
+  rules: 'https://semivanilla.com/asthonia/rules'
 
 book:
   help:

@@ -2591,3 +2591,5 @@
 [05-03-2022] [19:29:27] HayleyGrinnell failed Fast Place *(Type B)* [VL: 7] [Ping: 135] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=0
 [05-03-2022] [19:30:47] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=64
 [05-03-2022] [19:31:10] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 94] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=9 delay=101
+[05-05-2022] [03:03:33] AlwaysInRhythm failed Strafe (Type A) [VL: 1] [Ping: 55] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] difference=0.011760330901116247 deltaXZ=0.3072254339385836
+[05-05-2022] [03:53:08] Orionsayshi failed Timer (Type D) [VL: 8] [Ping: 1616] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] balance=100 delay=0

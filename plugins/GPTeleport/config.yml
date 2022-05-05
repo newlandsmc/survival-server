@@ -1,6 +1,0 @@
-cooldown:
-  enable: true
-  time: 15
-warmup:
-  enable: true
-  time: 5

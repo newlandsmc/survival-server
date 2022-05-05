@@ -56,7 +56,7 @@ messages:
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
     - ''
     - 'Vote every day to support the server and get'
-    - 'rewarded for it! <click:open_url:https://asthonia.com/vote><gradient:aqua:dark_purple>https://asthonia.com/vote</gradient></click>'
+    - 'rewarded for it! <click:open_url:https://semivanilla.com/vote><gradient:aqua:dark_purple>https://semivanilla.com/vote</gradient></click>'
     - ''
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
   1:
@@ -77,16 +77,16 @@ messages:
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
     - ''
     - 'Check the map! It shows players and claims in'
-    - 'real time! <click:open_url:https://asthonia.com/map><gradient:aqua:dark_purple>https://asthonia.com/map</gradient></click>!'
+    - 'real time! <click:open_url:https://semivanilla.com/asthonia/map><gradient:aqua:dark_purple>https://semivanilla.com/asthonia/map</gradient></click>!'
     - ''
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
-#  4:
-#    - '<gradient:yellow:red:yellow><strikethrough>                                                                 <reset>'
-#    - ''
-#    - 'Want to keep your items when you die? Make them'
-#    - 'SoulBound with <click:run_command:/soulbind><gradient:#ac2626:#720a0a>/soulbind</gradient></click>! <gray>(Coming soon)</gray>'
-#    - ''
-#    - '<gradient:yellow:red:yellow><strikethrough>                                                                 <reset>'
+  4:
+    - '<gradient:yellow:red:yellow><strikethrough>                                                                 <reset>'
+    - ''
+    - 'Want to keep your items when you die? Make them'
+    - 'SoulBound with <click:run_command:/soulbind><gradient:#ac2626:#720a0a>/soulbind</gradient></click>!'
+    - ''
+    - '<gradient:yellow:red:yellow><strikethrough>                                                                 <reset>'
   6:
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
     - ''
@@ -112,7 +112,7 @@ messages:
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
     - ''
     - 'Unclaimed land can be griefed! Make sure you claim'
-    - 'your land. <click:open_url:https://asthonia.com/claiming><gradient:aqua:dark_purple>https://asthonia.com/claiming</gradient></click>'
+    - 'your land. <click:open_url:https://semivanilla.com/asthonia/claiming><gradient:aqua:dark_purple>https://semivanilla.com/asthonia/claiming</gradient></click>'
     - ''
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
   11:

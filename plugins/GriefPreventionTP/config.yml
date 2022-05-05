@@ -1,0 +1,18 @@
+messages:
+  claim-created: '<green>Claim created! Spawn block set to %1 %2 %3. You can change it by typing /setspawn.'
+  must-be-standing-in-claim: '<red>You must be standing in a claim!'
+  no-permission: '<red>You do not own this claim, or do not have permission to do that!'
+  teleporting: '<yellow>Teleporting in 5 seconds, don''t move...'
+  moved: '<red>Pending teleportation request cancelled.'
+  damaged: '<red>Pending teleportation request cancelled.'
+  public-on: '<green>Your claim is now public!'
+  public-off: '<green>Your claim is no longer public!'
+  updated-spawn: '<green>Spawn block set to %1 %2 %3.'
+  name-too-long: '<red>The name you entered is too long!'
+  updated-name: '<green>Updated the name of your claim to %1.'
+  no-spawn-set: '<red>This claim does not have a spawn block set yet! Use /setspawn to set one.'
+teleport:
+  warmup:
+    enabled: true
+    seconds: 5
+max-claim-name-length: 32
