@@ -44,7 +44,8 @@ header:
 footer:
 - " &m      &8&m[  &r   &8&m  ]&f&m      &r "
 #- ""
-- " %online-players%/%max-players% Online "
+- " %bungee_total%/150 Online "
+- " (%online-players% Here) "
 - " &7Ping: %ping% "
 #- ""
 

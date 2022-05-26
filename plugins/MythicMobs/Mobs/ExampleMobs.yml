@@ -5,7 +5,7 @@
 
 SkeletalKnight:
   Type: WITHER_SKELETON
-  Display: '&aSkeletal Knight'
+  Display: '&6Skeletal Knight'
   Health: 30
   Damage: 5
   Skills:
@@ -30,12 +30,12 @@ SkeletalKnight:
 
 SkeletonKing:
   Type: WITHER_SKELETON
-  Display: '&aSkeleton King'
+  Display: '&6Skeleton King'
   Health: 100
   Damage: 7
   Skills:
-  - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
   - command{c="soulsadmin add <target.name> 1"} @trigger ~onDeath
+  - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
   - skill{s=SummonSkeletons} @self 0.1
   - skill{s=SmashAttack} @target >0 0.2
   Modules:
@@ -53,10 +53,10 @@ SkeletonKing:
 
 SkeletalMinion:
   Type: SKELETON
-  Display: '&aSkeletal Minion'
+  Display: '&6Skeletal Minion'
   Skills:
-  - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
   - command{c="soulsadmin add <target.name> 1"} @trigger ~onDeath
+  - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
   Modules:
     ThreatTable: true
   Health: 10
@@ -66,7 +66,7 @@ SkeletalMinion:
 
 AngrySludge:
   Type: SLIME
-  Display: '&aAngry Sludge'
+  Display: '&6Angry Sludge'
   Health: 100
   Damage: 2
   Options:
@@ -79,7 +79,7 @@ AngrySludge:
   Modules:
     ThreatTable: true
   Skills:
-  - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
   - command{c="soulsadmin add <target.name> 1"} @trigger ~onDeath
+  - skill{s=AURELIUM_LEVEL_SET_ON_COMBAT} ~onEnterCombat
   - skill{s=AngrySludgePoison} 0.2
   - blockmask{material=SLIME_BLOCK;r=1;duration=100} @self ~onTimer:20

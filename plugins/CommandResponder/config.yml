@@ -1,6 +1,6 @@
 spawn:
   enabled: true
-  message: "<red>There is no spawn on this server! Everyone spawns somewhere random."
+  message: "<red>There is no spawn on this server! Looking for the lobby? Do /lobby."
 lobby:
   enabled: true
   message: "<red>There is no spawn on this server! Everyone spawns somewhere random."
@@ -9,10 +9,10 @@ back:
   message: "<red>There is no /back on this server!"
 sethome:
   enabled: true
-  message: "<red>To set a home, create a Land! Use /lands help to get started."
+  message: "<red>To set a home, claim some land! Use /claim to get started."
 home:
   enabled: true
-  message: "<red>To set a home, create a Land! Use /lands help to get started."
+  message: "<red>To set a home, claim some land! Use /claim to get started."
 homes:
   enabled: true
-  message: "<red>To set a home, create a Land! Use /lands help to get started."
+  message: "<red>To set a home, claim some land! Use /claim to get started."

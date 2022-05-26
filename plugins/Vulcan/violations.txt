@@ -2593,3 +2593,643 @@
 [05-03-2022] [19:31:10] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 94] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=9 delay=101
 [05-05-2022] [03:03:33] AlwaysInRhythm failed Strafe (Type A) [VL: 1] [Ping: 55] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] difference=0.011760330901116247 deltaXZ=0.3072254339385836
 [05-05-2022] [03:53:08] Orionsayshi failed Timer (Type D) [VL: 8] [Ping: 1616] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] balance=100 delay=0
+[05-05-2022] [21:14:07] Toine1 failed Strafe (Type A) [VL: 1] [Ping: 104] [TPS: 20] [Version: 1.18] [Client: Vanilla] difference=0.008643243836091958 deltaXZ=0.27605129474159185
+[05-06-2022] [02:21:19] bacongrubber failed Jesus (Type C) [VL: 1] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-06-2022] [02:21:22] bacongrubber failed Jesus (Type C) [VL: 2] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-06-2022] [02:21:25] bacongrubber failed Jesus (Type C) [VL: 3] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-06-2022] [02:28:46] Dragonsongbird3 failed Flight (Type B) [VL: 1] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.13305696001690137 difference=0.09133718387890385 ticks=133 delay=0 tp=117
+[05-06-2022] [02:28:46] Dragonsongbird3 failed Flight (Type B) [VL: 2] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.14815645575658465 difference=0.08793979725310239 ticks=135 delay=104 tp=119
+[05-06-2022] [02:28:46] Dragonsongbird3 failed Flight (Type B) [VL: 3] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1578201333179834 difference=0.08576546974778766 ticks=137 delay=14 tp=121
+[05-06-2022] [02:28:46] Dragonsongbird3 failed Flight (Type B) [VL: 4] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.16400488714159422 difference=0.08437390010291375 ticks=139 delay=0 tp=123
+[05-06-2022] [02:28:46] Dragonsongbird3 failed Flight (Type B) [VL: 5] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1679631297066706 difference=0.08348329550364762 ticks=141 delay=76 tp=125
+[05-06-2022] [02:28:46] Dragonsongbird3 failed Flight (Type B) [VL: 6] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1704964050238189 difference=0.08291330854313467 ticks=143 delay=1 tp=127
+[05-06-2022] [02:28:46] Dragonsongbird3 failed Flight (Type B) [VL: 7] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17211770127511272 difference=0.08254851687753817 ticks=145 delay=81 tp=129
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 8] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17315533090686586 difference=0.08231505020459493 ticks=147 delay=67 tp=131
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 9] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17381941389097477 difference=0.08216563152945885 ticks=149 delay=4 tp=133
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 10] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17424442701347687 difference=0.08207000357452514 ticks=151 delay=76 tp=135
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 11] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17451643541998152 difference=0.08200880168153951 ticks=153 delay=87 tp=137
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 12] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17469052080532776 difference=0.0819696324688631 ticks=155 delay=73 tp=139
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 13] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1748019354552781 difference=0.08194456417200123 ticks=157 delay=96 tp=141
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 14] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17487324083336375 difference=0.08192852046153057 ticks=159 delay=8 tp=143
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 15] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17491887627670621 difference=0.08191825248653303 ticks=161 delay=73 tp=145
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 16] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749480829613077 difference=0.0819116809823271 ticks=163 delay=58 tp=147
+[05-06-2022] [02:28:47] Dragonsongbird3 failed Flight (Type B) [VL: 17] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749667752400157 difference=0.08190747521951508 ticks=165 delay=53 tp=149
+[05-06-2022] [02:28:48] Dragonsongbird3 failed Flight (Type B) [VL: 18] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17497873829874067 difference=0.08190478353122913 ticks=167 delay=0 tp=151
+[05-06-2022] [02:28:48] Dragonsongbird3 failed Flight (Type B) [VL: 19] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17498639465655685 difference=0.08190306085068591 ticks=169 delay=10 tp=153
+[05-06-2022] [02:28:48] Dragonsongbird3 failed Flight (Type B) [VL: 20] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749912947257073 difference=0.0819019583351025 ticks=171 delay=100 tp=155
+[05-06-2022] [02:28:48] Dragonsongbird3 failed Flight (Type B) [VL: 21] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499443077004884 difference=0.08190125272509963 ticks=173 delay=22 tp=157
+[05-06-2022] [02:28:48] Dragonsongbird3 failed Flight (Type B) [VL: 22] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749964378384945 difference=0.08190080113469328 ticks=175 delay=30 tp=159
+[05-06-2022] [02:28:48] Dragonsongbird3 failed Flight (Type B) [VL: 23] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499772236233468 difference=0.08190051211681776 ticks=177 delay=108 tp=161
+[05-06-2022] [02:28:48] Dragonsongbird3 failed Flight (Type B) [VL: 24] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499854445761542 difference=0.08190032714537565 ticks=179 delay=40 tp=163
+[05-06-2022] [02:28:48] Dragonsongbird3 failed Flight (Type B) [VL: 25] [Ping: 552] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.13499907149268608 difference=0.04190020965771975 ticks=181 delay=11 tp=165
+[05-06-2022] [02:30:25] Bageroth failed Step (Type C) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] ticks=8 deltaY=-0.8775135022631275 distance=0.8775135
+[05-06-2022] [18:14:20] Toine1 failed Wall Climb (Type A) [VL: 1] [Ping: 108] [TPS: 20] [Version: 1.18] [Client: Vanilla] deltaY=0.16477328182605788 ticks=27
+[05-06-2022] [20:34:15] distruction_bean failed Motion (Type D) [VL: 1] [Ping: 81] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=2.59225177501321E-6
+[05-06-2022] [20:34:16] distruction_bean failed Motion (Type D) [VL: 2] [Ping: 81] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=1.8145762368249052E-6
+[05-07-2022] [17:08:07] SownPlatypus378 failed Fast Break (Type A) [VL: 1] [Ping: 64] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OAK_LOG diff=-900.0 tool=COOKED_BEEF
+[05-07-2022] [17:08:14] SownPlatypus378 failed Ground Spoof (Type B) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:14] SownPlatypus378 failed Ground Spoof (Type B) [VL: 2] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:14] SownPlatypus378 failed Ground Spoof (Type B) [VL: 3] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:14] SownPlatypus378 failed Ground Spoof (Type B) [VL: 4] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:14] SownPlatypus378 failed Ground Spoof (Type B) [VL: 5] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:25] SownPlatypus378 failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:25] SownPlatypus378 failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:25] SownPlatypus378 failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:25] SownPlatypus378 failed Ground Spoof (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:08:25] SownPlatypus378 failed Ground Spoof (Type B) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:09:21] SownPlatypus378 failed Ground Spoof (Type B) [VL: 1] [Ping: 53] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:09:21] SownPlatypus378 failed Ground Spoof (Type B) [VL: 2] [Ping: 53] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:09:21] SownPlatypus378 failed Ground Spoof (Type B) [VL: 3] [Ping: 53] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:09:21] SownPlatypus378 failed Ground Spoof (Type B) [VL: 4] [Ping: 53] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:09:21] SownPlatypus378 failed Ground Spoof (Type B) [VL: 5] [Ping: 53] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] client=true server=false
+[05-07-2022] [17:50:38] Tamet failed Fast Break (Type A) [VL: 1] [Ping: 14] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-153.0 tool=STONE_AXE
+[05-07-2022] [17:50:41] Tamet failed Fast Break (Type A) [VL: 2] [Ping: 14] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=CRAFTING_TABLE diff=-280.0 tool=STONE_AXE
+[05-07-2022] [18:51:54] PhysicalLogic failed Bad Packets (Type V) [VL: 1] [Ping: 343] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] vehicle=null entities=[]
+[05-07-2022] [19:45:07] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 1] [Ping: 7] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:45:07] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 2] [Ping: 7] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:45:07] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 3] [Ping: 7] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:45:07] XxDADOTRONxX failed Jesus (Type A) [VL: 1] [Ping: 7] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[05-07-2022] [19:46:39] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:46:39] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:46:39] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 3] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:46:39] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 4] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:46:40] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 5] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:47:02] XxDADOTRONxX failed Strafe (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] forward=-1.0 strafe=1.0 deltaXZ=0.3091552868221748
+[05-07-2022] [19:48:07] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 1] [Ping: 20] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:07] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 2] [Ping: 20] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:07] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 3] [Ping: 20] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:07] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 4] [Ping: 20] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:08] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 5] [Ping: 20] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:17] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:17] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:17] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:17] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:48:17] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:49:00] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 1] [Ping: 14] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:49:00] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 2] [Ping: 14] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:49:01] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 3] [Ping: 14] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:49:01] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 4] [Ping: 14] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [19:49:01] XxDADOTRONxX failed Ground Spoof (Type B) [VL: 5] [Ping: 14] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-07-2022] [23:19:57] bacongrubber failed Fast Break (Type A) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=CALCITE diff=-163.0 tool=NETHERITE_PICKAXE
+[05-07-2022] [23:19:57] bacongrubber failed Fast Break (Type A) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=CALCITE diff=-162.0 tool=NETHERITE_PICKAXE
+[05-07-2022] [23:19:57] bacongrubber failed Fast Break (Type A) [VL: 3] [Ping: 38] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=CALCITE diff=-162.0 tool=NETHERITE_PICKAXE
+[05-07-2022] [23:19:57] bacongrubber failed Fast Break (Type A) [VL: 4] [Ping: 38] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=CALCITE diff=-161.0 tool=NETHERITE_PICKAXE
+[05-07-2022] [23:19:57] bacongrubber failed Fast Break (Type A) [VL: 5] [Ping: 38] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=CALCITE diff=-161.0 tool=NETHERITE_PICKAXE
+[05-08-2022] [01:47:47] bacongrubber failed Jesus (Type C) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] deltaY=0.0
+[05-08-2022] [02:35:08] Dragonsongbird3 failed Jesus (Type C) [VL: 1] [Ping: 57] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-08-2022] [02:35:40] Dragonsongbird3 failed Jesus (Type C) [VL: 1] [Ping: 54] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-08-2022] [02:35:40] Dragonsongbird3 failed Jesus (Type C) [VL: 2] [Ping: 53] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-08-2022] [02:36:11] Dragonsongbird3 failed Jesus (Type C) [VL: 3] [Ping: 52] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-08-2022] [02:37:10] Dragonsongbird3 failed Jesus (Type C) [VL: 4] [Ping: 52] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-08-2022] [19:25:53] Endran failed Jesus (Type E) [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.19491353058644312
+[05-08-2022] [23:07:20] Frqmed_ failed Fast Break (Type A) [VL: 1] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=CALCITE diff=-190.0 tool=NETHERITE_PICKAXE
+[05-08-2022] [23:07:20] Frqmed_ failed Fast Break (Type A) [VL: 2] [Ping: 114] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=CALCITE diff=-189.0 tool=NETHERITE_PICKAXE
+[05-08-2022] [23:36:37] Frqmed_ failed Elytra (Type L) [VL: 1] [Ping: 115] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=1.4258680730452227 pitch=2.3734777 rt=46145
+[05-09-2022] [00:44:17] INeedBlocks failed Jesus (Type A) [VL: 1] [Ping: 53] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-09-2022] [00:44:17] INeedBlocks failed Jesus (Type B) [VL: 1] [Ping: 53] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.27175536701900815
+[05-09-2022] [02:04:39] Dragonsongbird3 failed Jesus (Type C) [VL: 1] [Ping: 86] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-09-2022] [02:06:12] bacongrubber failed Fast Break (Type A) [VL: 1] [Ping: 33] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=CALCITE diff=-128.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [13:00:15] bacongrubber failed Fast Break (Type A) [VL: 1] [Ping: 34] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-163.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [13:00:15] bacongrubber failed Fast Break (Type A) [VL: 2] [Ping: 34] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-162.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [13:00:16] bacongrubber failed Fast Break (Type A) [VL: 3] [Ping: 34] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-162.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [16:55:26] PhysicalLogic failed Jesus (Type B) [VL: 1] [Ping: 4414] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.0056309348339596 deltaXZ=0.1819331673822375
+[05-09-2022] [20:43:27] bacongrubber failed Fast Break (Type A) [VL: 1] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-203.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [20:43:27] bacongrubber failed Fast Break (Type A) [VL: 2] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=COBBLESTONE diff=-202.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [20:43:27] bacongrubber failed Fast Break (Type A) [VL: 3] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-202.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [20:43:27] bacongrubber failed Fast Break (Type A) [VL: 4] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-202.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [20:43:27] bacongrubber failed Fast Break (Type A) [VL: 5] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-201.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [20:43:27] bacongrubber failed Fast Break (Type A) [VL: 6] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=COBBLESTONE diff=-201.0 tool=NETHERITE_PICKAXE
+[05-09-2022] [20:43:27] bacongrubber failed Fast Break (Type A) [VL: 7] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-201.0 tool=NETHERITE_PICKAXE
+[05-10-2022] [01:46:05] ChillyBean369 failed Jesus (Type A) [VL: 1] [Ping: 619] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [01:46:28] ChillyBean369 failed Jesus (Type C) [VL: 1] [Ping: 686] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 1] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1330569600229623 difference=0.09133718387754187 ticks=235 delay=0 tp=233
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 2] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1481564557604642 difference=0.087939797252226 ticks=237 delay=0 tp=235
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 3] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.15782013332046319 difference=0.08576546974722449 ticks=239 delay=0 tp=237
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 4] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.16400488714318584 difference=0.08437390010255565 ticks=241 delay=0 tp=239
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 5] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.16796312970768668 difference=0.08348329550341727 ticks=243 delay=0 tp=241
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 6] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1704964050244726 difference=0.08291330854299456 ticks=245 delay=0 tp=243
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 7] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17211770127553194 difference=0.08254851687744907 ticks=247 delay=0 tp=245
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 8] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17315533090712876 difference=0.08231505020453751 ticks=249 delay=0 tp=247
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 9] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1738194138911453 difference=0.08216563152942048 ticks=251 delay=1 tp=249
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 10] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17424442701358345 difference=0.08207000357449941 ticks=253 delay=0 tp=251
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 11] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17451643542005257 difference=0.08200880168152701 ticks=255 delay=0 tp=253
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 12] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1746905208053775 difference=0.08196963246885713 ticks=257 delay=0 tp=255
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 13] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17480193545530653 difference=0.08194456417199483 ticks=259 delay=0 tp=257
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 14] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17487324083338507 difference=0.08192852046153098 ticks=261 delay=0 tp=259
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 15] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17491887627671332 difference=0.08191825248652622 ticks=263 delay=0 tp=261
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 16] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749480829613148 difference=0.08191168098232027 ticks=265 delay=0 tp=263
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 17] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749667752400228 difference=0.08190747521951522 ticks=267 delay=0 tp=265
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 18] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17497873829874777 difference=0.08190478353123623 ticks=269 delay=0 tp=267
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 19] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17498639465655685 difference=0.08190306085067894 ticks=271 delay=0 tp=269
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 20] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749912947257073 difference=0.08190195833509553 ticks=273 delay=1 tp=271
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 21] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499443077005594 difference=0.08190125272510673 ticks=275 delay=0 tp=273
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 22] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749964378384945 difference=0.08190080113469328 ticks=277 delay=0 tp=275
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 23] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499772236233468 difference=0.08190051211681776 ticks=279 delay=0 tp=277
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 24] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499854445761542 difference=0.08190032714537565 ticks=281 delay=0 tp=279
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 25] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749990705986164 difference=0.08190020876365008 ticks=283 delay=1 tp=281
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 26] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499940732886188 difference=0.08190013299933856 ticks=285 delay=0 tp=283
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 27] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499962283623205 difference=0.08190008451018557 ticks=287 delay=0 tp=285
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 28] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499976076094725 difference=0.08190005347712485 ticks=289 delay=0 tp=287
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 29] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17499984903276555 difference=0.08190003361596014 ticks=291 delay=0 tp=289
+[05-10-2022] [02:25:19] Dragonsongbird3 failed Flight (Type B) [VL: 30] [Ping: 3090] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1749999055267395 difference=0.08190002090482162 ticks=293 delay=0 tp=291
+[05-10-2022] [04:32:19] 1___Royal___1 failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-10-2022] [04:32:19] 1___Royal___1 failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-10-2022] [04:32:19] 1___Royal___1 failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-10-2022] [04:32:20] 1___Royal___1 failed Ground Spoof (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-10-2022] [04:32:20] 1___Royal___1 failed Ground Spoof (Type B) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-10-2022] [10:14:22] XoW_ failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Vanilla] client=true server=false
+[05-10-2022] [10:14:23] XoW_ failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Vanilla] client=true server=false
+[05-10-2022] [10:14:25] XoW_ failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18] [Client: Vanilla] client=true server=false
+[05-10-2022] [13:23:47] ChillyBean369 failed Timer (Type D) [VL: 8] [Ping: 519] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=100 delay=0
+[05-10-2022] [13:23:47] ChillyBean369 failed Timer (Type D) [VL: 9] [Ping: 519] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=100 delay=0
+[05-10-2022] [13:23:47] ChillyBean369 failed Timer (Type D) [VL: 10] [Ping: 519] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[05-10-2022] [13:24:36] ChillyBean369 failed Timer (Type D) [VL: 11] [Ping: 569] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=83 delay=0
+[05-10-2022] [13:59:52] ChillyBean369 failed Fast Place *(Type B)* [VL: 1] [Ping: 943] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=5 delay=0
+[05-10-2022] [13:59:52] ChillyBean369 failed Fast Place *(Type B)* [VL: 2] [Ping: 943] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=5 delay=0
+[05-10-2022] [14:31:30] ChillyBean369 failed Fast Break (Type A) [VL: 1] [Ping: 981] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=COAL_ORE diff=-707.0 tool=IRON_PICKAXE
+[05-10-2022] [15:21:32] PhysicalLogic failed Jesus (Type B) [VL: 1] [Ping: 174] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.009000000059607771 deltaXZ=0.11256276606611451
+[05-10-2022] [16:10:32] ChillyBean369 failed Jesus (Type A) [VL: 1] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:32] ChillyBean369 failed Jesus (Type B) [VL: 1] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.28145105650074087
+[05-10-2022] [16:10:32] ChillyBean369 failed Jesus (Type A) [VL: 2] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:32] ChillyBean369 failed Jesus (Type B) [VL: 2] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.28086247104925516
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type A) [VL: 3] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type B) [VL: 3] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2806870042703255
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type A) [VL: 4] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type B) [VL: 4] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2806346948036224
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type C) [VL: 1] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type E) [VL: 1] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.2806346948036224
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type A) [VL: 5] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type B) [VL: 5] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2806191005107121
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type A) [VL: 6] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type B) [VL: 6] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2806144516016754
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type A) [VL: 7] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type B) [VL: 7] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2806056064623861
+[05-10-2022] [16:10:33] ChillyBean369 failed Jesus (Type C) [VL: 2] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type A) [VL: 8] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type B) [VL: 8] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.28050321731593775
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type E) [VL: 2] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.28050321731593775
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type A) [VL: 9] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type B) [VL: 9] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2805553883530191
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type A) [VL: 10] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type B) [VL: 10] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.28059436022441464
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type C) [VL: 3] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type A) [VL: 11] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type B) [VL: 11] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2806095334145764
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type A) [VL: 12] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:34] ChillyBean369 failed Jesus (Type B) [VL: 12] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.28060260637255696
+[05-10-2022] [16:10:35] ChillyBean369 failed Jesus (Type E) [VL: 3] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.28060260637255696
+[05-10-2022] [16:10:35] ChillyBean369 failed Jesus (Type A) [VL: 13] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:35] ChillyBean369 failed Jesus (Type B) [VL: 13] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2805375116917602
+[05-10-2022] [16:10:35] ChillyBean369 failed Jesus (Type C) [VL: 4] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-10-2022] [16:10:35] ChillyBean369 failed Jesus (Type A) [VL: 14] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:10:35] ChillyBean369 failed Jesus (Type B) [VL: 14] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2805234641173536
+[05-10-2022] [16:10:35] ChillyBean369 failed Jesus (Type A) [VL: 15] [Ping: 982] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:29:39] ChillyBean369 failed Fast Break (Type A) [VL: 1] [Ping: 1356] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=IRON_ORE diff=-255.0 tool=IRON_PICKAXE
+[05-10-2022] [16:29:41] PhysicalLogic failed Jump (Type A) [VL: 1] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.19930119387920087 ticks=4 difference=0.03452791205313588
+[05-10-2022] [16:29:41] PhysicalLogic failed Jump (Type A) [VL: 2] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.24844743650709944 ticks=6 difference=0.3268474380329778
+[05-10-2022] [16:29:41] PhysicalLogic failed Jump (Type A) [VL: 3] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.2767691409307247 ticks=8 difference=0.507296509843691
+[05-10-2022] [16:29:41] PhysicalLogic failed Flight (Type B) [VL: 1] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.30396057463868686 difference=0.09176303304041517 ticks=11 delay=53 tp=54
+[05-10-2022] [16:29:41] PhysicalLogic failed Flight (Type B) [VL: 2] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3162920084209446 difference=0.09062692253977073 ticks=13 delay=39 tp=56
+[05-10-2022] [16:29:41] PhysicalLogic failed Step (Type B) [VL: 1] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] ticks=10 deltaY=0.3218066629121097
+[05-10-2022] [16:29:41] PhysicalLogic failed Flight (Type B) [VL: 3] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.32655764867211445 difference=0.08958711440615089 ticks=15 delay=36 tp=58
+[05-10-2022] [16:29:41] PhysicalLogic failed Flight (Type B) [VL: 4] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3354898315597339 difference=0.08949808436092893 ticks=17 delay=41 tp=60
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 5] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.34337644927133226 difference=0.0887923097288828 ticks=19 delay=37 tp=62
+[05-10-2022] [16:29:42] PhysicalLogic failed Step (Type B) [VL: 2] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] ticks=15 deltaY=0.34337644927133226
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 6] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3485941359280176 difference=0.0876812001784057 ticks=21 delay=42 tp=64
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 7] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3526270927484987 difference=0.08731730689081874 ticks=23 delay=37 tp=66
+[05-10-2022] [16:29:42] PhysicalLogic failed Step (Type B) [VL: 3] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] ticks=20 deltaY=0.35430424168521313
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 8] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3557122103003252 difference=0.08689404821687813 ticks=25 delay=47 tp=68
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 9] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3580154355538383 difference=0.08663719364575434 ticks=27 delay=49 tp=70
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 10] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.35970835997432715 difference=0.08630627237578076 ticks=29 delay=53 tp=72
+[05-10-2022] [16:29:42] PhysicalLogic failed Step (Type B) [VL: 4] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] ticks=25 deltaY=0.35970835997432715
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 11] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.36042801459517193 difference=0.08577830937282854 ticks=31 delay=35 tp=74
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 12] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.35961841246731296 difference=0.08500225482993623 ticks=33 delay=27 tp=76
+[05-10-2022] [16:29:42] PhysicalLogic failed Step (Type B) [VL: 5] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] ticks=30 deltaY=0.3579786780077967
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 13] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.35593442256790553 difference=0.08351531281824226 ticks=35 delay=45 tp=78
+[05-10-2022] [16:29:42] PhysicalLogic failed Flight (Type B) [VL: 14] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3167773827573015 difference=0.050000087735693866 ticks=37 delay=40 tp=80
+[05-10-2022] [16:29:43] PhysicalLogic failed Flight (Type B) [VL: 15] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.26573752981462917 difference=0.0614840549330071 ticks=39 delay=28 tp=82
+[05-10-2022] [16:29:43] PhysicalLogic failed Step (Type B) [VL: 6] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] ticks=35 deltaY=0.26573752981462917
+[05-10-2022] [16:29:43] PhysicalLogic failed Flight (Type B) [VL: 16] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.0 difference=0.15747431656426336 ticks=41 delay=55 tp=84
+[05-10-2022] [16:29:43] PhysicalLogic failed Flight (Type B) [VL: 17] [Ping: 344] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.0 difference=0.0784000015258789 ticks=43 delay=53 tp=86
+[05-10-2022] [16:38:01] ChillyBean369 failed Jesus (Type A) [VL: 1] [Ping: 914] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-10-2022] [16:43:56] ChillyBean369 failed Timer (Type D) [VL: 8] [Ping: 7920] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[05-10-2022] [16:45:42] ChillyBean369 failed Fast Use (Type A) [VL: 1] [Ping: 1593] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] delay=257 item=BREAD delay=0
+[05-10-2022] [16:51:35] ChillyBean369 failed Fast Break (Type A) [VL: 1] [Ping: 712] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=COPPER_ORE diff=-154.0 tool=IRON_PICKAXE
+[05-10-2022] [17:08:21] ChillyBean369 failed Fast Break (Type A) [VL: 1] [Ping: 779] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=SPRUCE_LOG diff=-202.0 tool=IRON_AXE
+[05-10-2022] [17:08:44] ChillyBean369 failed Fast Break (Type A) [VL: 2] [Ping: 492] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=SPRUCE_LOG diff=-372.0 tool=IRON_AXE
+[05-10-2022] [17:47:50] ChillyBean369 failed Timer (Type D) [VL: 8] [Ping: 1735] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=95 delay=0
+[05-10-2022] [17:48:17] ChillyBean369 failed Timer (Type D) [VL: 9] [Ping: 1033] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[05-10-2022] [17:48:17] ChillyBean369 failed Timer (Type D) [VL: 10] [Ping: 1033] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=100 delay=0
+[05-10-2022] [17:49:11] ChillyBean369 failed Timer (Type D) [VL: 11] [Ping: 1121] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=100 delay=0
+[05-10-2022] [17:49:11] ChillyBean369 failed Timer (Type D) [VL: 12] [Ping: 1121] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=99 delay=0
+[05-10-2022] [17:49:11] ChillyBean369 failed Timer (Type D) [VL: 13] [Ping: 1121] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=106 delay=0
+[05-10-2022] [19:10:06] ChillyBean369 failed Timer (Type D) [VL: 8] [Ping: 846] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] balance=100 delay=0
+[05-10-2022] [19:11:25] ChillyBean369 failed Jesus (Type E) [VL: 1] [Ping: 340] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.19582901128321867
+[05-10-2022] [19:26:25] ChillyBean369 failed Fast Break (Type A) [VL: 1] [Ping: 179] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=SPRUCE_LOG diff=-426.0 tool=IRON_AXE
+[05-11-2022] [00:12:05] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 106] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=8 delay=42
+[05-11-2022] [00:12:05] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 106] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=8 delay=36
+[05-11-2022] [02:42:25] Frqmed_ failed Fast Place *(Type B)* [VL: 1] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=6 delay=51
+[05-11-2022] [02:42:25] Frqmed_ failed Fast Place *(Type B)* [VL: 2] [Ping: 65] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=6 delay=58
+[05-11-2022] [11:44:27] PhysicalLogic failed Jesus (Type B) [VL: 1] [Ping: 417] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.002984278276564112 deltaXZ=0.15746635267657974
+[05-11-2022] [14:01:53] PhysicalLogic failed Jesus (Type B) [VL: 1] [Ping: 442] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.009000000059607771 deltaXZ=0.11113317703019852
+[05-12-2022] [11:08:29] PhysicalLogic failed Jesus (Type B) [VL: 1] [Ping: 1242] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=1.4128872528829106E-5 deltaXZ=0.19504187495896255
+[05-12-2022] [11:08:29] PhysicalLogic failed Jesus (Type B) [VL: 2] [Ping: 1242] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.007592386499325698 deltaXZ=0.19522359262719866
+[05-12-2022] [18:39:14] Dragonsongbird3 failed Jesus (Type A) [VL: 1] [Ping: 304] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-12-2022] [18:39:14] Dragonsongbird3 failed Jesus (Type A) [VL: 2] [Ping: 304] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-12-2022] [18:39:14] Dragonsongbird3 failed Jesus (Type A) [VL: 3] [Ping: 304] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-12-2022] [18:39:14] Dragonsongbird3 failed Jesus (Type A) [VL: 4] [Ping: 304] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-12-2022] [18:39:14] Dragonsongbird3 failed Jesus (Type A) [VL: 5] [Ping: 304] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-12-2022] [18:39:14] Dragonsongbird3 failed Jesus (Type A) [VL: 6] [Ping: 304] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-13-2022] [02:33:06] NoOneImportantk failed Fast Break (Type A) [VL: 1] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-475.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:07] NoOneImportantk failed Fast Break (Type A) [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-200.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:08] NoOneImportantk failed Fast Break (Type A) [VL: 3] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-214.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:10] NoOneImportantk failed Fast Break (Type A) [VL: 4] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-208.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:10] NoOneImportantk failed Fast Break (Type A) [VL: 5] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-172.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:12] NoOneImportantk failed Fast Break (Type A) [VL: 6] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-204.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:13] NoOneImportantk failed Fast Break (Type A) [VL: 7] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-539.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:14] NoOneImportantk failed Fast Break (Type A) [VL: 8] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=DIRT diff=-999.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:17] NoOneImportantk failed Fast Break (Type A) [VL: 9] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-1037.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:18] NoOneImportantk failed Fast Break (Type A) [VL: 10] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-1093.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:20] NoOneImportantk failed Fast Break (Type A) [VL: 11] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-383.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:22] NoOneImportantk failed Fast Break (Type A) [VL: 12] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-432.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:24] NoOneImportantk failed Fast Break (Type A) [VL: 13] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-630.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:25] NoOneImportantk failed Fast Break (Type A) [VL: 14] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=COAL_ORE diff=-541.0 tool=STONE_PICKAXE
+[05-13-2022] [02:33:26] NoOneImportantk failed Fast Break (Type A) [VL: 15] [Ping: 36] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-216.0 tool=STONE_PICKAXE
+[05-13-2022] [02:35:55] NoOneImportantk failed Motion (Type C) [VL: 1] [Ping: 35] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.4200000000000017
+[05-13-2022] [02:39:23] NoOneImportantk failed Motion (Type C) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.4200000000000017
+[05-13-2022] [02:55:15] NoOneImportantk failed Motion (Type C) [VL: 1] [Ping: 54] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.4200000000000017
+[05-13-2022] [02:55:15] NoOneImportantk failed Motion (Type C) [VL: 2] [Ping: 54] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.4200000000000017
+[05-13-2022] [02:55:16] NoOneImportantk failed Motion (Type C) [VL: 3] [Ping: 54] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.4200000000000017
+[05-13-2022] [02:55:16] NoOneImportantk failed Motion (Type C) [VL: 4] [Ping: 54] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.4200000000000017
+[05-13-2022] [02:55:18] NoOneImportantk failed Motion (Type C) [VL: 5] [Ping: 54] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.4200000000000017
+[05-13-2022] [16:22:18] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=8 delay=61
+[05-13-2022] [18:55:17] PhysicalLogic failed Hitbox (Type B) [VL: 1] [Ping: 2518] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] angle=57.21898428114928 distance=3.6821179248993783
+[05-13-2022] [18:55:17] PhysicalLogic failed Hitbox (Type B) [VL: 2] [Ping: 2518] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] angle=53.01272156382365 distance=3.6821179248993783
+[05-13-2022] [18:55:17] PhysicalLogic failed Hitbox (Type B) [VL: 3] [Ping: 4589] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] angle=59.96145891216573 distance=3.6821179248993783
+[05-13-2022] [23:22:41] Satepin failed Flight (Type B) [VL: 1] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.13368868895963715 difference=0.08686672714294613 ticks=86 delay=28 tp=82
+[05-13-2022] [23:22:41] Satepin failed Flight (Type B) [VL: 2] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.14618308840815786 difference=0.08921187043915574 ticks=88 delay=39 tp=84
+[05-13-2022] [23:22:41] Satepin failed Flight (Type B) [VL: 3] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.15866136879628812 difference=0.08725768887887025 ticks=90 delay=56 tp=86
+[05-13-2022] [23:22:41] Satepin failed Flight (Type B) [VL: 4] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.16767609461061284 difference=0.08554546800641544 ticks=92 delay=21 tp=88
+[05-13-2022] [23:22:41] Satepin failed Flight (Type B) [VL: 5] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17277395826944542 difference=0.08399983910082269 ticks=94 delay=47 tp=90
+[05-13-2022] [23:22:41] Satepin failed Flight (Type B) [VL: 6] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17565682064588373 difference=0.08312577974615062 ticks=96 delay=61 tp=92
+[05-13-2022] [23:22:41] Satepin failed Flight (Type B) [VL: 7] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1396870917402211 difference=0.045031496510534536 ticks=98 delay=48 tp=94
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 8] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0910708657696091 difference=0.059771522758712184 ticks=100 delay=49 tp=96
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 9] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.06357819469898374 difference=0.06810706681058831 ticks=102 delay=69 tp=98
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 10] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.04803097877451279 difference=0.07282085045457162 ticks=104 delay=40 tp=100
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 11] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03923896571834007 difference=0.07548651403982665 ticks=106 delay=43 tp=102
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 12] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03426704701885086 difference=0.07699395750487417 ticks=108 delay=42 tp=104
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 13] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03145540702281835 difference=0.07784642283953086 ticks=110 delay=54 tp=106
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 14] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.029865413311114253 difference=0.07832849541050527 ticks=112 delay=59 tp=108
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 15] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.02896626548037773 difference=0.0786011093858126 ticks=114 delay=67 tp=110
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 16] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.028457793770350293 difference=0.07875527368389396 ticks=116 delay=49 tp=112
+[05-13-2022] [23:22:42] Satepin failed Flight (Type B) [VL: 17] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.028170250975868782 difference=0.07884245421371557 ticks=118 delay=49 tp=114
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 18] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.028007644370575235 difference=0.07889175515352263 ticks=120 delay=43 tp=116
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 19] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.027915689682117772 difference=0.07891963503301938 ticks=122 delay=51 tp=118
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 20] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.027863688936420772 difference=0.07893540121685806 ticks=124 delay=48 tp=120
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 21] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.02783428230585372 difference=0.07894431705715543 ticks=126 delay=36 tp=122
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 22] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.027817652738143295 difference=0.07894935900065048 ticks=128 delay=48 tp=124
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 23] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.027808248650806888 difference=0.07895221023995223 ticks=130 delay=51 tp=126
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 24] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.022244170919172745 difference=0.073395062944766 ticks=132 delay=50 tp=128
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 25] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.014236269812542446 difference=0.07519684073849836 ticks=134 delay=45 tp=130
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 26] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.009111212951566472 difference=0.0763499785608636 ticks=136 delay=54 tp=132
+[05-13-2022] [23:22:43] Satepin failed Flight (Type B) [VL: 27] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.005831176462784526 difference=0.07708798678916934 ticks=138 delay=68 tp=134
+[05-13-2022] [23:22:44] Satepin failed Flight (Type B) [VL: 28] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0037319530473993723 difference=0.07756031206935776 ticks=140 delay=55 tp=136
+[05-13-2022] [23:22:44] Satepin failed Flight (Type B) [VL: 29] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.02761745605665311 difference=0.09124951415126416 ticks=142 delay=59 tp=138
+[05-13-2022] [23:22:44] Satepin failed Flight (Type B) [VL: 30] [Ping: 678] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.11359340113669703 difference=0.11750804338183811 ticks=144 delay=50 tp=140
+[05-14-2022] [14:24:49] Toine1 failed Fast Break (Type A) [VL: 1] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-1699.0 tool=DIAMOND_PICKAXE
+[05-14-2022] [14:24:49] Toine1 failed Fast Break (Type A) [VL: 2] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-1699.0 tool=DIAMOND_PICKAXE
+[05-14-2022] [14:24:49] Toine1 failed Fast Break (Type A) [VL: 3] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-1698.0 tool=DIAMOND_PICKAXE
+[05-14-2022] [14:24:49] Toine1 failed Fast Break (Type A) [VL: 4] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-1698.0 tool=DIAMOND_PICKAXE
+[05-14-2022] [14:24:49] Toine1 failed Fast Break (Type A) [VL: 5] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-1698.0 tool=DIAMOND_PICKAXE
+[05-14-2022] [14:24:49] Toine1 failed Fast Break (Type A) [VL: 6] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-1697.0 tool=DIAMOND_PICKAXE
+[05-14-2022] [15:37:19] xOnikazex failed Step (Type C) [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=2 deltaY=-0.23284800677490125 distance=0.232848
+[05-14-2022] [18:01:36] Satepin failed Jesus (Type A) [VL: 1] [Ping: 380] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-14-2022] [18:01:37] Satepin failed Jesus (Type B) [VL: 1] [Ping: 380] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.22987118641624704
+[05-14-2022] [18:01:37] Satepin failed Jesus (Type A) [VL: 2] [Ping: 380] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-14-2022] [18:01:37] Satepin failed Jesus (Type B) [VL: 2] [Ping: 380] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 deltaXZ=0.2056835620986261
+[05-14-2022] [22:16:26] KindaBlockBoy failed Invalid *(Type A)* [VL: 1] [Ping: 123] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] dXZ=2.2705527723551295 max=1.2500000476837159
+[05-15-2022] [04:01:22] Satepin failed Motion (Type A) [VL: 1] [Ping: 295] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03999999910593033
+[05-15-2022] [05:22:17] Satepin failed Jesus (Type C) [VL: 1] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-15-2022] [05:25:02] Satepin failed Jesus (Type C) [VL: 2] [Ping: 602] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-15-2022] [14:52:28] Golden10101 failed Elytra (Type M) [VL: 1] [Ping: 602] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03999999910593033 m=8.940696724635266E-10
+[05-15-2022] [14:52:28] Golden10101 failed Elytra (Type M) [VL: 2] [Ping: 602] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03999999910593033 m=8.940696724635266E-10
+[05-15-2022] [14:52:28] Golden10101 failed Elytra (Type M) [VL: 3] [Ping: 602] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03999999910593033 m=8.940696724635266E-10
+[05-15-2022] [14:52:28] Golden10101 failed Elytra (Type M) [VL: 4] [Ping: 602] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.03999999910593033 m=8.940696724635266E-10
+[05-15-2022] [18:05:00] PhysicalLogic failed Flight (Type B) [VL: 1] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.055440007296866156 difference=0.08474900344952757 ticks=59 delay=70 tp=52
+[05-15-2022] [18:05:00] PhysicalLogic failed Flight (Type B) [VL: 2] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.044481605787034084 difference=0.08228336304858022 ticks=61 delay=1 tp=54
+[05-15-2022] [18:05:00] PhysicalLogic failed Flight (Type B) [VL: 3] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.037468228611722054 difference=0.08070535314494716 ticks=63 delay=0 tp=56
+[05-15-2022] [18:05:00] PhysicalLogic failed Flight (Type B) [VL: 4] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.03297966708575473 difference=0.07969542677652798 ticks=65 delay=0 tp=58
+[05-15-2022] [18:05:00] PhysicalLogic failed Flight (Type B) [VL: 5] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.030106987623526038 difference=0.07904907388147031 ticks=67 delay=0 tp=60
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 6] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.028268472712909443 difference=0.0786354080163042 ticks=69 delay=1 tp=62
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 7] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.02709182313504499 difference=0.07837066185471128 ticks=71 delay=6 tp=64
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 8] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.02633876738276797 difference=0.07820122430623855 ticks=73 delay=56 tp=66
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 9] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025856811686949754 difference=0.07809278427199037 ticks=75 delay=51 tp=68
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 10] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025548360032431106 difference=0.07802338264799598 ticks=77 delay=51 tp=70
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 11] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.02535095096765616 difference=0.07797896560732027 ticks=79 delay=50 tp=72
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 12] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.02522460916243574 difference=0.07795053870044005 ticks=81 delay=47 tp=74
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 13] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025143750404687637 difference=0.0779323454794899 ticks=83 delay=50 tp=76
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 14] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025092000798181857 difference=0.07792070181774453 ticks=85 delay=52 tp=78
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 15] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.0250588810490342 difference=0.077913249873999 ticks=87 delay=49 tp=80
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 16] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.02503768440894305 difference=0.07790848062986307 ticks=89 delay=51 tp=82
+[05-15-2022] [18:05:01] PhysicalLogic failed Flight (Type B) [VL: 17] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025024118558889086 difference=0.07790542831352121 ticks=91 delay=47 tp=84
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 18] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025015436414591363 difference=0.0779034748310039 ticks=93 delay=47 tp=86
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 19] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.0250098798420737 difference=0.0779022246021594 ticks=95 delay=47 tp=88
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 20] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025006323635558658 difference=0.07790142445567314 ticks=97 delay=45 tp=90
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 21] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025004047663315987 difference=0.0779009123619078 ticks=99 delay=41 tp=92
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 22] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.025002591041044298 difference=0.07790058462188282 ticks=101 delay=54 tp=94
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 23] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.034708882505498195 difference=0.13761091617652121 ticks=103 delay=49 tp=96
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 24] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.15097830623525965 difference=0.15135901486576933 ticks=105 delay=31 tp=98
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 25] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.24500433218099715 difference=0.12285112346157412 ticks=107 delay=44 tp=100
+[05-15-2022] [18:05:02] PhysicalLogic failed Flight (Type B) [VL: 26] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.2981764275420673 difference=0.10672979636047983 ticks=109 delay=50 tp=102
+[05-15-2022] [18:05:03] PhysicalLogic failed Flight (Type B) [VL: 27] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3282454610532639 difference=0.09761312112780945 ticks=111 delay=60 tp=104
+[05-15-2022] [18:05:03] PhysicalLogic failed Flight (Type B) [VL: 28] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.34625557984954014 difference=0.09308648783144113 ticks=113 delay=45 tp=106
+[05-15-2022] [18:05:03] PhysicalLogic failed Flight (Type B) [VL: 29] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.35755604152169695 difference=0.09059043705074987 ticks=115 delay=51 tp=108
+[05-15-2022] [18:05:03] PhysicalLogic failed Flight (Type B) [VL: 30] [Ping: 220] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.3664891023729595 difference=0.0900372550459031 ticks=117 delay=53 tp=110
+[05-15-2022] [20:59:40] Satepin failed Jesus (Type C) [VL: 1] [Ping: 212] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-15-2022] [20:59:42] Satepin failed Jesus (Type C) [VL: 2] [Ping: 212] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-15-2022] [20:59:53] Satepin failed Jesus (Type C) [VL: 3] [Ping: 211] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-15-2022] [21:00:00] Satepin failed Jesus (Type C) [VL: 4] [Ping: 211] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-15-2022] [21:08:51] gxna failed Jesus (Type B) [VL: 1] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=0.012181792087105237 deltaXZ=0.19428427054194666
+[05-15-2022] [21:08:51] gxna failed Jesus (Type B) [VL: 2] [Ping: 29] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:c888646] deltaY=-0.01220000015496936 deltaXZ=0.13761977894757138
+[05-15-2022] [21:35:25] Satepin failed Step (Type B) [VL: 1] [Ping: 356] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=10 deltaY=0.34319797757812864
+[05-15-2022] [21:35:25] Satepin failed Step (Type B) [VL: 2] [Ping: 356] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=15 deltaY=0.3414508635556288
+[05-15-2022] [21:35:25] Satepin failed Step (Type B) [VL: 3] [Ping: 356] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=20 deltaY=0.27747576943457375
+[05-15-2022] [21:35:26] Satepin failed Step (Type B) [VL: 4] [Ping: 356] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=25 deltaY=0.26700001287460395
+[05-16-2022] [02:19:30] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=8 delay=62
+[05-16-2022] [15:23:12] bacongrubber failed Flight (Type A) [VL: 1] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=10 delay=48 tp=7616
+[05-16-2022] [16:42:10] Toine1 failed Jesus (Type C) [VL: 1] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:42:52] Toine1 failed Jesus (Type C) [VL: 2] [Ping: 103] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:43:05] Toine1 failed Jesus (Type C) [VL: 3] [Ping: 103] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:50:06] Toine1 failed Jesus (Type C) [VL: 1] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:50:12] Toine1 failed Jesus (Type C) [VL: 2] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:50:16] Toine1 failed Jesus (Type C) [VL: 3] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:50:31] Toine1 failed Jesus (Type C) [VL: 4] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:50:34] Toine1 failed Jesus (Type C) [VL: 5] [Ping: 103] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:51:06] Toine1 failed Jesus (Type C) [VL: 1] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-16-2022] [16:51:15] Toine1 failed Jesus (Type C) [VL: 2] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-17-2022] [00:02:18] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=67
+[05-17-2022] [02:51:54] Satepin failed Motion (Type D) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.002581955529748825
+[05-17-2022] [03:55:58] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 106] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=77
+[05-18-2022] [22:49:26] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 98] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=75
+[05-18-2022] [22:49:27] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 98] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=66
+[05-18-2022] [22:49:27] HayleyGrinnell failed Fast Place *(Type B)* [VL: 3] [Ping: 98] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=61
+[05-18-2022] [23:03:05] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=55
+[05-19-2022] [04:26:54] ClayGoddessSari failed Bad Packets (Type M) [VL: 1] [Ping: 11] [TPS: 20] [Version: 1.18] [Client: Fabric] delay=49
+[05-19-2022] [19:27:13] Toine1 failed Motion (Type G) [VL: 1] [Ping: 103] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] [Attack] deltaY=0.9704768893021622 max=0.7699999809265137 ticks=13
+[05-19-2022] [19:27:13] Toine1 failed Motion (Type G) [VL: 2] [Ping: 103] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] [Attack] deltaY=0.776814036249533 max=0.7699999809265137 ticks=15
+[05-20-2022] [01:05:51] Bageroth failed Timer (Type D) [VL: 8] [Ping: 965] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] balance=100 delay=0
+[05-20-2022] [21:52:32] Tsyclone failed Fast Break (Type A) [VL: 1] [Ping: 923] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=IRON_ORE diff=-258.0 tool=STONE_PICKAXE
+[05-20-2022] [22:07:18] Diamondsimon020 failed Flight (Type B) [VL: 1] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.12806204932642373 difference=0.0924610388121768 ticks=41 delay=48 tp=39
+[05-20-2022] [22:07:18] Diamondsimon020 failed Flight (Type B) [VL: 2] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.14495971281940712 difference=0.08865906443183101 ticks=43 delay=49 tp=41
+[05-20-2022] [22:07:18] Diamondsimon020 failed Flight (Type B) [VL: 3] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.15577421777721412 difference=0.08622580075588968 ticks=45 delay=52 tp=43
+[05-20-2022] [22:07:18] Diamondsimon020 failed Flight (Type B) [VL: 4] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.16269550115648457 difference=0.0846685119568835 ticks=47 delay=49 tp=45
+[05-20-2022] [22:07:19] Diamondsimon020 failed Flight (Type B) [VL: 5] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.16712512265122825 difference=0.08367184709581209 ticks=49 delay=50 tp=47
+[05-20-2022] [22:07:19] Diamondsimon020 failed Flight (Type B) [VL: 6] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.169960080492352 difference=0.08303398156571475 ticks=51 delay=49 tp=49
+[05-20-2022] [22:07:19] Diamondsimon020 failed Flight (Type B) [VL: 7] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17177445356474408 difference=0.08262574761429302 ticks=53 delay=49 tp=51
+[05-20-2022] [22:07:19] Diamondsimon020 failed Flight (Type B) [VL: 8] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17293565236568043 difference=0.08236447787758833 ticks=55 delay=46 tp=53
+[05-20-2022] [22:07:19] Diamondsimon020 failed Flight (Type B) [VL: 9] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.1736788196204273 difference=0.08219726524111808 ticks=57 delay=52 tp=55
+[05-20-2022] [22:07:19] Diamondsimon020 failed Flight (Type B) [VL: 10] [Ping: 49] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.17415444667764035 difference=0.08209024915058508 ticks=59 delay=48 tp=57
+[05-20-2022] [23:00:07] Tsyclone failed Jesus (Type B) [VL: 1] [Ping: 249] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] deltaY=-0.01220000015496936 deltaXZ=0.11813099699276074
+[05-21-2022] [06:58:26] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 103] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=69
+[05-21-2022] [07:18:02] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 108] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=9 delay=78
+[05-21-2022] [07:18:02] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 108] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=72
+[05-21-2022] [07:18:02] HayleyGrinnell failed Fast Place *(Type B)* [VL: 3] [Ping: 108] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=57
+[05-21-2022] [20:06:38] ClayGoddessSari failed Jesus (Type C) [VL: 1] [Ping: 12] [TPS: 20] [Version: 1.18] [Client: Fabric] deltaY=0.0
+[05-21-2022] [23:09:03] bacongrubber failed Fast Break (Type A) [VL: 1] [Ping: 39] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-154.0 tool=NETHERITE_PICKAXE
+[05-21-2022] [23:11:14] bacongrubber failed Fast Break (Type A) [VL: 1] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-158.0 tool=NETHERITE_PICKAXE
+[05-21-2022] [23:11:15] bacongrubber failed Fast Break (Type A) [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-158.0 tool=NETHERITE_PICKAXE
+[05-21-2022] [23:11:15] bacongrubber failed Fast Break (Type A) [VL: 3] [Ping: 37] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-157.0 tool=NETHERITE_PICKAXE
+[05-22-2022] [01:06:44] KindaBlockBoy failed Speed (Type D) [VL: 2] [Ping: 94] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] speed=0.34011833946942144 max=0.2975 diff=0.04261833946942145 ticks=22 deltaY=0.0 tp=57
+[05-22-2022] [04:42:43] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=77
+[05-22-2022] [04:42:47] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=49
+[05-22-2022] [04:42:49] HayleyGrinnell failed Fast Place *(Type B)* [VL: 3] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=9 delay=77
+[05-22-2022] [04:42:49] HayleyGrinnell failed Fast Place *(Type B)* [VL: 4] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=56
+[05-22-2022] [04:42:50] HayleyGrinnell failed Fast Place *(Type B)* [VL: 5] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=43
+[05-22-2022] [04:42:51] HayleyGrinnell failed Fast Place *(Type B)* [VL: 6] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=47
+[05-22-2022] [04:42:52] HayleyGrinnell failed Fast Place *(Type B)* [VL: 7] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=45
+[05-22-2022] [04:42:52] HayleyGrinnell failed Fast Place *(Type B)* [VL: 8] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=84
+[05-22-2022] [04:42:52] HayleyGrinnell failed Fast Place *(Type B)* [VL: 9] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=51
+[05-22-2022] [04:42:52] HayleyGrinnell failed Fast Place *(Type B)* [VL: 10] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=91
+[05-22-2022] [13:17:28] shamiiow failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:17:31] shamiiow failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:17:31] shamiiow failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:17:31] shamiiow failed Ground Spoof (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:17:32] shamiiow failed Ground Spoof (Type B) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:18:41] shamiiow failed Ground Spoof (Type B) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:18:41] shamiiow failed Ground Spoof (Type B) [VL: 2] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:18:41] shamiiow failed Ground Spoof (Type B) [VL: 3] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:18:41] shamiiow failed Ground Spoof (Type B) [VL: 4] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:18:42] shamiiow failed Ground Spoof (Type B) [VL: 5] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:18:50] shamiiow failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:18:57] shamiiow failed Bad Packets (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] flying=false
+[05-22-2022] [13:18:57] shamiiow failed Bad Packets (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] flying=false
+[05-22-2022] [13:19:05] shamiiow failed Ground Spoof (Type B) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:19:05] shamiiow failed Ground Spoof (Type B) [VL: 3] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:19:05] shamiiow failed Ground Spoof (Type B) [VL: 4] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [13:19:05] shamiiow failed Ground Spoof (Type B) [VL: 5] [Ping: 24] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-22-2022] [14:47:35] Falcor71 failed Fast Break (Type A) [VL: 1] [Ping: 30] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-249.0 tool=STONE_AXE
+[05-22-2022] [14:47:49] Falcor71 failed Fast Break (Type A) [VL: 2] [Ping: 30] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=GRASS_BLOCK diff=-206.0 tool=STONE_AXE
+[05-22-2022] [14:47:50] Falcor71 failed Fast Break (Type A) [VL: 3] [Ping: 30] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-253.0 tool=STONE_AXE
+[05-22-2022] [14:47:53] Falcor71 failed Fast Break (Type A) [VL: 4] [Ping: 30] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-250.0 tool=STONE_AXE
+[05-22-2022] [14:49:11] Falcor71 failed Fast Break (Type A) [VL: 5] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-694.0 tool=STONE_SHOVEL
+[05-22-2022] [14:49:14] Falcor71 failed Fast Break (Type A) [VL: 6] [Ping: 31] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-250.0 tool=STONE_AXE
+[05-22-2022] [14:50:03] Falcor71 failed Fast Break (Type A) [VL: 7] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-288.0 tool=STONE_AXE
+[05-22-2022] [14:50:04] Falcor71 failed Fast Break (Type A) [VL: 8] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-295.0 tool=STONE_AXE
+[05-22-2022] [14:50:05] Falcor71 failed Fast Break (Type A) [VL: 9] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-250.0 tool=STONE_AXE
+[05-22-2022] [14:50:08] Falcor71 failed Fast Break (Type A) [VL: 10] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-694.0 tool=STONE_AXE
+[05-22-2022] [14:50:10] Falcor71 failed Fast Break (Type A) [VL: 11] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-256.0 tool=STONE_AXE
+[05-22-2022] [14:50:11] Falcor71 failed Fast Break (Type A) [VL: 12] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-206.0 tool=STONE_AXE
+[05-22-2022] [14:50:16] Falcor71 failed Fast Break (Type A) [VL: 13] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-288.0 tool=STONE_AXE
+[05-22-2022] [14:50:18] Falcor71 failed Fast Break (Type A) [VL: 14] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-250.0 tool=STONE_AXE
+[05-22-2022] [14:50:19] Falcor71 failed Fast Break (Type A) [VL: 15] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OAK_LOG diff=-249.0 tool=STONE_AXE
+[05-22-2022] [14:57:15] Falcor71 failed Fast Break (Type A) [VL: 1] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-209.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:16] Falcor71 failed Fast Break (Type A) [VL: 2] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-196.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:17] Falcor71 failed Fast Break (Type A) [VL: 3] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-213.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:18] Falcor71 failed Fast Break (Type A) [VL: 4] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-212.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:19] Falcor71 failed Fast Break (Type A) [VL: 5] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-213.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:20] Falcor71 failed Fast Break (Type A) [VL: 6] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-213.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:20] Falcor71 failed Fast Break (Type A) [VL: 7] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-212.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:21] Falcor71 failed Fast Break (Type A) [VL: 8] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-211.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:28] Falcor71 failed Fast Break (Type A) [VL: 9] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=IRON_ORE diff=-372.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:29] Falcor71 failed Fast Break (Type A) [VL: 10] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-173.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:31] Falcor71 failed Fast Break (Type A) [VL: 11] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=IRON_ORE diff=-374.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:32] Falcor71 failed Fast Break (Type A) [VL: 12] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-215.0 tool=STONE_PICKAXE
+[05-22-2022] [14:57:35] Falcor71 failed Fast Break (Type A) [VL: 13] [Ping: 32] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-215.0 tool=STONE_PICKAXE
+[05-22-2022] [14:58:03] Falcor71 failed Fast Break (Type A) [VL: 14] [Ping: 34] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-251.0 tool=STONE_PICKAXE
+[05-22-2022] [14:58:04] Falcor71 failed Fast Break (Type A) [VL: 15] [Ping: 34] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=STONE diff=-552.0 tool=STONE_PICKAXE
+[05-22-2022] [15:48:33] PhysicalLogic failed Bad Packets (Type V) [VL: 1] [Ping: 313] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:4a6937e] vehicle=null entities=[]
+[05-22-2022] [19:14:12] PhysicalLogic failed Jesus (Type A) [VL: 1] [Ping: 351] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:4a6937e] 
+[05-22-2022] [19:14:13] PhysicalLogic failed Jesus (Type C) [VL: 1] [Ping: 351] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:4a6937e] deltaY=0.0
+[05-22-2022] [20:53:30] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 108] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=60
+[05-22-2022] [20:53:30] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 108] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=66
+[05-22-2022] [20:55:32] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=81
+[05-22-2022] [20:55:42] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=9 delay=100
+[05-22-2022] [20:58:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 3] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=83
+[05-22-2022] [20:58:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 4] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=86
+[05-22-2022] [20:58:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 5] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=9 delay=81
+[05-22-2022] [20:58:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 6] [Ping: 104] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=50
+[05-22-2022] [22:07:38] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=69
+[05-22-2022] [22:07:42] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=63
+[05-23-2022] [00:19:48] Frqmed_ failed Fast Break (Type A) [VL: 1] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1115.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:48] Frqmed_ failed Fast Break (Type A) [VL: 2] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1114.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:48] Frqmed_ failed Fast Break (Type A) [VL: 3] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1114.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:49] Frqmed_ failed Fast Break (Type A) [VL: 4] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1114.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:49] Frqmed_ failed Fast Break (Type A) [VL: 5] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1114.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:49] Frqmed_ failed Fast Break (Type A) [VL: 6] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1113.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:49] Frqmed_ failed Fast Break (Type A) [VL: 7] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1113.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:49] Frqmed_ failed Fast Break (Type A) [VL: 8] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1113.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:49] Frqmed_ failed Fast Break (Type A) [VL: 9] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1113.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:19:49] Frqmed_ failed Fast Break (Type A) [VL: 10] [Ping: 109] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-1112.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [00:37:33] Bageroth failed Jesus (Type A) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[05-23-2022] [00:37:34] Bageroth failed Jesus (Type A) [VL: 2] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[05-23-2022] [00:37:35] Bageroth failed Jesus (Type B) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=-0.014720015183840474 deltaXZ=0.12457495600559076
+[05-23-2022] [03:26:01] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 111] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=61
+[05-23-2022] [14:46:26] Toine1 failed Jesus (Type C) [VL: 1] [Ping: 124] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-23-2022] [18:45:49] PhysicalLogic failed Bad Packets (Type K) [VL: 1] [Ping: 34] [TPS: 20] [Version: 1.18.2] [Client: Lunarclient:4a6937e] delay=86
+[05-23-2022] [19:12:53] The_Duece failed Jesus (Type B) [VL: 1] [Ping: 94] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.009000000059607771 deltaXZ=0.1110451080620806
+[05-23-2022] [19:37:32] Frqmed_ failed Fast Break (Type A) [VL: 1] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247801.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [19:37:32] Frqmed_ failed Fast Break (Type A) [VL: 2] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247800.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [19:37:32] Frqmed_ failed Fast Break (Type A) [VL: 3] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247800.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [19:37:32] Frqmed_ failed Fast Break (Type A) [VL: 4] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247800.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [19:37:32] Frqmed_ failed Fast Break (Type A) [VL: 5] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247799.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [19:37:33] Frqmed_ failed Fast Break (Type A) [VL: 6] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247799.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [19:37:33] Frqmed_ failed Fast Break (Type A) [VL: 7] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247799.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [19:37:33] Frqmed_ failed Fast Break (Type A) [VL: 8] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247798.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [19:37:33] Frqmed_ failed Fast Break (Type A) [VL: 9] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] block=OBSIDIAN diff=-247798.0 tool=DIAMOND_PICKAXE
+[05-23-2022] [20:07:26] _IzzyRobyn failed Fast Break (Type A) [VL: 1] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-156.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:07:26] _IzzyRobyn failed Fast Break (Type A) [VL: 2] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-156.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:07:26] _IzzyRobyn failed Fast Break (Type A) [VL: 3] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-155.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:07:26] _IzzyRobyn failed Fast Break (Type A) [VL: 4] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-155.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:07:26] _IzzyRobyn failed Fast Break (Type A) [VL: 5] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-155.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:07:26] _IzzyRobyn failed Fast Break (Type A) [VL: 6] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-154.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:07:26] _IzzyRobyn failed Fast Break (Type A) [VL: 7] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-154.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:07:26] _IzzyRobyn failed Fast Break (Type A) [VL: 8] [Ping: 100] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-154.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:22:17] Frqmed_ failed Fast Place *(Type B)* [VL: 1] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=6 delay=104
+[05-23-2022] [20:25:47] _IzzyRobyn failed Fast Break (Type A) [VL: 1] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-483.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:25:48] _IzzyRobyn failed Fast Break (Type A) [VL: 2] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-482.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:25:48] _IzzyRobyn failed Fast Break (Type A) [VL: 3] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-482.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:25:48] _IzzyRobyn failed Fast Break (Type A) [VL: 4] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-482.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:25:48] _IzzyRobyn failed Fast Break (Type A) [VL: 5] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-481.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:25:48] _IzzyRobyn failed Fast Break (Type A) [VL: 6] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-481.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:25:48] _IzzyRobyn failed Fast Break (Type A) [VL: 7] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-481.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:25:48] _IzzyRobyn failed Fast Break (Type A) [VL: 8] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-480.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:25:48] _IzzyRobyn failed Fast Break (Type A) [VL: 9] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-480.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:42:56] _IzzyRobyn failed Fast Break (Type A) [VL: 1] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-128.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:42:56] _IzzyRobyn failed Fast Break (Type A) [VL: 2] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-128.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:42:56] _IzzyRobyn failed Fast Break (Type A) [VL: 3] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-127.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:42:56] _IzzyRobyn failed Fast Break (Type A) [VL: 4] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-127.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:42:56] _IzzyRobyn failed Fast Break (Type A) [VL: 5] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-127.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:42:56] _IzzyRobyn failed Fast Break (Type A) [VL: 6] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-126.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:42:56] _IzzyRobyn failed Fast Break (Type A) [VL: 7] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-126.0 tool=NETHERITE_PICKAXE
+[05-23-2022] [20:42:56] _IzzyRobyn failed Fast Break (Type A) [VL: 8] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=OBSIDIAN diff=-126.0 tool=NETHERITE_PICKAXE
+[05-24-2022] [17:36:14] Frqmed_ failed Fast Place *(Type B)* [VL: 1] [Ping: 112] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=6 delay=53
+[05-24-2022] [18:51:46] Frqmed_ failed Fast Place *(Type B)* [VL: 1] [Ping: 102] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=6 delay=54
+[05-24-2022] [20:56:07] TheEagleThe failed Jesus (Type A) [VL: 1] [Ping: 119] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-24-2022] [22:32:41] bacongrubber failed Fast Break (Type A) [VL: 1] [Ping: 42] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-157.0 tool=NETHERITE_PICKAXE
+[05-24-2022] [22:32:42] bacongrubber failed Fast Break (Type A) [VL: 2] [Ping: 42] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-156.0 tool=NETHERITE_PICKAXE
+[05-24-2022] [22:32:42] bacongrubber failed Fast Break (Type A) [VL: 3] [Ping: 42] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-156.0 tool=NETHERITE_PICKAXE
+[05-24-2022] [22:32:42] bacongrubber failed Fast Break (Type A) [VL: 4] [Ping: 42] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-155.0 tool=NETHERITE_PICKAXE
+[05-24-2022] [22:32:43] bacongrubber failed Fast Break (Type A) [VL: 5] [Ping: 42] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-155.0 tool=NETHERITE_PICKAXE
+[05-24-2022] [22:32:43] bacongrubber failed Fast Break (Type A) [VL: 6] [Ping: 42] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-155.0 tool=NETHERITE_PICKAXE
+[05-24-2022] [22:32:43] bacongrubber failed Fast Break (Type A) [VL: 7] [Ping: 42] [TPS: 20] [Version: 1.18.2] [Client: Unresolved] block=CALCITE diff=-155.0 tool=NETHERITE_PICKAXE
+[05-24-2022] [22:58:33] Frqmed_ failed Fast Place *(Type B)* [VL: 1] [Ping: 103] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=6 delay=102
+[05-25-2022] [00:52:16] Frqmed_ failed Fast Place *(Type B)* [VL: 1] [Ping: 97] [TPS: 20] [Version: 1.18.2] [Client: Fabric] blocks=6 delay=56
+[05-25-2022] [01:20:52] Optimalz failed Motion (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023222
+[05-25-2022] [01:20:52] Optimalz failed Motion (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:52] Optimalz failed Motion (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:53] Optimalz failed Motion (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:53] Optimalz failed Motion (Type A) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:53] Optimalz failed Motion (Type A) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:53] Optimalz failed Motion (Type A) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:53] Optimalz failed Motion (Type A) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:53] Optimalz failed Motion (Type A) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:54] Optimalz failed Motion (Type A) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:54] Optimalz failed Motion (Type A) [VL: 11] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:54] Optimalz failed Motion (Type A) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:54] Optimalz failed Motion (Type A) [VL: 13] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:54] Optimalz failed Motion (Type A) [VL: 14] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:20:55] Optimalz failed Motion (Type A) [VL: 15] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:08] Optimalz failed Motion (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:08] Optimalz failed Motion (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:08] Optimalz failed Motion (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:08] Optimalz failed Motion (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:09] Optimalz failed Motion (Type A) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:09] Optimalz failed Motion (Type A) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:09] Optimalz failed Motion (Type A) [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:09] Optimalz failed Motion (Type A) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:09] Optimalz failed Motion (Type A) [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:21:10] Optimalz failed Motion (Type A) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] deltaY=0.7500000298023224
+[05-25-2022] [01:28:31] Optimalz failed Ground Spoof (Type B) [VL: 1] [Ping: 87] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:28:32] Optimalz failed Ground Spoof (Type B) [VL: 2] [Ping: 87] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:29:42] Optimalz failed Ground Spoof (Type B) [VL: 3] [Ping: 88] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:29:42] Optimalz failed Ground Spoof (Type B) [VL: 4] [Ping: 88] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:29:42] Optimalz failed Ground Spoof (Type B) [VL: 5] [Ping: 88] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:02] Optimalz failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:02] Optimalz failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:03] Optimalz failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:03] Optimalz failed Ground Spoof (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:03] Optimalz failed Ground Spoof (Type B) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:13] Optimalz failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:13] Optimalz failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:38] Optimalz failed Ground Spoof (Type B) [VL: 1] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:38] Optimalz failed Ground Spoof (Type B) [VL: 2] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:38] Optimalz failed Ground Spoof (Type B) [VL: 3] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:38] Optimalz failed Ground Spoof (Type B) [VL: 4] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:38] Optimalz failed Ground Spoof (Type B) [VL: 5] [Ping: 21] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:48] Optimalz failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:30:48] Optimalz failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:31:21] Optimalz failed Ground Spoof (Type B) [VL: 3] [Ping: 40] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:31:39] Optimalz failed Bad Packets (Type A) [VL: 1] [Ping: 52] [TPS: 20] [Version: 1.18.2] [Client: Fabric] flying=false
+[05-25-2022] [01:31:39] Optimalz failed Bad Packets (Type A) [VL: 2] [Ping: 52] [TPS: 20] [Version: 1.18.2] [Client: Fabric] flying=false
+[05-25-2022] [01:31:39] Optimalz failed Bad Packets (Type A) [VL: 3] [Ping: 52] [TPS: 20] [Version: 1.18.2] [Client: Fabric] flying=false
+[05-25-2022] [01:32:01] Optimalz failed Ground Spoof (Type B) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:01] Optimalz failed Ground Spoof (Type B) [VL: 2] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:01] Optimalz failed Ground Spoof (Type B) [VL: 3] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:01] Optimalz failed Ground Spoof (Type B) [VL: 4] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:01] Optimalz failed Ground Spoof (Type B) [VL: 5] [Ping: 23] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:17] Optimalz failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:18] Optimalz failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:18] Optimalz failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:18] Optimalz failed Ground Spoof (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:32:18] Optimalz failed Jesus (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] 
+[05-25-2022] [01:33:46] Optimalz failed Ground Spoof (Type B) [VL: 5] [Ping: 70] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:34:07] Optimalz failed Ground Spoof (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:34:07] Optimalz failed Ground Spoof (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:34:08] Optimalz failed Ground Spoof (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:34:08] Optimalz failed Ground Spoof (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [01:34:08] Optimalz failed Ground Spoof (Type B) [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.18.2] [Client: Fabric] client=true server=false
+[05-25-2022] [05:42:47] The_Duece failed Jesus (Type E) [VL: 1] [Ping: 115] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaXZ=0.1858235739556076
+[05-25-2022] [16:57:44] The_Duece failed Jesus (Type A) [VL: 1] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-25-2022] [19:01:22] JEMZaz123 failed Jesus (Type B) [VL: 1] [Ping: 93] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=-0.009000000059607771 deltaXZ=0.11306916957288106
+[05-26-2022] [02:07:32] DenTelos failed Flight (Type E) [VL: 1] [Ping: 56] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] ticks=6 acceleration=0.0 deltaY=0.0 delay=49 tp=1342
+[05-26-2022] [02:24:07] HayleyGrinnell failed Fast Place *(Type B)* [VL: 1] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=69
+[05-26-2022] [02:24:07] HayleyGrinnell failed Fast Place *(Type B)* [VL: 2] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=69
+[05-26-2022] [02:24:07] HayleyGrinnell failed Fast Place *(Type B)* [VL: 3] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=80
+[05-26-2022] [02:24:07] HayleyGrinnell failed Fast Place *(Type B)* [VL: 4] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=65
+[05-26-2022] [02:24:08] HayleyGrinnell failed Fast Place *(Type B)* [VL: 5] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=65
+[05-26-2022] [02:24:08] HayleyGrinnell failed Fast Place *(Type B)* [VL: 6] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=38
+[05-26-2022] [02:24:08] HayleyGrinnell failed Fast Place *(Type B)* [VL: 7] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=65
+[05-26-2022] [02:24:08] HayleyGrinnell failed Fast Place *(Type B)* [VL: 8] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=68
+[05-26-2022] [02:24:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 9] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=68
+[05-26-2022] [02:24:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 10] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=69
+[05-26-2022] [02:24:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 11] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=63
+[05-26-2022] [02:24:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 12] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=35
+[05-26-2022] [02:24:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 13] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=58
+[05-26-2022] [02:24:09] HayleyGrinnell failed Fast Place *(Type B)* [VL: 14] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=66
+[05-26-2022] [02:24:10] HayleyGrinnell failed Fast Place *(Type B)* [VL: 15] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=72
+[05-26-2022] [02:24:10] HayleyGrinnell failed Fast Place *(Type B)* [VL: 16] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=78
+[05-26-2022] [02:24:10] HayleyGrinnell failed Fast Place *(Type B)* [VL: 17] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=70
+[05-26-2022] [02:24:10] HayleyGrinnell failed Fast Place *(Type B)* [VL: 18] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=73
+[05-26-2022] [02:24:10] HayleyGrinnell failed Fast Place *(Type B)* [VL: 19] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=40
+[05-26-2022] [02:24:11] HayleyGrinnell failed Fast Place *(Type B)* [VL: 20] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=65
+[05-26-2022] [02:24:11] HayleyGrinnell failed Fast Place *(Type B)* [VL: 21] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=68
+[05-26-2022] [02:24:11] HayleyGrinnell failed Fast Place *(Type B)* [VL: 22] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=46
+[05-26-2022] [02:24:11] HayleyGrinnell failed Fast Place *(Type B)* [VL: 23] [Ping: 105] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=67
+[05-26-2022] [02:24:12] HayleyGrinnell failed Fast Place *(Type B)* [VL: 24] [Ping: 106] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=61
+[05-26-2022] [02:24:12] HayleyGrinnell failed Fast Place *(Type B)* [VL: 25] [Ping: 106] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=82
+[05-26-2022] [02:24:12] HayleyGrinnell failed Fast Place *(Type B)* [VL: 26] [Ping: 106] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=51
+[05-26-2022] [02:24:12] HayleyGrinnell failed Fast Place *(Type B)* [VL: 27] [Ping: 106] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] blocks=6 delay=68
+[05-26-2022] [10:30:40] Toine1 failed Jesus (Type C) [VL: 1] [Ping: 101] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] deltaY=0.0
+[05-26-2022] [13:09:12] RuyaGibson failed Jesus (Type A) [VL: 1] [Ping: 213] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-26-2022] [13:09:13] RuyaGibson failed Jesus (Type A) [VL: 2] [Ping: 213] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] 
+[05-26-2022] [14:45:35] Kaiballz failed Fast Break (Type A) [VL: 1] [Ping: 90] [TPS: 20] [Version: 1.18.2] [Client: Vanilla] block=STONE diff=-179.0 tool=NETHERITE_PICKAXE

@@ -98,7 +98,7 @@ messages:
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
     - ''
     - 'Grinding Skills XP? Boost XP earned for the entire'
-    - 'server at <click:open_url:https://store.semivanilla.com><gradient:aqua:dark_purple>http://store.semivanilla.com</gradient></click>.'
+    - 'server at <click:open_url:https://store.semivanilla.com><gradient:aqua:dark_purple>https://store.semivanilla.com</gradient></click>.'
     - ''
     - '<gradient:dark_purple:aqua:dark_purple><strikethrough>                                                                 <reset>'
   9:
