@@ -181,8 +181,8 @@
       "pitch": 20.249859,
       "yaw": 3.8648376
     },
-    "isPublic": false,
-    "name": "Desert",
+    "isPublic": true,
+    "name": "Easy Raid Village",
     "ownerName": "bacongrubber",
     "playerClaimCount": 0
   },
@@ -198,7 +198,7 @@
       "pitch": 33.899696,
       "yaw": 174.39214
     },
-    "isPublic": false,
+    "isPublic": true,
     "name": "PorkRoll",
     "ownerName": "bacongrubber",
     "playerClaimCount": 0
@@ -232,7 +232,7 @@
       "pitch": 13.649488,
       "yaw": 1.6929554
     },
-    "isPublic": false,
+    "isPublic": true,
     "name": "Bacon\u0027s Black Market",
     "ownerName": "bacongrubber",
     "playerClaimCount": 0
@@ -334,7 +334,7 @@
       "pitch": 28.499744,
       "yaw": 150.75267
     },
-    "isPublic": false,
+    "isPublic": true,
     "name": "NorthWest",
     "ownerName": "bacongrubber",
     "playerClaimCount": 0
@@ -876,7 +876,7 @@
       "pitch": 28.04512,
       "yaw": -171.95697
     },
-    "isPublic": false,
+    "isPublic": true,
     "name": "Dragonia",
     "ownerName": "Dragonsongbird3",
     "playerClaimCount": 2
@@ -1280,23 +1280,6 @@
     "playerClaimCount": 2
   },
   {
-    "claimID": 51,
-    "owner": "e7b74963-cd84-48dc-8817-64b1d28bae41",
-    "spawn": {
-      "x": 3935.0,
-      "y": 118.0,
-      "z": -6550.0,
-      "world": "world",
-      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
-      "pitch": 37.19971,
-      "yaw": 174.01483
-    },
-    "isPublic": false,
-    "name": "Unnamed (1)",
-    "ownerName": "PrismaBlue",
-    "playerClaimCount": 1
-  },
-  {
     "claimID": 179,
     "owner": "2b4bff53-e233-4f75-8c78-bb44cd9d15da",
     "spawn": {
@@ -1354,23 +1337,6 @@
     "name": "Unnamed (1)",
     "ownerName": "*MidasMan123",
     "playerClaimCount": 1
-  },
-  {
-    "claimID": 182,
-    "owner": "e07cb60a-ccc6-486c-b293-4e10582c08a5",
-    "spawn": {
-      "x": 8438.0,
-      "y": 63.0,
-      "z": 8529.0,
-      "world": "world",
-      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
-      "pitch": 0.0,
-      "yaw": 0.0
-    },
-    "isPublic": false,
-    "name": "Unnamed (3)",
-    "ownerName": "Toine1",
-    "playerClaimCount": 3
   },
   {
     "claimID": 183,
@@ -1818,13 +1784,13 @@
     "claimID": 219,
     "owner": "24ca840b-2c53-42ed-85f7-0f1f8fcac7c3",
     "spawn": {
-      "x": 37.0,
-      "y": 38.0,
-      "z": 46.0,
+      "x": -8.0,
+      "y": 35.0,
+      "z": -5.0,
       "world": "world",
       "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
-      "pitch": 31.799892,
-      "yaw": 90.33948
+      "pitch": 15.449868,
+      "yaw": -26.78778
     },
     "isPublic": false,
     "name": "Unnamed (1)",
@@ -2153,40 +2119,6 @@
     "name": "Unnamed (3)",
     "ownerName": "orangerolen",
     "playerClaimCount": 3
-  },
-  {
-    "claimID": 240,
-    "owner": "2f619c3c-9ec1-4bab-9868-f24184fbd80b",
-    "spawn": {
-      "x": 13475.0,
-      "y": 78.0,
-      "z": -4977.0,
-      "world": "world",
-      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
-      "pitch": 0.0,
-      "yaw": 0.0
-    },
-    "isPublic": false,
-    "name": "Unnamed (4)",
-    "ownerName": "orangerolen",
-    "playerClaimCount": 4
-  },
-  {
-    "claimID": 242,
-    "owner": "2f619c3c-9ec1-4bab-9868-f24184fbd80b",
-    "spawn": {
-      "x": 12921.0,
-      "y": 63.0,
-      "z": -4093.0,
-      "world": "world",
-      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
-      "pitch": 0.0,
-      "yaw": 0.0
-    },
-    "isPublic": false,
-    "name": "Unnamed (5)",
-    "ownerName": "orangerolen",
-    "playerClaimCount": 5
   },
   {
     "claimID": 252,
@@ -2639,23 +2571,6 @@
     "playerClaimCount": 1
   },
   {
-    "claimID": 290,
-    "owner": "dbcd22b0-87b3-438c-9017-d37f70855f99",
-    "spawn": {
-      "x": 11753.0,
-      "y": 66.0,
-      "z": -972.0,
-      "world": "world",
-      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
-      "pitch": 76.79995,
-      "yaw": 94.34863
-    },
-    "isPublic": false,
-    "name": "Unnamed (1)",
-    "ownerName": "JEMZaz123",
-    "playerClaimCount": 1
-  },
-  {
     "claimID": 291,
     "owner": "52f87190-6972-4dfe-9516-27034d91d608",
     "spawn": {
@@ -2962,23 +2877,6 @@
     "playerClaimCount": 1
   },
   {
-    "claimID": 312,
-    "owner": "59c66978-0fbe-4300-a731-11197f2fc976",
-    "spawn": {
-      "x": 4123.0,
-      "y": 63.0,
-      "z": -386.0,
-      "world": "world",
-      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
-      "pitch": 43.408905,
-      "yaw": -52.750854
-    },
-    "isPublic": false,
-    "name": "desert",
-    "ownerName": "Manvirdd102",
-    "playerClaimCount": 5
-  },
-  {
     "claimID": 313,
     "owner": "ac6e37ae-7b9c-41c8-851e-d3553a79aafb",
     "spawn": {
@@ -3059,7 +2957,7 @@
       "yaw": 0.0
     },
     "isPublic": false,
-    "name": "Unnamed (2)",
+    "name": "villagers",
     "ownerName": "C4t_L4dy",
     "playerClaimCount": 2
   },
@@ -3081,12 +2979,164 @@
     "playerClaimCount": 1
   },
   {
-    "claimID": 322,
+    "claimID": 324,
+    "owner": "5bd217f6-b89a-4064-a7f9-11733e8baafa",
+    "spawn": {
+      "x": 4236.0,
+      "y": 69.0,
+      "z": 92.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Test",
+    "ownerName": "Badbird5907",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 325,
+    "owner": "13e93462-9238-40b4-b46e-ac76ee94d7c0",
+    "spawn": {
+      "x": 6261.0,
+      "y": 68.0,
+      "z": -14450.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 6.9004917,
+      "yaw": -85.209045
+    },
+    "isPublic": true,
+    "name": "Spidey Farm",
+    "ownerName": "Kaiballz",
+    "playerClaimCount": 3
+  },
+  {
+    "claimID": 326,
+    "owner": "13e93462-9238-40b4-b46e-ac76ee94d7c0",
+    "spawn": {
+      "x": -1847.0,
+      "y": -23.0,
+      "z": 208.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 34.05012,
+      "yaw": -169.78839
+    },
+    "isPublic": false,
+    "name": "Caves",
+    "ownerName": "Kaiballz",
+    "playerClaimCount": 4
+  },
+  {
+    "claimID": 54,
+    "owner": "f2c7e17c-21ea-44a0-9c28-8c29ebc77fa9",
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "B_Simone",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 55,
+    "owner": "f2c7e17c-21ea-44a0-9c28-8c29ebc77fa9",
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "B_Simone",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 327,
+    "owner": "b4c1038c-c973-456a-988f-da778a6df7c5",
+    "spawn": {
+      "x": 3791.0,
+      "y": 63.0,
+      "z": 7236.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "The Ruin\u0027s Entrance",
+    "ownerName": "DINOMON10",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 329,
+    "owner": "b4c1038c-c973-456a-988f-da778a6df7c5",
+    "spawn": {
+      "x": 3819.0,
+      "y": 34.0,
+      "z": 7235.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 60.999477,
+      "yaw": -18.509277
+    },
+    "isPublic": false,
+    "name": "The Ruin",
+    "ownerName": "DINOMON10",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 330,
+    "owner": "de6e6759-00ae-4cbd-a5cc-b6e7cf5b213a",
+    "spawn": {
+      "x": 3830.0,
+      "y": 83.0,
+      "z": 510.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "billgk",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 331,
+    "owner": "1b1a2be1-f96f-4238-938b-3f877e3f1937",
+    "spawn": {
+      "x": 3931.0,
+      "y": 72.0,
+      "z": -8825.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "Sildar_",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 332,
+    "owner": "1b1a2be1-f96f-4238-938b-3f877e3f1937",
+    "spawn": {
+      "x": 2851.0,
+      "y": 72.0,
+      "z": -7732.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 46.56921,
+      "yaw": -94.5025
+    },
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "Sildar_",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 333,
     "owner": "12a0582c-9f8f-4a49-87d1-4090bbfb17fe",
     "spawn": {
-      "x": -883.0,
+      "x": -877.0,
       "y": 79.0,
-      "z": -1816.0,
+      "z": -1813.0,
       "world": "world",
       "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
       "pitch": 0.0,
@@ -3096,5 +3146,472 @@
     "name": "Unnamed (3)",
     "ownerName": "C4t_L4dy",
     "playerClaimCount": 3
+  },
+  {
+    "claimID": 334,
+    "owner": "12a0582c-9f8f-4a49-87d1-4090bbfb17fe",
+    "spawn": {
+      "x": -946.0,
+      "y": 88.0,
+      "z": -1792.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (4)",
+    "ownerName": "C4t_L4dy",
+    "playerClaimCount": 4
+  },
+  {
+    "claimID": 335,
+    "owner": "12a0582c-9f8f-4a49-87d1-4090bbfb17fe",
+    "spawn": {
+      "x": -904.0,
+      "y": 82.0,
+      "z": -1798.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (5)",
+    "ownerName": "C4t_L4dy",
+    "playerClaimCount": 5
+  },
+  {
+    "claimID": 336,
+    "owner": "20e4467c-7b6b-43d8-9ee1-b30feeecbcb5",
+    "spawn": {
+      "x": -8346.0,
+      "y": 40.0,
+      "z": 1821.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "oofnt",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 337,
+    "owner": "00000000-0000-0000-0009-01f8dfe8577f",
+    "spawn": {
+      "x": 9044.0,
+      "y": 78.0,
+      "z": 5818.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "*CrazieMax14",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 338,
+    "owner": "00000000-0000-0000-0009-01f8dfe8577f",
+    "spawn": {
+      "x": 9036.0,
+      "y": 69.0,
+      "z": 5779.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (3)",
+    "ownerName": "*CrazieMax14",
+    "playerClaimCount": 3
+  },
+  {
+    "claimID": 339,
+    "owner": "00000000-0000-0000-0009-01f151035bfd",
+    "spawn": {
+      "x": 9011.0,
+      "y": 71.0,
+      "z": 5760.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "*Monke_king6989",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 340,
+    "owner": "dee05b70-7a74-4714-bf84-1ad42a6ef55c",
+    "spawn": {
+      "x": -5898.0,
+      "y": 136.0,
+      "z": 3191.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 24.664915,
+      "yaw": 3.462708
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "Elends",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 341,
+    "owner": "20e4467c-7b6b-43d8-9ee1-b30feeecbcb5",
+    "spawn": {
+      "x": -8242.0,
+      "y": 77.0,
+      "z": 1835.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 62.412834,
+      "yaw": -36.073486
+    },
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "oofnt",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 342,
+    "owner": "9169f4f6-6597-49a6-a040-e04057a43a30",
+    "spawn": {
+      "x": -4822.0,
+      "y": 109.0,
+      "z": 3486.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "imike000",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 343,
+    "owner": "b90a0aa3-7e06-4b21-8234-c5565bec2a9f",
+    "spawn": {
+      "x": -3253.0,
+      "y": 64.0,
+      "z": 8287.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "GermanMechanic",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 344,
+    "owner": "b90a0aa3-7e06-4b21-8234-c5565bec2a9f",
+    "spawn": {
+      "x": -3256.0,
+      "y": 71.0,
+      "z": 8261.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "GermanMechanic",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 345,
+    "owner": "79391548-06e3-4384-9f76-05eeb158ac6e",
+    "spawn": {
+      "x": 9421.0,
+      "y": 68.0,
+      "z": -13567.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (5)",
+    "ownerName": "Golden10101",
+    "playerClaimCount": 5
+  },
+  {
+    "claimID": 346,
+    "owner": "ba717179-e583-4551-81c8-b18d5ffcbf53",
+    "spawn": {
+      "x": 8239.0,
+      "y": 76.0,
+      "z": 4465.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "Rnami77",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 347,
+    "owner": "ba717179-e583-4551-81c8-b18d5ffcbf53",
+    "spawn": {
+      "x": 8227.0,
+      "y": 117.0,
+      "z": 4526.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "Rnami77",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 348,
+    "owner": "7c86d528-f933-4ce2-9c13-3914124b40a4",
+    "spawn": {
+      "x": 2567.0,
+      "y": 70.0,
+      "z": -9833.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "Diamondsimon020",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 349,
+    "owner": "e07cb60a-ccc6-486c-b293-4e10582c08a5",
+    "spawn": {
+      "x": 7894.0,
+      "y": 98.0,
+      "z": -2949.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (5)",
+    "ownerName": "Toine1",
+    "playerClaimCount": 5
+  },
+  {
+    "claimID": 350,
+    "owner": "9e39341b-4f32-4794-ba88-88dd97a717da",
+    "spawn": {
+      "x": 2754.0,
+      "y": 99.0,
+      "z": 4646.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "EinfachDesi",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 351,
+    "owner": "37a146b3-1b95-468c-9779-e83895dcc91c",
+    "spawn": {
+      "x": -1426.0,
+      "y": 63.0,
+      "z": -4175.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "Nilomas",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 352,
+    "owner": "0e2830db-32f6-4eb5-840a-8039caaf378c",
+    "spawn": {
+      "x": 9158.0,
+      "y": 65.0,
+      "z": 232.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 28.35003,
+      "yaw": -24.930786
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "qwertzuio1990",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 353,
+    "owner": "dbcd22b0-87b3-438c-9017-d37f70855f99",
+    "spawn": {
+      "x": 11745.0,
+      "y": 66.0,
+      "z": -972.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 66.75009,
+      "yaw": 89.55552
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "JEMZaz123",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 355,
+    "owner": "5da3daa6-38f3-49a4-928b-4ea25e994a20",
+    "spawn": {
+      "x": 5570.0,
+      "y": 65.0,
+      "z": 578.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "Leon2008K",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 5,
+    "owner": "6bac7c35-0ec9-47de-bf56-e815937dfea6",
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "Malovite",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 356,
+    "owner": "2f619c3c-9ec1-4bab-9868-f24184fbd80b",
+    "spawn": {
+      "x": 13989.0,
+      "y": 86.0,
+      "z": -9398.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (4)",
+    "ownerName": "orangerolen",
+    "playerClaimCount": 4
+  },
+  {
+    "claimID": 358,
+    "owner": "1b34d7b8-351f-4c17-8cae-2b58be40cdc7",
+    "spawn": {
+      "x": 6747.0,
+      "y": 83.0,
+      "z": -2060.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (2)",
+    "ownerName": "DenTelos",
+    "playerClaimCount": 2
+  },
+  {
+    "claimID": 359,
+    "owner": "00000000-0000-0000-0009-01f8dfe8577f",
+    "spawn": {
+      "x": 6953.0,
+      "y": 72.0,
+      "z": -2357.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (4)",
+    "ownerName": "*CrazieMax14",
+    "playerClaimCount": 4
+  },
+  {
+    "claimID": 360,
+    "owner": "2f619c3c-9ec1-4bab-9868-f24184fbd80b",
+    "spawn": {
+      "x": 14799.0,
+      "y": 68.0,
+      "z": -10582.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (5)",
+    "ownerName": "orangerolen",
+    "playerClaimCount": 5
+  },
+  {
+    "claimID": 361,
+    "owner": "00000000-0000-0000-0009-01fa5602e3f5",
+    "spawn": {
+      "x": 3350.0,
+      "y": 66.0,
+      "z": 5719.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "*commandrcody919",
+    "playerClaimCount": 1
+  },
+  {
+    "claimID": 362,
+    "owner": "2c4e406f-aa31-4f99-9572-92703cca6099",
+    "spawn": {
+      "x": 3743.0,
+      "y": 78.0,
+      "z": 5305.0,
+      "world": "world",
+      "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
+      "pitch": 0.0,
+      "yaw": 0.0
+    },
+    "isPublic": false,
+    "name": "Unnamed (1)",
+    "ownerName": "Bodgers16",
+    "playerClaimCount": 1
   }
 ]
