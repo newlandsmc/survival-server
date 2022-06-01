@@ -3598,12 +3598,12 @@
     "playerClaimCount": 1
   },
   {
-    "claimID": 362,
+    "claimID": 363,
     "owner": "2c4e406f-aa31-4f99-9572-92703cca6099",
     "spawn": {
-      "x": 3743.0,
-      "y": 78.0,
-      "z": 5305.0,
+      "x": 5208.0,
+      "y": 67.0,
+      "z": 6482.0,
       "world": "world",
       "worldId": "1b5a5aba-e72d-4776-b983-3e2187bffc20",
       "pitch": 0.0,
