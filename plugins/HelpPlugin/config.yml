@@ -93,7 +93,7 @@ links:
 
 book:
   help:
-    pages: 27
+    pages: 21
     0:
       - '        <gradient:aqua:dark_purple><bold>Asthonia</bold></gradient>'
       - '           <bold>Help</bold>'
@@ -143,8 +143,8 @@ book:
       - '<bold>Commands:</bold>'
       - 'See our website.'
       - ''
-      - '    <click:open_url:https://asthonia.com/claiming><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://asthonia.com/claiming><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://semivanilla.com/features/claiming><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://semivanilla.com/features/claiming><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
     4:
       - ''
       - ''
@@ -180,8 +180,8 @@ book:
       - ' - /<skillname>'
       - ' - /mana'
       - ''
-      - '    <click:open_url:https://asthonia.com/skills><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://asthonia.com/skills><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://semivanilla.com/features/skills><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://semivanilla.com/features/skills><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
     7:
       - ''
       - ''
@@ -193,15 +193,15 @@ book:
     8:
       - '  <bold>Custom Enchants</bold>'
       - ''
-      - 'There are 94 unique'
+      - 'There are 44 unique'
       - 'custom enchants you'
       - 'can put on your'
       - 'weapons, armor, and'
       - 'tools.'
       - ''
       - 'A single item can have'
-      - 'up to 3 custom'
-      - 'enchants by default.'
+      - 'up to 4 custom'
+      - 'enchantments.'
     9:
       - 'Custom enchants can'
       - 'be obtained through'
@@ -214,8 +214,8 @@ book:
       - 'books in loot chests'
       - 'and villagers.'
       - ''
-      - '    <click:open_url:https://asthonia.com/enchants><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://asthonia.com/enchants><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://semivanilla.com/features/enchants><gradient:aqua:dark_purple><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://semivanilla.com/features/enchants><gradient:aqua:dark_purple><bold>our website!</bold></gradient></click>'
     10:
       - ''
       - ''
@@ -255,7 +255,7 @@ book:
       - '<bold>Commands:</bold>'
       - '- /tpa'
       - '- /tpahere'
-      - '- /lands spawn'
+      - '- /claims'
     14:
       - ''
       - ''
@@ -297,7 +297,7 @@ book:
       - ''
       - ''
       - ''
-      - '    <color:#8f4dd5><bold>Section VII</bold></color>'
+      - '     <color:#8f4dd5><bold>Section VII</bold></color>'
       - '         <bold>Other</bold>'
     18:
       - '         <bold>Other</bold>'
@@ -319,7 +319,7 @@ book:
       - ''
       - ''
       - ''
-      - '    <color:#aa00aa><bold>Section VIII</bold></color>'
+      - '     <color:#aa00aa><bold>Section VIII</bold></color>'
       - '       <bold>More Help</bold>'
     20:
       - '       <bold>More Help</bold>'

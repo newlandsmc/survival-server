@@ -32,6 +32,7 @@ timings:
   server-name: SemiVanilla MC
 config-version: 27
 settings:
+  resolve-selectors-in-books: false
   proxy-protocol: false
   use-dimension-type-for-custom-spawners: false
   chunk-loading:
@@ -307,6 +308,9 @@ world-settings:
       azalea_tree: -5406688656918486007
       ore_dirt: 5388643638267303083
   default:
+    treasure-maps-find-already-discovered:
+      villager-trade: false
+      loot-tables: default
     slime-spawn-height:
       swamp-biome:
         maximum: 70.0
@@ -524,7 +528,6 @@ world-settings:
       fix-invulnerable-end-crystal-exploit: true
     all-chunks-are-slime-chunks: false
     enable-treasure-maps: true
-    treasure-maps-return-already-discovered: false
     generator-settings:
       flat-bedrock: false
     armor-stands-tick: true
