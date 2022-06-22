@@ -27,6 +27,7 @@
 /plugins/NoBedRespawnHandler/data/
 /plugins/Vulcan/violations.txt
 /plugins/OldExpeditions/data/
+/plugins/GriefPreventionTP/claims.json
 
 # Ignore bloat in plugins
 /plugins/LuckPerms/libs/
