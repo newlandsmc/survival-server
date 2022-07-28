@@ -269,26 +269,31 @@ enderslayer:
     1:
       condition:
         - "%mob type% = ENDERMAN or %mob type% = ENDERMITE or %mob type% = ENDER_DRAGON or %mob type% = ENDERDRAGON : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:1 %victim%"
     2:
       condition:
-        - "%mob type% = ENDERMAN o %mob type% = ENDERMITE or  %mob type% = ENDER_DRAGON or %mob type% = ENDERDRAGON : %allow%"
+        - "%mob type% = ENDERMAN or %mob type% = ENDERMITE or  %mob type% = ENDER_DRAGON or %mob type% = ENDERDRAGON : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:1.5 %victim%"
     3:
       condition:
         - "%mob type% = ENDERMAN or %mob type% = ENDERMITE or  %mob type% = ENDER_DRAGON or %mob type% = ENDERDRAGON : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:2 %victim%"
     4:
       condition:
         - "%mob type% = ENDERMAN or %mob type% = ENDERMITE or  %mob type% = ENDER_DRAGON or %mob type% = ENDERDRAGON : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:2.5 %victim%"
     5:
       condition:
         - "%mob type% = ENDERMAN or %mob type% = ENDERMITE or  %mob type% = ENDER_DRAGON or %mob type% = ENDERDRAGON : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:3 %victim%"
 hook:
@@ -352,26 +357,31 @@ netherslayer:
     1:
       condition:
         - "%mob type% = BLAZE or %mob type% = GHAST or %mob type% = ZOMBIFIED_PIGLIN or %mob type% = ZOGLIN or %mob type% = WITHER_SKELETON or %mob type% = PIGLIN_BRUTE or %mob type% = PIGLIN or %mob type% = MAGMA_CUBE or %mob type% = HOGLIN or %mob type% = STRIDER : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:1 %victim%"
     2:
       condition:
         - "%mob type% = BLAZE or %mob type% = GHAST or %mob type% = ZOMBIFIED_PIGLIN or %mob type% = ZOGLIN or %mob type% = WITHER_SKELETON or %mob type% = PIGLIN_BRUTE or %mob type% = PIGLIN or %mob type% = MAGMA_CUBE or %mob type% = HOGLIN or %mob type% = STRIDER : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:1.5 %victim%"
     3:
       condition:
         - "%mob type% = BLAZE or %mob type% = GHAST or %mob type% = ZOMBIFIED_PIGLIN or %mob type% = ZOGLIN or %mob type% = WITHER_SKELETON or %mob type% = PIGLIN_BRUTE or %mob type% = PIGLIN or %mob type% = MAGMA_CUBE or %mob type% = HOGLIN or %mob type% = STRIDER : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:2 %victim%"
     4:
       condition:
         - "%mob type% = BLAZE or %mob type% = GHAST or %mob type% = ZOMBIFIED_PIGLIN or %mob type% = ZOGLIN or %mob type% = WITHER_SKELETON or %mob type% = PIGLIN_BRUTE or %mob type% = PIGLIN or %mob type% = MAGMA_CUBE or %mob type% = HOGLIN or %mob type% = STRIDER : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:2.5 %victim%"
     5:
       condition:
         - "%mob type% = BLAZE or %mob type% = GHAST or %mob type% = ZOMBIFIED_PIGLIN or %mob type% = ZOGLIN or %mob type% = WITHER_SKELETON or %mob type% = PIGLIN_BRUTE or %mob type% = PIGLIN or %mob type% = MAGMA_CUBE or %mob type% = HOGLIN or %mob type% = STRIDER : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:3 %victim%"
 allure:
@@ -385,12 +395,18 @@ allure:
     - BOW
   levels:
     1:
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PULL_CLOSER:0.1 %victim%"
     2:
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PULL_CLOSER:0.2 %victim%"
     3:
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PULL_CLOSER:0.3 %victim%"
 poison:
@@ -409,16 +425,22 @@ poison:
     1:
       chance: 5
       cooldown: 2
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "POTION:POISON:0:80 %victim%"
     2:
       chance: 10
       cooldown: 2
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "POTION:POISON:0:80 %victim%"
     3:
       chance: 15
       cooldown: 2
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "POTION:POISON:1:80 %victim%"
 springs:
@@ -633,19 +655,25 @@ critical:
     1:
       chance: 15
       cooldown: 5
-      condition: "%is critical% = true : %allow%"
+      condition:
+        - "%is critical% = true : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "INCREASE_DAMAGE:10"
     2:
       chance: 25
       cooldown: 5
-      condition: "%is critical% = true : %allow%"
+      condition:
+        - "%is critical% = true : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "INCREASE_DAMAGE:15"
     3:
       chance: 35
       cooldown: 5
-      condition: "%is critical% = true : %allow%"
+      condition:
+        - "%is critical% = true : %allow%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "INCREASE_DAMAGE:20"
 creeperarmor:
@@ -687,6 +715,8 @@ bleed:
   levels:
     1:
       chance: 8
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
         - "WAIT:20"
@@ -695,6 +725,8 @@ bleed:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
     2:
       chance: 15
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
         - "WAIT:20"
@@ -703,6 +735,8 @@ bleed:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
     3:
       chance: 23
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
         - "WAIT:20"
@@ -711,6 +745,8 @@ bleed:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
     4:
       chance: 30
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
         - "WAIT:20"
@@ -719,6 +755,8 @@ bleed:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
     5:
       chance: 44
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:<random number>1-3</random number> %victim%"
         - "WAIT:20"
@@ -788,6 +826,8 @@ doublestrike:
     1:
       chance: 8
       cooldown: 15
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "WAIT:20"
         - "ADD_HARM:%damage% %victim%"
@@ -795,6 +835,8 @@ doublestrike:
     2:
       chance: 13
       cooldown: 15
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "WAIT:20"
         - "ADD_HARM:%damage% %victim%"
@@ -802,6 +844,8 @@ doublestrike:
     3:
       chance: 19
       cooldown: 15
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "WAIT:20"
         - "ADD_HARM:%damage% %victim%"
@@ -837,18 +881,24 @@ inflame:
     1:
       chance: 10
       cooldown: 4
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PARTICLE:FALLING_LAVA:5:0 <aoe> radius=3 target=damageable </aoe>"
         - "FLAME:40 <aoe> radius=2 target=damageable </aoe>"
     2:
       chance: 15
       cooldown: 5
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PARTICLE:FALLING_LAVA:5:0 <aoe> radius=4 target=damageable </aoe>"
         - "FLAME:50 <aoe> radius=6 target=damageable </aoe>"
     3:
       chance: 25
       cooldown: 5
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PARTICLE:FALLING_LAVA:5:0 <aoe> radius=4 target=damageable </aoe>"
         - "FLAME:60 <aoe> radius=4 target=damageable </aoe>"
@@ -865,36 +915,46 @@ killaura:
     1:
       chance: 5
       cooldown: 3
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PARTICLE:SPELL_MOB:5:0 <aoe> radius=3 target=mobs </aoe>"
         - "ADD_HARM:2 <aoe> radius=2 target=mobs </aoe>"
     2:
       chance: 8
       cooldown: 4
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PARTICLE:SPELL_MOB:5:0 <aoe> radius=3 target=mobs </aoe>"
         - "ADD_HARM:3 <aoe> radius=2 target=mobs </aoe>"
     3:
       chance: 12
       cooldown: 5
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PARTICLE:SPELL_MOB:5:0 <aoe> radius=3 target=mobs </aoe>"
         - "ADD_HARM:4 <aoe> radius=3 target=mobs </aoe>"
     4:
       chance: 15
       cooldown: 5
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PARTICLE:SPELL_MOB:5:0 <aoe> radius=4 target=mobs </aoe>"
         - "ADD_HARM:5 <aoe> radius=3 target=mobs </aoe>"
     5:
       chance: 18
       cooldown: 6
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "PARTICLE:SPELL_MOB:5:0 <aoe> radius=4 target=mobs </aoe>"
         - "ADD_HARM:7 <aoe> radius=4 target=mobs </aoe>"
 inquisitive:
   display: "%group-color%Inquisitive"
-  description: "Chance to increase EXP drops from mobs."
+  description: "Increase EXP drops from mobs."
   applies-to: "Swords, Axes, Tridents"
   type: "KILL_MOB"
   group: "EXOTIC"
@@ -904,20 +964,20 @@ inquisitive:
     - TRIDENT
   levels:
     1:
-      chance: 30
-      cooldown: 4
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
-        - "EXP:<math>%exp% * (1.0 + 0.25 * %level%)</math> %victim%"
+        - "EXP:<math>%exp% * 1.1</math> %victim%"
     2:
-      chance: 35
-      cooldown: 4
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
-        - "EXP:<math>%exp% * (1.0 + 0.25 * %level%)</math> %victim%"
+        - "EXP:<math>%exp% * 1.3</math> %victim%"
     3:
-      chance: 40
-      cooldown: 4
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
-        - "EXP:<math>%exp% * (1.0 + 0.25 * %level%)</math> %victim%"
+        - "EXP:<math>%exp% * 1.5</math> %victim%"
 blacksmith:
   display: "%group-color%Blacksmith"
   description: "Chance to repair your weapon in exchange for\ndealing less damage."
@@ -931,6 +991,8 @@ blacksmith:
     1:
       chance: 9
       cooldown: 3
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_DURABILITY:-1"
         - "HALF_DAMAGE"
@@ -938,6 +1000,8 @@ blacksmith:
     2:
       chance: 15
       cooldown: 3
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_DURABILITY:-1"
         - "HALF_DAMAGE"
@@ -945,6 +1009,8 @@ blacksmith:
     3:
       chance: 23
       cooldown: 3
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_DURABILITY:-1"
         - "HALF_DAMAGE"
@@ -952,6 +1018,8 @@ blacksmith:
     4:
       chance: 31
       cooldown: 3
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_DURABILITY:-2"
         - "HALF_DAMAGE"
@@ -959,6 +1027,8 @@ blacksmith:
     5:
       chance: 39
       cooldown: 3
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_DURABILITY:-2"
         - "HALF_DAMAGE"
@@ -1011,18 +1081,27 @@ bluntforce:
     1:
       chance: 15
       cooldown: 15
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "INCREASE_DAMAGE:<random number>25-35</random number> %victim%"
+        - 'ACTIONBAR:&5*** STRUCK WITH GREAT FORCE *** %attacker%'
     2:
       chance: 25
       cooldown: 15
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "INCREASE_DAMAGE:<random number>30-45</random number> %victim%"
+        - 'ACTIONBAR:&5*** STRUCK WITH GREAT FORCE *** %attacker%'
     3:
       chance: 33
       cooldown: 15
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - "INCREASE_DAMAGE:<random number>40-60</random number> %victim%"
+        - 'ACTIONBAR:&5*** STRUCK WITH GREAT FORCE *** %attacker%'
 plummet:
   display: "%group-color%Plummet"
   description: "Deal damage to nearby mobs when taking fall\ndamage."
@@ -1052,15 +1131,21 @@ nightowl:
     - ALL_AXE
   levels:
     1:
-      condition: "%time% > 12300 or %time% < 23850 : %allow%"
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+        - "%time% > 12300 or %time% < 23850 : %allow%"
       effects:
         - "INCREASE_DAMAGE:25"
     2:
-      condition: "%time% > 12300 or %time% < 23850 : %allow%"
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+        - "%time% > 12300 or %time% < 23850 : %allow%"
       effects:
         - "INCREASE_DAMAGE:35"
     3:
-      condition: "%time% > 12300 or %time% < 23850 : %allow%"
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+        - "%time% > 12300 or %time% < 23850 : %allow%"
       effects:
         - "INCREASE_DAMAGE:50"
 momentum:
@@ -1103,25 +1188,30 @@ execute:
     1:
       condition:
         - "%victim health% > 6 : %stop%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - 'INCREASE_DAMAGE:15 %attacker%'
     2:
       condition:
         - "%victim health% > 6 : %stop%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - 'INCREASE_DAMAGE:25 %attacker%'
     3:
       condition:
+        - "%damage cause% != THORNS : %allow%"
         - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:35 %attacker%'
     4:
       condition:
+        - "%damage cause% != THORNS : %allow%"
         - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:50 %attacker%'
     5:
       condition:
+        - "%damage cause% != THORNS : %allow%"
         - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:100 %attacker%'
@@ -1168,25 +1258,30 @@ rage:
     1:
       condition:
         - "%victim health% > 6 : %stop%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - 'INCREASE_DAMAGE:15 %attacker%'
     2:
       condition:
         - "%victim health% > 6 : %stop%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - 'INCREASE_DAMAGE:25 %attacker%'
     3:
       condition:
         - "%victim health% > 6 : %stop%"
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - 'INCREASE_DAMAGE:35 %attacker%'
     4:
       condition:
+        - "%damage cause% != THORNS : %allow%"
         - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:50 %attacker%'
     5:
       condition:
+        - "%damage cause% != THORNS : %allow%"
         - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:100 %attacker%'
@@ -1198,7 +1293,7 @@ impale:
   type: 'BOW;BOW_MOB'
   group: 'EXOTIC'
   applies:
-    - TRIDENTS
+    - TRIDENT
   levels:
     1:
       chance: 4
@@ -1351,6 +1446,8 @@ reach:
     - TRIDENT
   levels:
     1:
+      condition:
+        - "%damage cause% != THORNS : %allow%"
       effects:
         - 'REACH:5'
 shockwave:
