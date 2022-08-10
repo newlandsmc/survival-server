@@ -15,15 +15,15 @@ returning-player:
     duration-seconds: 4
     fade-in: 1000
     fade-out: 1000
-    title: '<animate>Asthonia</animate>'
-    subtitle: 'The Adventure Continues'
+    title: '<light_purple>Asthonia</light_purple>'
+    subtitle: '<gray>The Adventure Continues</gray>'
     bedrock:
       enable: true
       duration-seconds: 4
       fade-in: 1000
       fade-out: 1000
       title: 'Asthonia'
-      subtitle: 'The Adventure Continues'
+      subtitle: '<gray>The Adventure Continues</gray>'
   join-sounds:
     enabled: false
     name: 'ui.toast.challenge_complete'
@@ -36,15 +36,15 @@ new-player:
     duration-seconds: 4
     fade-in: 1000
     fade-out: 1000
-    title: '<animate>Asthonia</animate>'
-    subtitle: 'The Adventure Begins'
+    title: '<light_purple>Asthonia</light_purple>'
+    subtitle: '<gray>The Adventure Begins</gray>'
     bedrock:
       enable: true
       duration-seconds: 4
       fade-in: 1000
       fade-out: 1000
       title: 'Asthonia'
-      subtitle: 'The Adventure Continues'
+      subtitle: '<gray>The Adventure Begins</gray>'
   join-sounds:
     enabled: false
     name: 'UI_TOAST_CHALLENGE_COMPLETE'

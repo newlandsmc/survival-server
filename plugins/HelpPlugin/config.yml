@@ -361,7 +361,7 @@ book:
       - '<click:open_url:%map-link%>player''s locations in</click>'
       - '<click:open_url:%map-link%>real time!</click>'
       - ''
-      - '<click:open_url:%map-link%>Shows approximate</click>'
+      - '<click:open_url:%map-link%>Shows exact</click>'
       - '<click:open_url:%map-link%>location.</click>'
       - ''
       - '<click:open_url:%map-link%>   <gradient:aqua:dark_purple><bold>CLICK TO OPEN</bold></gradient></click>'
