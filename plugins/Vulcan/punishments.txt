@@ -1378,3 +1378,91 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ Frqmed_ was punished for Aim (Type Y) ]--------------
+
+Location:
+ - World: world
+ - X: 1371.1344851634494
+ - Y: -24.5
+ - Z: 4461.938954496745
+
+Information:
+ - UUID: 1b7d90d5-96c0-4216-93b1-52b433a442e0
+ - Keep Alive Ping: 117
+ - Transaction Ping: 119
+ - Server TPS: 20
+ - Sensitivity: -32
+ - Gamemode: SURVIVAL
+ - Client Brand: Vivecraft
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 70.8 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 5
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1267
+ - Since Riptide Ticks: 5888
+ - Flying Delay: 58
+ - Since Velocity Ticks: 1416
+ - Since Firework Ticks: 1503
+ - Ticks Existed: 6644
+ - Since Vehicle Ticks: 5788
+ - Joined: 340 seconds ago
+
+All Violations:
+ - Aim (Type Y) [VL: 5] (Generic rotation analysis heuristic.)
+
+Blocks Nearby: [END_STONE_BRICKS, END_STONE_BRICK_STAIRS, END_STONE_BRICK_STAIRS, END_STONE_BRICKS, END_STONE_BRICK_STAIRS, CAVE_AIR, AIR, CAVE_AIR, CAVE_AIR, AIR, CAVE_AIR, CAVE_AIR, END_STONE_BRICKS, END_STONE_BRICK_STAIRS, END_STONE_BRICK_STAIRS, END_STONE_BRICKS, END_STONE_BRICK_STAIRS, CAVE_AIR, AIR, CAVE_AIR, CAVE_AIR, AIR, CAVE_AIR, CAVE_AIR, END_STONE_BRICKS, END_STONE_BRICK_STAIRS, END_STONE_BRICK_STAIRS, END_STONE_BRICKS, END_STONE_BRICK_STAIRS, CAVE_AIR, AIR, CAVE_AIR, CAVE_AIR, AIR, CAVE_AIR, CAVE_AIR]
+Entities Nearby: [CraftPlayer{name=bacongrubber}]
+Potion Effects: [JUMP:2147476856t-x0, WATER_BREATHING:200t-x0]
+---------------------------------------------------------------------------
+
+
+--------------[ UKZ_WALKERS_9 was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -939.1171095127193
+ - Y: 31.32180050112298
+ - Z: 1484.0971313110808
+
+Information:
+ - UUID: c5f17a94-3c82-4920-8dea-5eb64836835e
+ - Keep Alive Ping: 802
+ - Transaction Ping: 615
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 8.45 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 34
+ - Since Riptide Ticks: 4086
+ - Flying Delay: 72
+ - Since Velocity Ticks: 169
+ - Since Firework Ticks: 4086
+ - Ticks Existed: 4724
+ - Since Vehicle Ticks: 3986
+ - Joined: 303 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [OBSIDIAN, OBSIDIAN, OBSIDIAN, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OBSIDIAN, OBSIDIAN, OBSIDIAN, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OBSIDIAN, OBSIDIAN, OBSIDIAN, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:2147477599t-x2, JUMP:2147477599t-x2]
+---------------------------------------------------------------------------
+
+

@@ -7,9 +7,3 @@ back:
 sethome:
   enabled: true
   message: "<red>To set a home, claim some land! Use /claim to get started."
-home:
-  enabled: true
-  message: "<red>To set a home, claim some land! Use /claim to get started."
-homes:
-  enabled: true
-  message: "<red>To set a home, claim some land! Use /claim to get started."

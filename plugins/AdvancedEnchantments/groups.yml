@@ -11,7 +11,7 @@ settings:
     # If false, Randomization scrolls can be applied to different groups
     limit-applying-per-group: true
   # If set group is invalid, what should be the fall-back group
-  fallback-group: SIMPLE
+  fallback-group: COMMON
 groups:
   COMMON:
     global-color: "&f"

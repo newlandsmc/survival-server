@@ -42,8 +42,8 @@ GriefPrevention:
       ChestClaimDays: 7
       UnusedClaimDays: 14
       AllClaims:
-        DaysInactive: 90
-        ExceptWhenOwnerHasTotalClaimBlocks: -1
+        DaysInactive: 30
+        ExceptWhenOwnerHasTotalClaimBlocks: 25000
         ExceptWhenOwnerHasBonusClaimBlocks: -1
       AutomaticNatureRestoration:
         SurvivalWorlds: false
