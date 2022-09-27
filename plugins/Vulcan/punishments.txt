@@ -1466,3 +1466,182 @@ Potion Effects: [SPEED:2147477599t-x2, JUMP:2147477599t-x2]
 ---------------------------------------------------------------------------
 
 
+--------------[ CrispTheBunz was punished for Step (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 4431.662951881888
+ - Y: 81.53584062504456
+ - Z: 1579.405832315468
+
+Information:
+ - UUID: 24854d61-d612-448c-b722-7e6ca50cbe1b
+ - Keep Alive Ping: 36
+ - Transaction Ping: 49
+ - Server TPS: 20
+ - Sensitivity: -32
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 60.4 seconds ago
+
+Total Violations: 6
+ - Combat Violations: 1
+ - Movement Violations: 5
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2457
+ - Since Riptide Ticks: 10449
+ - Flying Delay: 49
+ - Since Velocity Ticks: 1208
+ - Since Firework Ticks: 10449
+ - Ticks Existed: 11270
+ - Since Vehicle Ticks: 10349
+ - Joined: 563 seconds ago
+
+All Violations:
+ - Aim (Type W) [VL: 1] (Generic rotation analysis heuristic.)
+ - Step (Type A) [VL: 5] (Invalid Step height.)
+
+Blocks Nearby: [AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, SUNFLOWER, AIR, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ TTVyounoob was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -16.30000001192093
+ - Y: 60.0
+ - Z: 73.54719286268947
+
+Information:
+ - UUID: 79e1e1f2-54c0-4bcf-a38a-a917981c5a8b
+ - Keep Alive Ping: 41
+ - Transaction Ping: 49
+ - Server TPS: 20
+ - Sensitivity: -31
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19
+ - Last Damage: 75.75 seconds ago
+
+Total Violations: 9
+ - Combat Violations: 0
+ - Movement Violations: 6
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1496
+ - Since Riptide Ticks: 1675
+ - Flying Delay: 149
+ - Since Velocity Ticks: 1515
+ - Since Firework Ticks: 1675
+ - Ticks Existed: 1674
+ - Since Vehicle Ticks: 1575
+ - Joined: 252 seconds ago
+
+All Violations:
+ - Strafe (Type B) [VL: 6] (Moving incorrectly on the ground.)
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [STONE, STONE, STONE, DIRT, STONE, DIRT, DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, STONE, STONE, STONE, DIRT, AIR, DIRT, DIRT, AIR, DIRT, GRASS_BLOCK, AIR, GRASS_BLOCK, STONE, STONE, STONE, STONE, STONE, STONE, DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK]
+Entities Nearby: [CraftItem]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ TTVyounoob was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -69.0925654274725
+ - Y: 63.0
+ - Z: 106.80829492523762
+
+Information:
+ - UUID: 79e1e1f2-54c0-4bcf-a38a-a917981c5a8b
+ - Keep Alive Ping: 267
+ - Transaction Ping: 181
+ - Server TPS: 20
+ - Sensitivity: -29
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19
+ - Last Damage: 41.2 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 323
+ - Since Riptide Ticks: 572
+ - Flying Delay: 0
+ - Since Velocity Ticks: 824
+ - Since Firework Ticks: 572
+ - Ticks Existed: 724
+ - Since Vehicle Ticks: 257
+ - Joined: 83 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, GRASS, AIR, AIR, AIR, OAK_LEAVES, OAK_LEAVES, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, GRASS, AIR, AIR, AIR, AIR, OAK_LEAVES, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, OAK_LEAVES, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ TTVyounoob was punished for Bad Packets (Type 1) ]--------------
+
+Location:
+ - World: world
+ - X: -56.99390557304922
+ - Y: 41.0
+ - Z: 141.30000001192093
+
+Information:
+ - UUID: 79e1e1f2-54c0-4bcf-a38a-a917981c5a8b
+ - Keep Alive Ping: 247
+ - Transaction Ping: 233
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19
+ - Last Damage: 57.95 seconds ago
+
+Total Violations: 16
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 16
+
+Misc Information:
+ - Since Teleport Ticks: 1159
+ - Since Riptide Ticks: 974
+ - Flying Delay: 1094
+ - Since Velocity Ticks: 1159
+ - Since Firework Ticks: 974
+ - Ticks Existed: 1059
+ - Since Vehicle Ticks: 874
+ - Joined: 176 seconds ago
+
+All Violations:
+ - Baritone (Type A) [VL: 1] (Checks for Baritone like rotations.)
+ - Bad Packets (Type 1) [VL: 15] (Sent too many Start Dig packets.)
+
+Blocks Nearby: [IRON_ORE, STONE, STONE, GRANITE, AIR, AIR, GRANITE, AIR, AIR, GRANITE, AIR, AIR, IRON_ORE, STONE, STONE, IRON_ORE, AIR, AIR, AIR, AIR, AIR, GRANITE, AIR, AIR, STONE, STONE, STONE, STONE, STONE, STONE, STONE, AIR, AIR, STONE, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
