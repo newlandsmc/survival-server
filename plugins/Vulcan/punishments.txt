@@ -1645,3 +1645,179 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ OceIot was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -480.9735450336461
+ - Y: 37.0
+ - Z: -10635.852647973148
+
+Information:
+ - UUID: 6b746ca4-f8de-4dbb-bc80-c20743438ff3
+ - Keep Alive Ping: 99
+ - Transaction Ping: 105
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 24.65 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 8322
+ - Since Riptide Ticks: 42413
+ - Flying Delay: 40
+ - Since Velocity Ticks: 493
+ - Since Firework Ticks: 42413
+ - Ticks Existed: 50872
+ - Since Vehicle Ticks: 42313
+ - Joined: 10530 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, SPRUCE_FENCE, SPRUCE_FENCE, SPRUCE_FENCE, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [FAST_DIGGING:66t-x9]
+---------------------------------------------------------------------------
+
+
+--------------[ OceIot was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -491.41823401269875
+ - Y: 35.0
+ - Z: -10623.300000011921
+
+Information:
+ - UUID: 6b746ca4-f8de-4dbb-bc80-c20743438ff3
+ - Keep Alive Ping: 79
+ - Transaction Ping: 103
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 79.2 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1584
+ - Since Riptide Ticks: 1339
+ - Flying Delay: 52
+ - Since Velocity Ticks: 1584
+ - Since Firework Ticks: 1339
+ - Ticks Existed: 1484
+ - Since Vehicle Ticks: 1239
+ - Joined: 100 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, DIRT, STONE, DIRT, AIR, STONE, STONE, AIR, STONE, SPRUCE_FENCE, AIR, AIR, DIRT, DIRT, STONE, DIRT, AIR, STONE, STONE, AIR, STONE, SPRUCE_FENCE, AIR, AIR, DIRT, STONE, STONE, STONE, STONE, STONE, STONE, AIR, STONE, SPRUCE_FENCE, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ OceIot was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -492.5155811116438
+ - Y: 34.0
+ - Z: -10623.302555334622
+
+Information:
+ - UUID: 6b746ca4-f8de-4dbb-bc80-c20743438ff3
+ - Keep Alive Ping: 0
+ - Transaction Ping: 96
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 15.1 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 302
+ - Since Riptide Ticks: 312
+ - Flying Delay: 249
+ - Since Velocity Ticks: 302
+ - Since Firework Ticks: 312
+ - Ticks Existed: 202
+ - Since Vehicle Ticks: 212
+ - Joined: 15 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [DIRT, AIR, DIRT, DIRT, AIR, DIRT, DIRT, AIR, DIRT, DIRT, AIR, STONE, DIRT, DIRT, STONE, DIRT, AIR, STONE, AIR, AIR, STONE, STONE, AIR, STONE, DIRT, DIRT, STONE, DIRT, DIRT, STONE, DIRT, AIR, STONE, STONE, AIR, STONE]
+Entities Nearby: [CraftItem]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ OceIot was punished for Bad Packets (Type G) ]--------------
+
+Location:
+ - World: world
+ - X: -480.4354266985675
+ - Y: 22.0
+ - Z: -10624.515966953124
+
+Information:
+ - UUID: 6b746ca4-f8de-4dbb-bc80-c20743438ff3
+ - Keep Alive Ping: 101
+ - Transaction Ping: 109
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 486.6 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 10315
+ - Since Riptide Ticks: 12224
+ - Flying Delay: 48
+ - Since Velocity Ticks: 9732
+ - Since Firework Ticks: 12224
+ - Ticks Existed: 14970
+ - Since Vehicle Ticks: 12124
+ - Joined: 1200 seconds ago
+
+All Violations:
+ - Bad Packets (Type G) [VL: 3] (Invalid HeldItemSlot packet.)
+
+Blocks Nearby: [STONE, STONE, STONE, GRAVEL, GRAVEL, STONE, GRAVEL, GRAVEL, GRAVEL, GRAVEL, GRAVEL, GRAVEL, STONE, STONE, STONE, GRAVEL, AIR, STONE, GRAVEL, AIR, GRAVEL, GRAVEL, AIR, GRAVEL, STONE, STONE, STONE, STONE, STONE, STONE, GRAVEL, GRAVEL, STONE, GRAVEL, GRAVEL, STONE]
+Entities Nearby: [CraftItem, CraftItem]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
