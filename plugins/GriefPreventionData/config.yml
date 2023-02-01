@@ -81,9 +81,9 @@ GriefPrevention:
     AllowCombatItemDrop: false
     BlockedSlashCommands: '[]'
     ProtectPlayersInLandClaims:
-      PlayerOwnedClaims: true
-      AdministrativeClaims: true
-      AdministrativeSubdivisions: true
+      PlayerOwnedClaims: false
+      AdministrativeClaims: false
+      AdministrativeSubdivisions: false
     AllowLavaDumpingNearOtherPlayers:
       PvPWorlds: false
       NonPvPWorlds: false

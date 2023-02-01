@@ -3749,3 +3749,229 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ theoneand33 was punished for Aim (Type Y) ]--------------
+
+Location:
+ - World: world
+ - X: -11458.702700887261
+ - Y: 69.0
+ - Z: -447.3524320774916
+
+Information:
+ - UUID: aee920b9-bb13-40a8-8c87-ae9c929aab70
+ - Keep Alive Ping: 258
+ - Transaction Ping: 274
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 41.55 seconds ago
+
+Total Violations: 7
+ - Combat Violations: 7
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2968
+ - Since Riptide Ticks: 2091
+ - Flying Delay: 47
+ - Since Velocity Ticks: 831
+ - Since Firework Ticks: 2091
+ - Ticks Existed: 2868
+ - Since Vehicle Ticks: 1991
+ - Since Liquid Ticks: 1991
+ - Joined: 438 seconds ago
+
+All Violations:
+ - Aim (Type Y) [VL: 5] (Generic rotation analysis heuristic.)
+ - Kill Aura (Type A) [VL: 2] (Post UseEntity packets.)
+
+Blocks Nearby: [FARMLAND, FARMLAND, GRASS_BLOCK, WHEAT, WHEAT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [HUNGER:410t-x0]
+---------------------------------------------------------------------------
+
+
+--------------[ pottzie789 was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -9500.646889676722
+ - Y: 120.5
+ - Z: -903.0794453971722
+
+Information:
+ - UUID: 37f513d9-4700-495f-a21e-b11394bd70bc
+ - Keep Alive Ping: 252
+ - Transaction Ping: 248
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 108.1 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 55
+ - Since Riptide Ticks: 26771
+ - Flying Delay: 267
+ - Since Velocity Ticks: 2162
+ - Since Firework Ticks: 26771
+ - Ticks Existed: 37306
+ - Since Vehicle Ticks: 26671
+ - Since Liquid Ticks: 694
+ - Joined: 3860 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [STONE, STONE, STONE, COBBLESTONE_SLAB, COBBLESTONE_SLAB, COBBLESTONE_SLAB, AIR, AIR, AIR, WALL_TORCH, AIR, AIR, STONE, STONE, STONE, COBBLESTONE_SLAB, COBBLESTONE_SLAB, COBBLESTONE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, COBBLESTONE_SLAB, COBBLESTONE_SLAB, COBBLESTONE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftBoat{boatType=ACACIA,status=ON_LAND,passengers={}}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Rumbleodeath was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -8985.985646084317
+ - Y: 75.20133584798192
+ - Z: 1097.6665621943084
+
+Information:
+ - UUID: 7f64358a-4047-439f-806e-8a6d7d6005de
+ - Keep Alive Ping: 0
+ - Transaction Ping: 249
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 17.3 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 346
+ - Since Riptide Ticks: 396
+ - Flying Delay: 60
+ - Since Velocity Ticks: 346
+ - Since Firework Ticks: 396
+ - Ticks Existed: 246
+ - Since Vehicle Ticks: 296
+ - Since Liquid Ticks: 296
+ - Joined: 10 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Djdoge2907 was punished for Fast Place (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -230.5976083423899
+ - Y: 120.0
+ - Z: 9615.769878310768
+
+Information:
+ - UUID: 1b713c89-5e44-4254-a22e-6dcf8e7e7630
+ - Keep Alive Ping: 38
+ - Transaction Ping: 47
+ - Server TPS: 20
+ - Sensitivity: 80
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 206.35 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 12972
+ - Since Riptide Ticks: 14530
+ - Flying Delay: 50
+ - Since Velocity Ticks: 4127
+ - Since Firework Ticks: 17302
+ - Ticks Existed: 21227
+ - Since Vehicle Ticks: 17202
+ - Since Liquid Ticks: 817
+ - Joined: 1572 seconds ago
+
+All Violations:
+ - Fast Place (Type B) [VL: 5] (Sending too many BlockPlace packets.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [JUMP:2147464203t-x2, SPEED:2147464203t-x2]
+---------------------------------------------------------------------------
+
+
+--------------[ pottzie789 was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -9463.194625324957
+ - Y: 127.24459586424605
+ - Z: -917.5284296572407
+
+Information:
+ - UUID: 37f513d9-4700-495f-a21e-b11394bd70bc
+ - Keep Alive Ping: 229
+ - Transaction Ping: 254
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 343.5 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 38
+ - Since Riptide Ticks: 7037
+ - Flying Delay: 15
+ - Since Velocity Ticks: 6870
+ - Since Firework Ticks: 7037
+ - Ticks Existed: 9840
+ - Since Vehicle Ticks: 193
+ - Since Liquid Ticks: 2397
+ - Joined: 1601 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#git -C /var/minecraft/asthonia/plugins/Crates/loot/ pull
-rsync -Ir --remove-source-files /var/minecraft/asthonia/pending-updates/* /var/minecraft/asthonia/plugins/
-find /var/minecraft/asthonia/pending-updates/* -depth -type d -empty -delete
+#git -C /var/minecraft/survival/plugins/Crates/loot/ pull
+rsync -Ir --remove-source-files /var/minecraft/survival/pending-updates/* /var/minecraft/survival/plugins/
+find /var/minecraft/survival/pending-updates/* -depth -type d -empty -delete
 
 exit 0

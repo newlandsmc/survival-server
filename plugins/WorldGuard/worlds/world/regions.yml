@@ -12,7 +12,7 @@
 regions:
     __global__:
         members: {}
-        flags: {deny-message: '', pvp: deny}
+        flags: {}
         owners: {}
         type: global
         priority: 0

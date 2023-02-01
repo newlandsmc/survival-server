@@ -15,14 +15,14 @@ returning-player:
     duration-seconds: 4
     fade-in: 1000
     fade-out: 1000
-    title: '<light_purple>Asthonia</light_purple>'
+    title: '<light_purple>Survival</light_purple>'
     subtitle: '<gray>The Adventure Continues</gray>'
     bedrock:
       enable: false
       duration-seconds: 4
       fade-in: 1000
       fade-out: 1000
-      title: '<light_purple>Asthonia</light_purple>'
+      title: '<light_purple>Survival</light_purple>'
       subtitle: '<gray>The Adventure Continues</gray>'
   join-sounds:
     enabled: false
@@ -36,14 +36,14 @@ new-player:
     duration-seconds: 4
     fade-in: 1000
     fade-out: 1000
-    title: '<light_purple>Asthonia</light_purple>'
+    title: '<light_purple>Survival</light_purple>'
     subtitle: '<gray>The Adventure Begins</gray>'
     bedrock:
       enable: false
       duration-seconds: 4
       fade-in: 1000
       fade-out: 1000
-      title: '<light_purple>Asthonia</light_purple>'
+      title: '<light_purple>Survival</light_purple>'
       subtitle: '<gray>The Adventure Begins</gray>'
   join-sounds:
     enabled: false

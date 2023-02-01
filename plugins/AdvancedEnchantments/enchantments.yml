@@ -180,6 +180,19 @@ rebreather:
         - "FILL_OXYGEN:20"
         - "WAIT:5"
         - "FILL_OXYGEN:20"
+decapitation:
+  display: "%group-color%Decapitation"
+  description: "Opponents head drop on death."
+  applies-to: "Swords, Axes"
+  type: "KILL_PLAYER"
+  group: "COMMON"
+  applies:
+    - ALL_SWORD
+    - ALL_AXE
+  levels:
+    1:
+      effects:
+        - "DROP_HEAD %victim%"
 reflect:
   display: "%group-color%Reflect"
   description: "Chance to absorb enemy damage and\nreflect it back."
@@ -274,7 +287,7 @@ enderslayer:
         - "ADD_HARM:1 %victim%"
     2:
       condition:
-        - "%mob type% = ENDERMAN or %mob type% = ENDERMITE or  %mob type% = ENDER_DRAGON or %mob type% = ENDERDRAGON : %allow%"
+        - "%mob type% = ENDERMAN o %mob type% = ENDERMITE or  %mob type% = ENDER_DRAGON or %mob type% = ENDERDRAGON : %allow%"
         - "%damage cause% != THORNS : %allow%"
       effects:
         - "ADD_HARM:1.5 %victim%"
@@ -461,6 +474,83 @@ springs:
     3:
       effects:
         - "POTION:JUMP:2"
+greatsword:
+  display: "%group-color%Greatsword"
+  description: "Increases damage against players who are wielding\na Bows at the time they are hit."
+  applies-to: "Swords"
+  type: "ATTACK"
+  group: "RARE"
+  applies:
+    - ALL_SWORD
+  levels:
+    1:
+      condition:
+        - "%victim is holding% contains BOW : %allow%"
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - "ADD_HARM:1 %victim%"
+    2:
+      condition:
+        - "%victim is holding% contains BOW : %allow%"
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - "ADD_HARM:1.5 %victim%"
+    3:
+      condition:
+        - "%victim is holding% contains BOW : %allow%"
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - "ADD_HARM:2 %victim%"
+    4:
+      condition:
+        - "%victim is holding% contains BOW : %allow%"
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - "ADD_HARM:2.5 %victim%"
+    5:
+      condition:
+        - "%victim is holding% contains BOW : %allow%"
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - "ADD_HARM:3 %victim%"
+bowmaster:
+  display: "%group-color%Bowmaster"
+  description: "Increases damage against players who are wielding\na sword or axe at the time they are hit."
+  applies-to: "Bows, Crossbows"
+  type: "BOW"
+  group: "RARE"
+  settings:
+    not-applyable-with:
+      - "longbow"
+  applies:
+    - BOW
+    - CROSSBOW
+  levels:
+    1:
+      condition:
+        - "%victim is holding% contains SWORD or %victim is holding% contains AXE : %allow%"
+      effects:
+        - "ADD_HARM:1 %victim%"
+    2:
+      condition:
+        - "%victim is holding% contains SWORD or %victim is holding% contains AXE : %allow%"
+      effects:
+        - "ADD_HARM:1.5 %victim%"
+    3:
+      condition:
+        - "%victim is holding% contains SWORD or %victim is holding% contains AXE : %allow%"
+      effects:
+        - "ADD_HARM:2 %victim%"
+    4:
+      condition:
+        - "%victim is holding% contains SWORD or %victim is holding% contains AXE : %allow%"
+      effects:
+        - "ADD_HARM:2.5 %victim%"
+    5:
+      condition:
+        - "%victim is holding% contains SWORD or %victim is holding% contains AXE : %allow%"
+      effects:
+        - "ADD_HARM:3 %victim%"
 arrowdeflect:
   display: "%group-color%Arrow Deflect"
   description: "Chance to prevent enemy arrow from dealing\ndamage."
@@ -549,6 +639,55 @@ dodge:
       effects:
         - "STOP_ATTACK"
         - "PLAY_SOUND:ENTITY_BAT_TAKEOFF:0.7 %victim%"
+enderroots:
+  display: "%group-color%Enderroots"
+  description: "Chance of disabling enderpearls for your\nenemy up to 10 seconds."
+  applies-to: "Swords, Axes, Tridents, Bows, Crossbows"
+  type: "ATTACK;ATTACK_MOB"
+  group: "LEGENDARY"
+  applies:
+    - ALL_SWORD
+    - ALL_AXE
+    - BOW
+    - CROSSBOW
+    - TRIDENT
+  levels:
+    1:
+      chance: 15
+      cooldown: 180
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - "CANCEL_USE:ENDER_PEARL:100 %victim%"
+        - 'ACTIONBAR:&5*** ENDERPEARLS DEACTIVATED! *** %attacker%'
+        - 'ACTIONBAR:&c*** ENDERPEARLS DEACTIVATED! *** %victim%'
+        - WAIT:105
+        - 'ACTIONBAR:&5*** ENDERPEARLS REACTIVATED! *** %attacker%'
+        - 'ACTIONBAR:&a*** ENDERPEARLS REACTIVATED! *** %victim%'
+    2:
+      chance: 23
+      cooldown: 120
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - "CANCEL_USE:ENDER_PEARL:140 %victim%"
+        - 'ACTIONBAR:&5*** ENDERPEARLS DEACTIVATED! *** %attacker%'
+        - 'ACTIONBAR:&c*** ENDERPEARLS DEACTIVATED! *** %victim%'
+        - WAIT:145
+        - 'ACTIONBAR:&5*** ENDERPEARLS REACTIVATED! *** %attacker%'
+        - 'ACTIONBAR:&a*** ENDERPEARLS REACTIVATED! *** %victim%'
+    3:
+      chance: 31
+      cooldown: 60
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - "CANCEL_USE:ENDER_PEARL:200 %victim%"
+        - 'ACTIONBAR:&5*** ENDERPEARLS DEACTIVATED! *** %attacker%'
+        - 'ACTIONBAR:&c*** ENDERPEARLS DEACTIVATED! *** %victim%'
+        - WAIT:205
+        - 'ACTIONBAR:&5*** ENDERPEARLS REACTIVATED! *** %attacker%'
+        - 'ACTIONBAR:&a*** ENDERPEARLS REACTIVATED! *** %victim%'
 reinforced:
   display: "%group-color%Reinforced"
   description: "Reduces damage dealt to you."
@@ -642,6 +781,157 @@ poseidon:
         - "%attacker is holding% = TRIDENT : %allow%"
       effects:
         - "ADD_HARM:3 %victim%"
+heavy:
+  display: "%group-color%Heavy"
+  description: "Decreases damage from enemy bows by 4% per\nlevel."
+  applies-to: "Boots, Leggings, Chestplates, Helmets"
+  type: "DEFENSE;DEFENSE_BOW"
+  group: "LEGENDARY"
+  settings:
+    not-applyable-with:
+      - "tank"
+      - "valor"
+  applies:
+    - ALL_ARMOR
+  levels:
+    1:
+      condition:
+        - "%attacker is holding% = BOW : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:4 %victim%"
+    2:
+      condition:
+        - "%attacker is holding% = BOW : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:8 %victim%"
+    3:
+      condition:
+        - "%attacker is holding% = BOW : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:12 %victim%"
+    4:
+      condition:
+        - "%attacker is holding% = BOW : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:16 %victim%"
+    5:
+      condition:
+        - "%attacker is holding% = BOW : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:20 %victim%"
+longbow:
+  display: "%group-color%Longbow"
+  description: "Increases damage dealt to enemy players\nthat have a bow in their hands."
+  applies-to: "Bows"
+  type: "BOW"
+  group: "LEGENDARY"
+  settings:
+    not-applyable-with:
+      - "bowmaster"
+  applies:
+    - BOW
+  levels:
+    1:
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - "ADD_HARM:1 %victim%"
+    2:
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - "ADD_HARM:1.5 %victim%"
+    3:
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - "ADD_HARM:2 %victim%"
+    4:
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - "ADD_HARM:2.5 %victim%"
+    5:
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - "ADD_HARM:3 %victim%"
+tank:
+  display: "%group-color%Tank"
+  description: "Decreases damage from enemy axes by 4% per\nlevel."
+  applies-to: "Boots, Leggings, Chestplates, Helmets"
+  type: "DEFENSE;DEFENSE_MOB"
+  group: "LEGENDARY"
+  settings:
+    not-applyable-with:
+      - "tank"
+      - "heavy"
+  applies:
+    - ALL_ARMOR
+  levels:
+    1:
+      condition:
+        - "%attacker is holding% contains AXE : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:4 %victim%"
+    2:
+      condition:
+        - "%attacker is holding% contains AXE : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:8 %victim%"
+    3:
+      condition:
+        - "%attacker is holding% contains AXE : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:12 %victim%"
+    4:
+      condition:
+        - "%attacker is holding% contains AXE : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:16 %victim%"
+    5:
+      condition:
+        - "%attacker is holding% contains AXE : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:20 %victim%"
+valor:
+  display: "%group-color%Valor"
+  description: "Decreases damage from enemy swords by 4% per\nlevel."
+  applies-to: "Boots, Leggings, Chestplates, Helmets"
+  type: "DEFENSE;DEFENSE_MOB"
+  group: "LEGENDARY"
+  settings:
+    not-applyable-with:
+      - "tank"
+      - "heavy"
+  applies:
+    - ALL_ARMOR
+  levels:
+    1:
+      condition:
+        - "%attacker is holding% contains SWORD : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:4 %victim%"
+    2:
+      condition:
+        - "%attacker is holding% contains SWORD : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:8 %victim%"
+    3:
+      condition:
+        - "%attacker is holding% contains SWORD : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:12 %victim%"
+    4:
+      condition:
+        - "%attacker is holding% contains SWORD : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:16 %victim%"
+    5:
+      condition:
+        - "%attacker is holding% contains SWORD : %allow%"
+      effects:
+        - "REMOVE_DAMAGE:20 %victim%"
 critical:
   display: "%group-color%Critical"
   description: "Increase damage done with critical hit."
@@ -656,24 +946,24 @@ critical:
       chance: 15
       cooldown: 5
       condition:
-        - "%is critical% = true : %allow%"
         - "%damage cause% != THORNS : %allow%"
+        - "%is critical% = true : %allow%"
       effects:
         - "INCREASE_DAMAGE:10"
     2:
       chance: 25
       cooldown: 5
       condition:
-        - "%is critical% = true : %allow%"
         - "%damage cause% != THORNS : %allow%"
+        - "%is critical% = true : %allow%"
       effects:
         - "INCREASE_DAMAGE:15"
     3:
       chance: 35
       cooldown: 5
       condition:
-        - "%is critical% = true : %allow%"
         - "%damage cause% != THORNS : %allow%"
+        - "%is critical% = true : %allow%"
       effects:
         - "INCREASE_DAMAGE:20"
 creeperarmor:
@@ -1175,6 +1465,39 @@ momentum:
       condition: "%player is holding% = FIREWORK_ROCKET : %allow%"
       effects:
         - "POTION:SPEED:2:80"
+concussion:
+  display: '%group-color%Concussion'
+  description: "A chance to deal nausea to your victim."
+  applies-to: 'Axes'
+  type: 'ATTACK;ATTACK_MOB'
+  group: 'UNCOMMON'
+  applies:
+    - ALL_AXE
+  levels:
+    1:
+      chance: 13
+      cooldown: 4
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - 'POTION:CONFUSION:0:40 %victim%'
+        - 'POTION:SLOW:1:120 %victim%'
+    2:
+      chance: 19
+      cooldown: 5
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - 'POTION:CONFUSION:0:80 %victim%'
+        - 'POTION:SLOW:1:120 %victim%'
+    3:
+      chance: 24
+      cooldown: 6
+      condition:
+        - "%damage cause% != THORNS : %allow%"
+      effects:
+        - 'POTION:CONFUSION:0:120 %victim%'
+        - 'POTION:SLOW:1:120 %victim%'
 execute:
   display: '%group-color%Execute'
   description: "Damage buff when your target is at low HP."
@@ -1187,14 +1510,14 @@ execute:
   levels:
     1:
       condition:
-        - "%victim health% > 6 : %stop%"
         - "%damage cause% != THORNS : %allow%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:15 %attacker%'
     2:
       condition:
-        - "%victim health% > 6 : %stop%"
         - "%damage cause% != THORNS : %allow%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:25 %attacker%'
     3:
@@ -1257,20 +1580,20 @@ rage:
   levels:
     1:
       condition:
-        - "%victim health% > 6 : %stop%"
         - "%damage cause% != THORNS : %allow%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:15 %attacker%'
     2:
       condition:
-        - "%victim health% > 6 : %stop%"
         - "%damage cause% != THORNS : %allow%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:25 %attacker%'
     3:
       condition:
-        - "%victim health% > 6 : %stop%"
         - "%damage cause% != THORNS : %allow%"
+        - "%victim health% > 6 : %stop%"
       effects:
         - 'INCREASE_DAMAGE:35 %attacker%'
     4:
@@ -1286,6 +1609,71 @@ rage:
       effects:
         - 'INCREASE_DAMAGE:100 %attacker%'
         - 'ADD_HARM:<random number>1-4</random number> %victim%'
+unfocus:
+  display: '%group-color%Unfocus'
+  description: "Chance to Unfocus target player, reducing their\nout going bow damage by 50% for up to 10\nseconds."
+  applies-to: 'Bows, Crossbows'
+  type: 'BOW;BOW_MOB'
+  group: 'LEGENDARY'
+  applies:
+    - BOW
+    - CROSSBOW
+  levels:
+    1:
+      chance: 7
+      cooldown: 4
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - 'POTION:CONFUSION:0:40 %victim%'
+        - 'HALF_DAMAGE'
+        - 'ACTIONBAR:&c*** YOU''VE BEEN UNFOCUSED *** %victim%'
+        - 'WAIT:45'
+        - 'ACTIONBAR:&a*** YOU''VE REGAINED FOCUS *** %victim%'
+    2:
+      chance: 13
+      cooldown: 4
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - 'POTION:CONFUSION:0:60 %victim%'
+        - 'HALF_DAMAGE'
+        - 'ACTIONBAR:&c*** YOU''VE BEEN UNFOCUSED *** %victim%'
+        - 'WAIT:65'
+        - 'ACTIONBAR:&a*** YOU''VE REGAINED FOCUS *** %victim%'
+    3:
+      chance: 19
+      cooldown: 4
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - 'POTION:CONFUSION:0:80 %victim%'
+        - 'HALF_DAMAGE'
+        - 'ACTIONBAR:&c*** YOU''VE BEEN UNFOCUSED *** %victim%'
+        - 'WAIT:85'
+        - 'ACTIONBAR:&a*** YOU''VE REGAINED FOCUS *** %victim%'
+    4:
+      chance: 25
+      cooldown: 4
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - 'POTION:CONFUSION:1:120 %victim%'
+        - 'HALF_DAMAGE'
+        - 'ACTIONBAR:&c*** YOU''VE BEEN UNFOCUSED *** %victim%'
+        - 'WAIT:125'
+        - 'ACTIONBAR:&a*** YOU''VE REGAINED FOCUS *** %victim%'
+    5:
+      chance: 32
+      cooldown: 4
+      condition:
+        - "%victim is holding% = BOW or %victim is holding% = CROSSBOW : %allow%"
+      effects:
+        - 'POTION:CONFUSION:1:120 %victim%'
+        - 'HALF_DAMAGE'
+        - 'ACTIONBAR:&c*** YOU''VE BEEN UNFOCUSED *** %victim%'
+        - 'WAIT:125'
+        - 'ACTIONBAR:&a*** YOU''VE REGAINED FOCUS *** %victim%'
 impale:
   display: '%group-color%Impale'
   description: "Chance to deal double damage to your opponent,\ncausing slowness for some time"
