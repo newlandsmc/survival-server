@@ -44,14 +44,14 @@ menu:
         - '<dark_gray>Click to join Creative'
     3:
       slot: 16
-      material: 'DARK_GRAY_CONCRETE'
+      material: 'GRAY_CONCRETE'
       name: '<gray>Khavalon (Legacy)'
       proxy-server-name: 'khavalon'
       lore:
-        - '<gray>%count%/50'
+        - '<red>%count%/50'
         - ''
         - '<dark_gray>Click to join Khavalon'
-        - '<light_red>This server is shutting'
-        - '<light_red>down! Open a Discord support'
-        - '<light_red>ticket to move your items'
-        - '<light_red>to Survival.'
+        - '<red>This server is shutting'
+        - '<red>down! Open a Discord support'
+        - '<red>ticket to move your items'
+        - '<red>to Survival.'
