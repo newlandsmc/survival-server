@@ -25,3 +25,7 @@ aliases:
   - griefprevention:unclaim
   claim:
   - essentials:kit claim
+  home:
+  - griefpreventiontp:claims
+  homes:
+  - griefpreventiontp:claims

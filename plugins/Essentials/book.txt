@@ -1,0 +1,49 @@
+This is the book file.
+
+This file format works similar to the info.txt, motd.txt and rules.txt
+
+Place content in here that you would like to be used by books ingame.
+
+You can use this content by using the book:<section> meta option in kits or item spawning.
+
+#Colors
+Minecraft colors:
+&0 &&0  &1 &&1  &2 &&2  &3 &&3
+&4 &&4  &5 &&5  &6 &&6  &7 &&7
+&8 &&8  &9 &&9  &a &&a  &b &&b
+&c &&c  &d &&d  &e &&e  &f &&f
+&0 
+&&k &kMagic&r   &&l &lBold&r
+&&m &mStrike&r  &&n &nUline&r
+&&o &oItalic&r   &&r &rReset
+
+#Claiming
+Protect your home by claiming land with GriefPrevention!
+&0 
+&cWarning: unclaimed land is griefable!
+&0 
+You can claim up to 1,000 blocks initially. You get 1,000 more claim blocks every mining level!
+&0 
+You can create up to 5 claims. (You can increase this limit at our donation store!)
+&0 
+&lCREATING A NEW CLAIM:
+&0 
+With any golden shovel, right click 2 opposite corners of a rectangular area. This will claim the area between these 2 points.
+&0 
+Claims automatically extend vertically! You do not need to worry about claiming underground, or the height of your build.
+&0 
+&lMODIFYING A CLAIM:
+&0 
+With any golden shovel, right click an existing corner of a claim and then right click the new location you want to move that corner to.
+&0 
+&lVIEWING A CLAIM:
+&0 
+You can find the existing corners by right clicking with any stick within your claim. This will make the game show the perimeter of your claim.
+&0 
+&lMORE HELP:
+&0 
+There is a lot more you can do with GriefPrevention! You can trust others, split a claim into plots, and more.
+&0 
+See more on our website:
+&0 
+https://semivanilla.com/claiming

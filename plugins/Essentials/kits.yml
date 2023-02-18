@@ -18,8 +18,9 @@ kits:
   claim:
     delay: 900
     items:
-      - golden_shovel 1
-      - stick 1
+      - golden_shovel 1 name:&6Claim_Shovel author:SVMC lore:&7Part_of_the_claim_kit.|&7Used_to_create_or_modify|&7land_claims.||&8Right_click_to_select|&8or_create_a_corner.
+      - stick 1 name:&6Inspection_Stick author:SVMC lore:&7Part_of_the_claim_kit.|&7Used_to_inspect_existing|&7claims.||&8Right_click_to_inspect_if|&8a_block_is_claimed.
+      - writtenbook 1 book:Claiming author:GriefPrevention title:&6How_to_Claim_Land lore:&7Part_of_the_claim_kit.
 #  tools:
 #    delay: 10
 #    items:

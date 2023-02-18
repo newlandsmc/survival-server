@@ -10,11 +10,11 @@ loot: # specifies what files to pull the loot tables from (in loot folder)
       - 'vote.json'
 services:
   - "Minecraft.Buzz"
-  - "Top Minecraft Servers"
-  - "Minelist.net"
+  - "Minecraft Survival Servers"
+  - "MinecraftPocket-Servers.com"
   - "Minecraft-Server.net"
   - "ServerList101"
-  - "Minecraft-MP.com"
+  - "MC-Servers.com"
 free-premium-crate: true
 menu:
   enable-animation: true # enables the 'animation' in the men

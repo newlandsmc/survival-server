@@ -28,7 +28,7 @@ General:
   Default PvP: true
   Extra Protection: true
   PvP Blood: true
-  Player Drop Mode: ALWAYS
+  Player Drop Mode: KEEP
   Ignore No Damage Hits: false
   Auto Soup:
     Health: 0
@@ -107,7 +107,7 @@ Tagged In Combat:
     Any Damage: false
   PvE Damage: false
   Any Damage: false
-  Time: 15
+  Time: 30
   NameTag Prefix: ''
   Color: ''
   Glowing: false
@@ -129,9 +129,11 @@ Tagged In Combat:
     Riptide: true
     Eat: false
     Commands:
-      Enabled: false
+      Enabled: true
       Whitelist: false
-      Command List: []
+      Command List:
+        - pvp
+        - pvptoggle
   Commands On Tag: []
   Commands On Untag:
   - '!CONSOLE examplecommand'

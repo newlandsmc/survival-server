@@ -211,8 +211,8 @@ Messages:
   AutomaticClaimOtherClaimTooClose:
     Text: Cannot create a claim for your chest, there is another claim too close!
   UnprotectedChestWarning:
-    Text: This chest is NOT protected. Consider using a golden shovel to expand an
-      existing claim or to create a new one.
+    Text: This chest is NOT protected! Consider creating a new claim (/claim) or expanding
+      an existing one.
   ThatPlayerPvPImmune:
     Text: You can't injure defenseless players.
   CantFightWhileImmune:
@@ -383,8 +383,8 @@ Messages:
     Text: ' Last login: {0} days ago.'
     Notes: '0: number of full days since last login'
   BuildingOutsideClaims:
-    Text: Other players can build here, too. Consider creating a land claim to protect
-      your work!
+    Text: Other players can build here, too. Consider creating a land claim (/claim)
+      to protect your work!
   TrappedWontWorkHere:
     Text: Sorry, unable to find a safe location to teleport you to.
   CommandBannedInPvP:

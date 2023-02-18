@@ -1,4 +1,5 @@
-first-join: "<green> * (playerName) joins and a new fire is lit somewhere!"
+# Managed in Lobby Essentials now
+first-join: ""
 
 first-join-dialogue:
   1:
