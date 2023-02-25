@@ -56,7 +56,7 @@ messages:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Vote every day to support the server and get'
-    - 'rewarded for it! <click:open_url:https://semivanilla.com/vote><gradient:#ffaa00:#ff5555>https://semivanilla.com/vote</gradient></click>'
+    - 'rewarded for it! <click:open_url:https://newlandsmc.com/vote><gradient:#ffaa00:#ff5555>https://newlandsmc.com/vote</gradient></click>'
     - ''
     - '<strikethrough>                                                                 <reset>'
   1:
@@ -77,7 +77,7 @@ messages:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Check the map! It shows players and claims in'
-    - 'real time! <click:open_url:https://semivanilla.com/features/map><gradient:#ffaa00:#ff5555>https://semivanilla.com/features/map</gradient></click>!'
+    - 'real time! <click:open_url:https://newlandsmc.com/features/map><gradient:#ffaa00:#ff5555>https://newlandsmc.com/features/map</gradient></click>!'
     - ''
     - '<strikethrough>                                                                 <reset>'
   6:
@@ -98,7 +98,7 @@ messages:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Unclaimed land can be griefed! Make sure you claim'
-    - 'your land. <click:open_url:https://semivanilla.com/features/claiming><gradient:#ffaa00:#ff5555>https://semivanilla.com/features/claiming</gradient></click>'
+    - 'your land. <click:open_url:https://newlandsmc.com/features/claiming><gradient:#ffaa00:#ff5555>https://newlandsmc.com/features/claiming</gradient></click>'
     - ''
     - '<strikethrough>                                                                 <reset>'
   11:

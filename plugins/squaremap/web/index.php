@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SemiVanilla SMP | Features | Map | Survival</title>
+    <title>New Lands Survival | Features | Map | Survival</title>
     <meta charset="utf-8" />
-    <meta name="description" content="Web map for the survival world on SemiVanilla SMP. See the Minecraft world in real time and the players online!" />
-    <meta property="og:url" content="https://semivanilla.com" />
+    <meta name="description" content="Web map for the survival world on New Lands Survival. See the Minecraft world in real time and the players online!" />
+    <meta property="og:url" content="https://newlandsmc.com" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="SemiVanilla SMP" />
-    <meta property="og:description" content="Web map for the creative world on SemiVanilla SMP. See the Minecraft world in real time and the players online!" />
-    <meta property="og:image" content="https://semivanilla.com/assets/images/promo-card.jpg" />
+    <meta property="og:title" content="New Lands Survival" />
+    <meta property="og:description" content="Web map for the creative world on New Lands Survival. See the Minecraft world in real time and the players online!" />
+    <meta property="og:image" content="https://newlandsmc.com/assets/images/promo-card.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta property="twitter:domain" content="semivanilla.com" />
-    <meta property="twitter:url" content="https://semivanilla.com" />
-    <meta name="twitter:title" content="SemiVanilla SMP" />
-    <meta name="twitter:description" content="Web map for the creative world on SemiVanilla SMP. See the Minecraft world in real time and the players online!" />
-    <meta name="twitter:image" content="https://semivanilla.com/assets/images/promo-card.jpg" />
+    <meta property="twitter:domain" content="newlandsmc.com" />
+    <meta property="twitter:url" content="https://newlandsmc.com" />
+    <meta name="twitter:title" content="New Lands Survival" />
+    <meta name="twitter:description" content="Web map for the creative world on New Lands Survival. See the Minecraft world in real time and the players online!" />
+    <meta name="twitter:image" content="https://newlandsmc.com/assets/images/promo-card.jpg" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <link rel="apple-touch-icon" sizes="180x180" href="https://semivanilla.com/assets/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://newlandsmc.com/assets/images/apple-touch-icon.png">
     <meta name="theme-color" content="#000000" />
-    <link rel="shortcut icon" href="https://semivanilla.com/assets/images/favicon.ico" sizes="256x256" crossOrigin="anonymous" />
+    <link rel="shortcut icon" href="https://newlandsmc.com/assets/images/favicon.ico" sizes="256x256" crossOrigin="anonymous" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-492PDMS8SH"></script>
     <script async>

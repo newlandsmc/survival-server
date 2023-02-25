@@ -5063,3 +5063,889 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ IntrusiveStork was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1348.74891192969
+ - Y: 8.200000047683716
+ - Z: 6457.741614128201
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 73
+ - Transaction Ping: 80
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 143.95 seconds ago
+
+Total Violations: 13
+ - Combat Violations: 5
+ - Movement Violations: 8
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 4974
+ - Since Riptide Ticks: 2857
+ - Flying Delay: 50
+ - Since Velocity Ticks: 2879
+ - Since Firework Ticks: 2857
+ - Ticks Existed: 4874
+ - Since Vehicle Ticks: 2757
+ - Since Liquid Ticks: 337
+ - Joined: 491 seconds ago
+
+All Violations:
+ - Aim (Type Y) [VL: 1] (Generic rotation analysis heuristic.)
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+ - Motion (Type A) [VL: 8] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1350.8502181080062
+ - Y: 83.0
+ - Z: 6532.582544129318
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 594
+ - Transaction Ping: 86
+ - Server TPS: 20
+ - Sensitivity: 106
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 13.0 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 238
+ - Since Riptide Ticks: 2594
+ - Flying Delay: 49
+ - Since Velocity Ticks: 260
+ - Since Firework Ticks: 2594
+ - Ticks Existed: 2771
+ - Since Vehicle Ticks: 2494
+ - Since Liquid Ticks: 562
+ - Joined: 132 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1459.7760796227383
+ - Y: 121.0
+ - Z: 6505.813892682654
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 0
+ - Transaction Ping: 84
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 7.55 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 279
+ - Since Riptide Ticks: 369
+ - Flying Delay: 52
+ - Since Velocity Ticks: 151
+ - Since Firework Ticks: 369
+ - Ticks Existed: 179
+ - Since Vehicle Ticks: 269
+ - Since Liquid Ticks: 269
+ - Joined: 9 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1489.6951022103526
+ - Y: 120.0
+ - Z: 6483.551783028214
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 68
+ - Transaction Ping: 84
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 58.6 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1150
+ - Since Riptide Ticks: 1235
+ - Flying Delay: 49
+ - Since Velocity Ticks: 1172
+ - Since Firework Ticks: 1235
+ - Ticks Existed: 1216
+ - Since Vehicle Ticks: 1135
+ - Since Liquid Ticks: 380
+ - Joined: 109 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1295.1423543403132
+ - Y: 89.0
+ - Z: 6507.191097840137
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 67
+ - Transaction Ping: 80
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 36.15 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 4387
+ - Since Riptide Ticks: 3285
+ - Flying Delay: 1
+ - Since Velocity Ticks: 723
+ - Since Firework Ticks: 3285
+ - Ticks Existed: 4287
+ - Since Vehicle Ticks: 3185
+ - Since Liquid Ticks: 87
+ - Joined: 394 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [ABSORPTION:1843t-x0]
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1355.7448737753107
+ - Y: 79.0
+ - Z: 6429.4630671144705
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 66
+ - Transaction Ping: 70
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 173.9 seconds ago
+
+Total Violations: 26
+ - Combat Violations: 0
+ - Movement Violations: 26
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 3605
+ - Since Riptide Ticks: 2949
+ - Flying Delay: 50
+ - Since Velocity Ticks: 3478
+ - Since Firework Ticks: 2949
+ - Ticks Existed: 3505
+ - Since Vehicle Ticks: 2849
+ - Since Liquid Ticks: 565
+ - Joined: 220 seconds ago
+
+All Violations:
+ - Jesus (Type A) [VL: 7] (Walking on water.)
+ - Jesus (Type B) [VL: 3] (Invalid Y-change in water.)
+ - Jesus (Type C) [VL: 1] (Invalid Y-Change in water.)
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [ABSORPTION:855t-x0]
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Speed (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 1367.3448396431834
+ - Y: 71.0
+ - Z: 6393.841444540909
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 66
+ - Transaction Ping: 73
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 356.25 seconds ago
+
+Total Violations: 51
+ - Combat Violations: 2
+ - Movement Violations: 49
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 11633
+ - Since Riptide Ticks: 11595
+ - Flying Delay: 49
+ - Since Velocity Ticks: 7125
+ - Since Firework Ticks: 11595
+ - Ticks Existed: 13868
+ - Since Vehicle Ticks: 11495
+ - Since Liquid Ticks: 1376
+ - Joined: 1196 seconds ago
+
+All Violations:
+ - Aim (Type Y) [VL: 2] (Generic rotation analysis heuristic.)
+ - Flight (Type A) [VL: 4] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 3] (Invalid Y-Axis movement.)
+ - Flight (Type C) [VL: 2] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 6] (Invalid jump motion.)
+ - Motion (Type A) [VL: 4] (Repeated vertical motions.)
+ - Motion (Type D) [VL: 1] (Too small Y-axis change.)
+ - Speed (Type A) [VL: 3] (Invalid friction.)
+ - Speed (Type C) [VL: 15] (Moving too quickly in the air.)
+ - Step (Type B) [VL: 1] (Invalid Step motion.)
+ - Strafe (Type A) [VL: 10] (Moving incorrectly in the air.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1330.8251185967308
+ - Y: 64.0
+ - Z: 6442.608696993769
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 29
+ - Transaction Ping: 78
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 3.2 seconds ago
+
+Total Violations: 6
+ - Combat Violations: 4
+ - Movement Violations: 2
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 891
+ - Since Riptide Ticks: 897
+ - Flying Delay: 49
+ - Since Velocity Ticks: 64
+ - Since Firework Ticks: 897
+ - Ticks Existed: 791
+ - Since Vehicle Ticks: 797
+ - Since Liquid Ticks: 797
+ - Joined: 43 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+ - Motion (Type D) [VL: 2] (Too small Y-axis change.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1312.6483442438848
+ - Y: 65.0
+ - Z: 6436.375578802421
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 51
+ - Transaction Ping: 72
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 2.4 seconds ago
+
+Total Violations: 7
+ - Combat Violations: 7
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 372
+ - Since Riptide Ticks: 1099
+ - Flying Delay: 48
+ - Since Velocity Ticks: 48
+ - Since Firework Ticks: 1099
+ - Ticks Existed: 1059
+ - Since Vehicle Ticks: 999
+ - Since Liquid Ticks: 188
+ - Joined: 77 seconds ago
+
+All Violations:
+ - Aim (Type Y) [VL: 3] (Generic rotation analysis heuristic.)
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [GRASS_BLOCK, DIRT, GRASS_BLOCK, AIR, OAK_LOG, AIR, AIR, OAK_LOG, AIR, AIR, OAK_LOG, AIR, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Timer (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1309.565444648066
+ - Y: 63.0
+ - Z: 6456.657880030338
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 69
+ - Transaction Ping: 141
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 441.45 seconds ago
+
+Total Violations: 6
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 6
+
+Misc Information:
+ - Since Teleport Ticks: 11126
+ - Since Riptide Ticks: 17651
+ - Flying Delay: 9
+ - Since Velocity Ticks: 8829
+ - Since Firework Ticks: 17651
+ - Ticks Existed: 20455
+ - Since Vehicle Ticks: 17551
+ - Since Liquid Ticks: 0
+ - Joined: 1522 seconds ago
+
+All Violations:
+ - Baritone (Type B) [VL: 3] (Checks for Baritone like rotations.)
+ - Scaffold (Type D) [VL: 1] (Invalid rotations.)
+ - Scaffold (Type M) [VL: 2] (Invalid block face.)
+ - Timer (Type A) [VL: 15] (Increased game speed.)
+ - Timer (Type D) [VL: 4] (Increased game speed.)
+
+Blocks Nearby: [WATER, WATER, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WATER, DIRT, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, DIRT, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ IntrusiveStork was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 1365.4712164782904
+ - Y: 112.0
+ - Z: 4464.328318697618
+
+Information:
+ - UUID: ff28f8e8-be30-4415-bd45-9c1415b55dd8
+ - Keep Alive Ping: 72
+ - Transaction Ping: 81
+ - Server TPS: 20
+ - Sensitivity: 70
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 69.75 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1328
+ - Since Riptide Ticks: 3199
+ - Flying Delay: 49
+ - Since Velocity Ticks: 1395
+ - Since Firework Ticks: 3199
+ - Ticks Existed: 3546
+ - Since Vehicle Ticks: 3099
+ - Since Liquid Ticks: 30
+ - Joined: 303 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, HOPPER, SPRUCE_WALL_SIGN, WHITE_STAINED_GLASS, SPRUCE_WALL_SIGN, CRIMSON_TRAPDOOR, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, SEA_LANTERN, WHITE_STAINED_GLASS, CHEST, AIR, ENDER_CHEST, AIR, AIR, AIR, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, AIR, AIR, AIR, AIR, AIR, AIR, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS, WHITE_STAINED_GLASS]
+Entities Nearby: [CraftExperienceOrb, CraftCreeper]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ ThatOneGamer2022 was punished for Aim (Type I) ]--------------
+
+Location:
+ - World: world
+ - X: -6225.994115659869
+ - Y: 106.5
+ - Z: 5709.930460367838
+
+Information:
+ - UUID: f989eb73-36bb-45f4-a922-5a8be91bf089
+ - Keep Alive Ping: 142
+ - Transaction Ping: 165
+ - Server TPS: 20
+ - Sensitivity: -22
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 105.3 seconds ago
+
+Total Violations: 19
+ - Combat Violations: 16
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 2106
+ - Since Riptide Ticks: 2041
+ - Flying Delay: 28
+ - Since Velocity Ticks: 2106
+ - Since Firework Ticks: 2041
+ - Ticks Existed: 2006
+ - Since Vehicle Ticks: 1941
+ - Since Liquid Ticks: 1941
+ - Joined: 99 seconds ago
+
+All Violations:
+ - Aim (Type I) [VL: 10] (Not constant rotations.)
+ - Aim (Type K) [VL: 5] (Not constant rotations.)
+ - Aim (Type W) [VL: 1] (Generic rotation analysis heuristic.)
+ - Bad Packets (Type M) [VL: 3] (Post BlockPlace packets.)
+
+Blocks Nearby: [STONE, SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, AIR, STONE, AIR, AIR, STONE, AIR, AIR, STONE, AIR, STONE, STONE, SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, AIR, STONE, AIR, AIR, STONE, STONE, STONE, STONE, SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, AIR, GLOWSTONE, AIR, AIR]
+Entities Nearby: [CraftSpider]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ nutties_nuts was punished for Bad Packets (Type M) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -1730.5246158254497
+ - Y: 44.0
+ - Z: -598.6601949326202
+
+Information:
+ - UUID: 2940c4f7-f3c8-4838-a1d4-f19981af3950
+ - Keep Alive Ping: 124
+ - Transaction Ping: 116
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 12.45 seconds ago
+
+Total Violations: 11
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 11
+
+Misc Information:
+ - Since Teleport Ticks: 3313
+ - Since Riptide Ticks: 4161
+ - Flying Delay: 40
+ - Since Velocity Ticks: 249
+ - Since Firework Ticks: 4161
+ - Ticks Existed: 4656
+ - Since Vehicle Ticks: 4061
+ - Since Liquid Ticks: 4061
+ - Joined: 418 seconds ago
+
+All Violations:
+ - Bad Packets (Type M) [VL: 5] (Post BlockPlace packets.)
+ - Scaffold (Type D) [VL: 3] (Invalid rotations.)
+ - Scaffold (Type H) [VL: 3] (Invalid rotations.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DEEPSLATE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ ThatOneGamer2022 was punished for Step (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -6223.703670593518
+ - Y: 107.76636799395752
+ - Z: 5710.647472481356
+
+Information:
+ - UUID: f989eb73-36bb-45f4-a922-5a8be91bf089
+ - Keep Alive Ping: 150
+ - Transaction Ping: 179
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 10.1 seconds ago
+
+Total Violations: 8
+ - Combat Violations: 3
+ - Movement Violations: 5
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 10655
+ - Since Riptide Ticks: 10455
+ - Flying Delay: 65
+ - Since Velocity Ticks: 202
+ - Since Firework Ticks: 10455
+ - Ticks Existed: 10555
+ - Since Vehicle Ticks: 10355
+ - Since Liquid Ticks: 95
+ - Joined: 525 seconds ago
+
+All Violations:
+ - Aim (Type K) [VL: 1] (Not constant rotations.)
+ - Aim (Type W) [VL: 2] (Generic rotation analysis heuristic.)
+ - Step (Type A) [VL: 5] (Invalid Step height.)
+
+Blocks Nearby: [SPRUCE_SLAB, SPRUCE_SLAB, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, SPRUCE_SLAB, SPRUCE_SLAB, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, STONE, STONE, STONE, SPRUCE_SLAB, SPRUCE_SLAB, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ ThatOneGamer2022 was punished for Bad Packets (Type M) ]--------------
+
+Location:
+ - World: world
+ - X: -6259.554168848793
+ - Y: 101.0
+ - Z: 5718.0302064248535
+
+Information:
+ - UUID: f989eb73-36bb-45f4-a922-5a8be91bf089
+ - Keep Alive Ping: 155
+ - Transaction Ping: 172
+ - Server TPS: 20
+ - Sensitivity: -30
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 237.25 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 4745
+ - Since Riptide Ticks: 4461
+ - Flying Delay: 5
+ - Since Velocity Ticks: 4745
+ - Since Firework Ticks: 4461
+ - Ticks Existed: 4645
+ - Since Vehicle Ticks: 4361
+ - Since Liquid Ticks: 4361
+ - Joined: 228 seconds ago
+
+All Violations:
+ - Bad Packets (Type M) [VL: 5] (Post BlockPlace packets.)
+
+Blocks Nearby: [SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, CAULDRON, STONE_BRICKS, AIR, AIR, STONE_BRICKS, AIR, AIR, STONE_BRICKS, SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE_BRICKS, SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, AIR, STONE_BRICKS, AIR, AIR, STONE_BRICKS, AIR, AIR, STONE_BRICKS]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ ThatOneGamer2022 was punished for Bad Packets (Type M) ]--------------
+
+Location:
+ - World: world
+ - X: -6259.504705297301
+ - Y: 101.0
+ - Z: 5718.148224858305
+
+Information:
+ - UUID: f989eb73-36bb-45f4-a922-5a8be91bf089
+ - Keep Alive Ping: 0
+ - Transaction Ping: 162
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 9.45 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 189
+ - Since Riptide Ticks: 260
+ - Flying Delay: 42
+ - Since Velocity Ticks: 189
+ - Since Firework Ticks: 260
+ - Ticks Existed: 89
+ - Since Vehicle Ticks: 160
+ - Since Liquid Ticks: 160
+ - Joined: 3 seconds ago
+
+All Violations:
+ - Bad Packets (Type M) [VL: 5] (Post BlockPlace packets.)
+
+Blocks Nearby: [SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, CAULDRON, STONE_BRICKS, AIR, AIR, STONE_BRICKS, AIR, AIR, STONE_BRICKS, SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE_BRICKS, SPRUCE_SLAB, SPRUCE_SLAB, STONE, AIR, AIR, STONE_BRICKS, AIR, AIR, STONE_BRICKS, AIR, AIR, STONE_BRICKS]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ ThatOneGamer2022 was punished for Aim (Type Y) ]--------------
+
+Location:
+ - World: world_nether
+ - X: -765.9234235307844
+ - Y: 66.0
+ - Z: 728.6999999880791
+
+Information:
+ - UUID: f989eb73-36bb-45f4-a922-5a8be91bf089
+ - Keep Alive Ping: 138
+ - Transaction Ping: 155
+ - Server TPS: 20
+ - Sensitivity: -30
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 0.45 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 10
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2172
+ - Since Riptide Ticks: 2766
+ - Flying Delay: 44
+ - Since Velocity Ticks: 9
+ - Since Firework Ticks: 2766
+ - Ticks Existed: 2860
+ - Since Vehicle Ticks: 2666
+ - Since Liquid Ticks: 120
+ - Joined: 142 seconds ago
+
+All Violations:
+ - Aim (Type K) [VL: 2] (Not constant rotations.)
+ - Aim (Type W) [VL: 3] (Generic rotation analysis heuristic.)
+ - Aim (Type Y) [VL: 5] (Generic rotation analysis heuristic.)
+
+Blocks Nearby: [BASALT, BASALT, BASALT, BASALT, CAVE_AIR, BASALT, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, BASALT, BASALT, BASALT, CAVE_AIR, CAVE_AIR, NETHERRACK, CAVE_AIR, CAVE_AIR, NETHERRACK, CAVE_AIR, CAVE_AIR, CAVE_AIR, BASALT, BASALT, NETHERRACK, CAVE_AIR, CAVE_AIR, NETHERRACK, CAVE_AIR, CAVE_AIR, NETHERRACK, CAVE_AIR, CAVE_AIR, BASALT]
+Entities Nearby: [CraftMagmaCube]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ bacongrubber was punished for Step (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -2286.7970568054725
+ - Y: 68.0
+ - Z: 1466.6368885437998
+
+Information:
+ - UUID: 8653b5db-09de-461f-bd69-8235dc9d385d
+ - Keep Alive Ping: 51
+ - Transaction Ping: 70
+ - Server TPS: 20
+ - Sensitivity: -22
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 628.2 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 5
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 7127
+ - Since Riptide Ticks: 11962
+ - Flying Delay: 49
+ - Since Velocity Ticks: 12564
+ - Since Firework Ticks: 11962
+ - Ticks Existed: 14729
+ - Since Vehicle Ticks: 11862
+ - Since Liquid Ticks: 38
+ - Joined: 743 seconds ago
+
+All Violations:
+ - Step (Type A) [VL: 5] (Invalid Step height.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [REGENERATION:(326t-x0), JUMP:2147464847t-x2, DAMAGE_RESISTANCE:(326t-x1), INCREASE_DAMAGE:(326t-x0), SPEED:2147464847t-x2, FAST_DIGGING:(326t-x1)]
+---------------------------------------------------------------------------
+
+
+--------------[ bacongrubber was punished for Step (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -2297.5390518286945
+ - Y: 67.0
+ - Z: 1451.4828485139647
+
+Information:
+ - UUID: 8653b5db-09de-461f-bd69-8235dc9d385d
+ - Keep Alive Ping: 52
+ - Transaction Ping: 67
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.1
+ - Last Damage: 257.0 seconds ago
+
+Total Violations: 11
+ - Combat Violations: 0
+ - Movement Violations: 5
+ - Player Violations: 6
+
+Misc Information:
+ - Since Teleport Ticks: 820
+ - Since Riptide Ticks: 14775
+ - Flying Delay: 45
+ - Since Velocity Ticks: 5140
+ - Since Firework Ticks: 14775
+ - Ticks Existed: 16704
+ - Since Vehicle Ticks: 14675
+ - Since Liquid Ticks: 14675
+ - Joined: 838 seconds ago
+
+All Violations:
+ - Step (Type A) [VL: 5] (Invalid Step height.)
+ - Invalid (Type E) [VL: 6] (Too large X/Z-Axis movement.)
+
+Blocks Nearby: [DIRT, DIRT, DIRT, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=sudokou}]
+Potion Effects: [REGENERATION:(290t-x0), JUMP:2147466900t-x2, DAMAGE_RESISTANCE:(290t-x1), INCREASE_DAMAGE:(290t-x0), SPEED:2147466900t-x2, FAST_DIGGING:(290t-x1), CONDUIT_POWER:(250t-x0)]
+---------------------------------------------------------------------------
+
+

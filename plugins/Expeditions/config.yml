@@ -47,7 +47,7 @@ menu:
       cant-use:
         lore:
           - '<gray>{days}/{max_days} Days completed.'
-          - '<red>You don''t have any premium expeditions! Buy more at <gradient:yellow:red>store.semivanilla.com</gradient>'
+          - '<red>You don''t have any premium expeditions! Buy more at <gradient:yellow:red>store.newlandsmc.com</gradient>'
     vote:
       name: '<green>Vote'
       material: 'CHEST'
