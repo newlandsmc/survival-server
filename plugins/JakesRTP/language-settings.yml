@@ -26,14 +26,14 @@ language: 'en'
 
 # For when an RTP action is denied such as trying to rtp in a world that does not allow rtp.
 #   {0} - The reason the action was denied.
-not-permitted-generic: '&cUnknown or incomplete command, see below for error <--&o[HERE]'
+not-permitted-generic: '&cYou are not permitted to use this command.'
 # For when an RTP action is denied because an issue occurred. Ex: an exception occurs while waiting for an rtp location.
 #   {0} - The message from the exception that caused this message to appear.
 #   Note: This is always followed in console by a stack trace (which can not be configured)
 not-permitted-major-error: '&cError. Could not RTP for reason: {0} \n&cPlease check console for more info on why teleportation failed.'
 # For when the reason an action is denied is that rtp is not enabled in the world.
 #   {0} - An identifier that helps with debugging
-not-enabled-in-this-world: '&cUnknown or incomplete command, see below for error <--&o[HERE]'
+not-enabled-in-this-world: '&cThere is no RTP in this world!'
 # For no rtpSettings are found with a given name
 #   {0} - The given name
 no-settings-found-with-name: '&cNo RTP settings found with name {0}'
@@ -60,12 +60,12 @@ rtp-settings-no-contain-world: '&cInput mismatch: RtpSettings "{0}&c" does not c
 rtp-settings-must-use-world: '&cInput mismatch: RtpSettings "{0}&c" can only teleport people in world "{1}&c"'
 # For when a player needs to wait for a cooldown before running the command again.
 #   {0} - The cooldown time (uses READABLE-TIME as defined below)
-need-to-wait-for-cooldown:  '&cNeed to wait for cooldown: {0}'
+need-to-wait-for-cooldown:  '&cYou cannot use RTP again for {0}'
 # For when a player is waiting  for the warmup before teleporting. (Only gets used if `warmup.time` is greater than 0)
 #   {0} - The number of seconds remaining
-teleporting-in-x-seconds: 'Teleporting in {0} seconds...'
+teleporting-in-x-seconds: '&eTeleporting in {0} seconds, dont move...'
 # For when a player walks during their rtp warmup canceling it. (Only gets used if `warmup.time` is greater than 0)
-moved-during-warmup: 'Movement detected, RTP Canceled.'
+moved-during-warmup: '&cPending RTP request cancelled.'
 # For when a player is waiting on the warmup and calls `/rtp` again. (Only gets used if `warmup.time` is greater than 0)
 rtp-called-while-in-warmup: '&cYou are already waiting on an RTP warmup!'
 # For when something costs money, but the player does not have enough.

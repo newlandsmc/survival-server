@@ -159,12 +159,12 @@ commands:
   tab-complete: 3
   send-namespaced: false
 messages:
-  whitelist: 'Survival is under maintenance! Discord: https://newlandsmc.com/discord'
+  whitelist: '&cSurvival is under maintenance!\n&cCheck Discord for updates: https://newlandsmc.com/discord'
   unknown-command: '&cUnknown or incomplete command, see below for error <--&o[HERE]'
-  server-full: Server full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Survival rebooting, please check back in a few minutes!
+  server-full: '&cSurvival is full!'
+  outdated-client: '&cOutdated client! Please use {0}'
+  outdated-server: '&cOutdated server! Survival is still on {0}'
+  restart: '&cSurvival rebooting, please rejoin in a few minutes!'
 advancements:
   disable-saving: false
   disabled:

@@ -128,45 +128,45 @@ sources:
     cat: 1.5
     chicken: 1.5
     cod: 1.5
-    cow: 3.0
-    donkey: 3.0
-    fox: 3.0
+    cow: 5.0
+    donkey: 5.0
+    fox: 5.0
     giant: 15.0
-    horse: 3.0
-    mooshroom: 3.0
-    mule: 3.0
+    horse: 5.0
+    mooshroom: 5.0
+    mule: 5.0
     ocelot: 1.5
     parrot: 1.5
-    pig: 3.0
+    pig: 5.0
     rabbit: 1.5
     salmon: 1.5
-    sheep: 3.0
-    skeleton_horse: 3.0
-    snow_golem: 3.0
-    squid: 3.0
-    strider: 3.0
+    sheep: 5.0
+    skeleton_horse: 5.0
+    snow_golem: 5.0
+    squid: 5.0
+    strider: 5.0
     tropical_fish: 1.5
-    turtle: 3.0
-    villager: 3.0
-    wandering_trader: 3.0
-    bee: 3.0
-    cave_spider: 7.5
-    dolphin: 3.0
+    turtle: 5.0
+    villager: 5.0
+    wandering_trader: 5.0
+    bee: 5.0
+    cave_spider: 9.0
+    dolphin: 5.0
     enderman: 10.0
     iron_golem: 50.0
     llama: 6.0
-    piglin: 7.5
-    panda: 7.5
+    piglin: 9.0
+    panda: 9.0
     polar_bear: 10.0
     pufferfish: 1.5
-    spider: 7.5
+    spider: 9.0
     wolf: 6.0
     zombified_piglin: 6.0
     blaze: 15.0
     creeper: 15.0
     drowned: 10.0
     elder_guardian: 150.0
-    endermite: 7.5
+    endermite: 9.0
     evoker: 35.0
     ghast: 25.0
     guardian: 20.0
@@ -174,14 +174,14 @@ sources:
     husk: 10.0
     illusioner: 25.0
     magma_cube: 15.0
-    phantom: 15.0
+    phantom: 50.0
     piglin_brute: 35.0
     pillager: 15.0
     ravager: 150.0
     shulker: 25.0
-    silverfish: 7.5
+    silverfish: 9.0
     skeleton: 10.0
-    slime: 7.5
+    slime: 9.0
     stray: 10.0
     vex: 15.0
     vindicator: 25.0
@@ -193,15 +193,15 @@ sources:
     ender_dragon: 7000.0
     wither: 7000.0
     axolotl: 5.0
-    glow_squid: 3.0
+    glow_squid: 5.0
     goat: 4.5
     allay: 0.2
     frog: 2.0
     tadpole: 0.7
     warden: 5000.0
   defense:
-    mob_damage: 1
-    player_damage: 3
+    mob_damage: 1.5
+    player_damage: 0
   fighting:
     player: 0.0
     bat: 1.0
@@ -281,23 +281,23 @@ sources:
     warden: 5000.0
   endurance:
     walk_per_meter: 0.1
-    sprint_per_meter: 0.333
-    swim_per_meter: 1
+    sprint_per_meter: 0.3
+    swim_per_meter: 0.5
   agility:
     jump_per_100: 10
     fall_damage: 2
   alchemy:
-    awkward: 20
-    regular: 30
-    extended: 50
-    upgraded: 50
-    splash: 70
-    lingering: 100
+    awkward: 30
+    regular: 40
+    extended: 60
+    upgraded: 60
+    splash: 90
+    lingering: 150
   enchanting:
-    weapon_per_level: 3
-    armor_per_level: 3
-    tool_per_level: 3
-    book_per_level: 3
+    weapon_per_level: 4
+    armor_per_level: 4
+    tool_per_level: 4
+    book_per_level: 5
   sorcery:
     mana_ability_use: 5
     sculk: 1.0
@@ -306,17 +306,17 @@ sources:
     sculk_vein: 0.5
     sculk_sensor: 8.0
   healing:
-    drink_regular: 20
-    drink_extended: 30
-    drink_upgraded: 30
-    splash_regular: 40
-    splash_extended: 50
-    splash_upgraded: 50
-    lingering_regular: 60
-    lingering_extended: 70
-    lingering_upgraded: 70
-    golden_apple: 20
-    enchanted_golden_apple: 250
+    drink_regular: 30
+    drink_extended: 40
+    drink_upgraded: 40
+    splash_regular: 50
+    splash_extended: 60
+    splash_upgraded: 60
+    lingering_regular: 70
+    lingering_extended: 90
+    lingering_upgraded: 90
+    golden_apple: 50
+    enchanted_golden_apple: 300
   forging:
     combine_books_per_level: 10
     combine_weapon_per_level: 15

@@ -9,8 +9,8 @@
 # Player instantly respawns after death! (Only version 1.8.8+)
 Auto Respawn: false
 
-# Locale -> Changes messages language, options are - en ru ch es it de br
-# Default PvP -> Leave it at true unless you want no PvP for all players
+# Locale -> Changes messages language, options are - en ru zh zh_tw es it de pt_br
+# Default PvP -> Leave it at true unless you want no PvP for new players
 # Extra Protection -> Prevent players from placing lava or fire near pvp disabled players
 # PvP Blood -> Enable blood particles on PvP
 # Player Drop Mode -> What happens to a player's drops and exp on death
@@ -132,8 +132,8 @@ Tagged In Combat:
       Enabled: true
       Whitelist: false
       Command List:
-        - pvp
-        - pvptoggle
+      - 'pvp'
+      - 'pvptoggle'
   Commands On Tag: []
   Commands On Untag:
   - '!CONSOLE examplecommand'
@@ -157,6 +157,7 @@ Tagged In Combat:
       Experience: true
       Armor: true
     Commands On PvPLog: []
+  EnderPearl Cooldown: 15
 
 # Should new players on your server be protected from PvP (If they want to PvP they can use /newbie disable)
 Newbie Protection:
@@ -260,10 +261,15 @@ Plugin Hooks:
     Show In Tab: false
     # Show combat prefix above the player's head
     Show Above Player: false
+  ajQueue:
+    # This requires a custom version of ajQueue made by me, prevents combat loggers from getting punished if in queue
+    # List of destination servers that won't cause the player to be punished on combat log
+    Servers:
+    - 'lobby'
 
 # Should PvPManager be allowed to check for updates and tell you about them
 Update Check:
-  Enabled: false
+  Enabled: true
 
 # Informs PvPManager if the config is updated, do not touch it unless you want to reset the config
-Config Version: 81
+Config Version: 84

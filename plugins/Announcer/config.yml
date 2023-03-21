@@ -1,53 +1,55 @@
 # The amount of time used for the interval
-interval: 60
+interval: 30
 # The unit of time used for the interval
 #  Can be SECONDS, MINUTES, or HOURS
 interval-time-unit: 'MINUTES'
 random-message-order: true
 gradient:
-  color-1: 'dark_purple'
-  color-2: 'aqua'
-  color-3: 'dark_purple'
-  speed: 0.1
+  color-1: '#55ff55'
+  color-2: '#008876'
+  color-3: '#55ff55'
+  speed: 0.07
+bungee:
+  enable: true
 returning-player:
   title-settings:
-    enabled: false
-    duration-seconds: 4
+    enabled: true
+    duration-seconds: 3
     fade-in: 1000
     fade-out: 1000
-    title: '<light_purple>Survival</light_purple>'
-    subtitle: '<gray>The Adventure Continues</gray>'
+    title: '<animate>New Lands</animate>'
+    subtitle: 'Survival'
     bedrock:
-      enable: false
-      duration-seconds: 4
+      enable: true
+      duration-seconds: 3
       fade-in: 1000
       fade-out: 1000
-      title: '<light_purple>Survival</light_purple>'
-      subtitle: '<gray>The Adventure Continues</gray>'
+      title: '<gradient:#55ff55:#008876>New Lands</gradient>'
+      subtitle: 'Survival'
   join-sounds:
     enabled: false
-    name: 'ui.toast.challenge_complete'
+    name: 'music.menu'
     pitch: 1
     source: master
     volume: 0.8
 new-player:
   title-settings:
-    enabled: false
-    duration-seconds: 4
+    enabled: true
+    duration-seconds: 3
     fade-in: 1000
     fade-out: 1000
-    title: '<light_purple>Survival</light_purple>'
-    subtitle: '<gray>The Adventure Begins</gray>'
+    title: '<animate>New Lands</animate>'
+    subtitle: 'Survival'
     bedrock:
-      enable: false
-      duration-seconds: 4
+      enable: true
+      duration-seconds: 3
       fade-in: 1000
       fade-out: 1000
-      title: '<light_purple>Survival</light_purple>'
-      subtitle: '<gray>The Adventure Begins</gray>'
+      title: '<gradient:#55ff55:#008876>New Lands</gradient>'
+      subtitle: 'Survival'
   join-sounds:
     enabled: false
-    name: 'UI_TOAST_CHALLENGE_COMPLETE'
+    name: 'music.menu'
     pitch: 1
     source: master
     volume: 0.8
@@ -56,55 +58,48 @@ messages:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Vote every day to support the server and get'
-    - 'rewarded for it! <click:open_url:https://newlandsmc.com/vote><gradient:#ffaa00:#ff5555>https://newlandsmc.com/vote</gradient></click>'
+    - 'FREE CRATES! <click:open_url:https://newlandsmc.com/vote><gradient:#55ff55:#008876>https://newlandsmc.com/vote</gradient></click>'
     - ''
     - '<strikethrough>                                                                 <reset>'
   1:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Please consider donating to help us stay open!'
-    - 'at <click:open_url:https://svmc.tebex.io><gradient:#ffaa00:#ff5555>https://svmc.tebex.io</gradient></click>!'
+    - 'Store: <click:open_url:https://newlandsmc.tebex.io><gradient:#55ff55:#008876>https://newlandsmc.tebex.io</gradient></click>'
     - ''
     - '<strikethrough>                                                                 <reset>'
   2:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Join the community! Find us on Discord'
-    - 'at <click:open_url:https://discord.gg/3WzZ3x6wGp><gradient:#ffaa00:#ff5555>https://discord.gg/3WzZ3x6wGp</gradient></click>!'
+    - 'at <click:open_url:https://discord.gg/CxQP7SD9Ah><gradient:#55ff55:#008876>https://discord.gg/CxQP7SD9Ah</gradient></click>!'
     - ''
     - '<strikethrough>                                                                 <reset>'
   3:
     - '<strikethrough>                                                                 <reset>'
     - ''
-    - 'Check the map! It shows players and claims in'
-    - 'real time! <click:open_url:https://newlandsmc.com/features/map><gradient:#ffaa00:#ff5555>https://newlandsmc.com/features/map</gradient></click>!'
-    - ''
-    - '<strikethrough>                                                                 <reset>'
-  6:
-    - '<strikethrough>                                                                 <reset>'
-    - ''
-    - 'Earn Vote Crates by logging in every day and'
-    - 'voting every day! Claim rewards with <click:run_command:/spoils><gradient:#ffaa00:#ff5555>/spoils</gradient></click>.'
+    - 'Looking for other players? Check the public claims!'
+    - 'Do <gradient:#55ff55:#008876>/claims</gradient> and toggle public claims in the GUI.'
     - ''
     - '<strikethrough>                                                                 <reset>'
   7:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Grinding Skills XP? Boost XP earned for the entire'
-    - 'server at <click:open_url:https://svmc.tebex.io><gradient:#ffaa00:#ff5555>https://svmc.tebex.io</gradient></click>.'
+    - 'server at <click:open_url:https://newlandsmc.tebex.io><gradient:#55ff55:#008876>https://newlandsmc.tebex.io</gradient></click>.'
     - ''
     - '<strikethrough>                                                                 <reset>'
   10:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Unclaimed land can be griefed! Make sure you claim'
-    - 'your land. <click:open_url:https://newlandsmc.com/features/claiming><gradient:#ffaa00:#ff5555>https://newlandsmc.com/features/claiming</gradient></click>'
+    - 'your land. <click:open_url:https://newlandsmc.com/features/claiming><gradient:#55ff55:#008876>https://newlandsmc.com/features/claiming</gradient></click>'
     - ''
     - '<strikethrough>                                                                 <reset>'
   11:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Mana and hearts GUI getting in your way?'
-    - 'You can disable it with <gradient:yellow:red>/abtoggle</gradient>.'
+    - 'You can disable it with <gradient:#55ff55:#008876>/abtoggle</gradient>.'
     - ''
     - '<strikethrough>                                                                 <reset>'

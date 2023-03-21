@@ -15,7 +15,19 @@ services:
   - "Minecraft-Server.net"
   - "ServerList101"
   - "MC-Servers.com"
-free-premium-crate: true
+free-premium-crate:
+  enable: true
+  rules:
+    check: false
+    default: 7 # Days
+  amount:
+    check: true
+    default: 1
+    awoken: 2
+    sage: 3
+    savant: 3
+    legend: 4
+    guardian: 4
 menu:
   enable-animation: true # enables the 'animation' in the men
   khavalon: false
@@ -33,6 +45,7 @@ menu:
     - '<green>Click to claim this item!'
   unclaimed-items:
     - '<green>You still have unclaimed items!'
+    - ''
     - '<gray>Click to claim them!'
   items:
     daily:
@@ -42,7 +55,7 @@ menu:
         lore:
           - '<green>You have a Daily crate to claim!'
           - ''
-          - '<dark_gray>Click to claim.'
+          - '<gray>Click to open!'
       cant-use:
         lore:
           - '<red>You have already opened'
@@ -54,14 +67,18 @@ menu:
         lore:
           - '<green>You have {count} crates to claim!'
           - ''
-          - '<dark_gray>Click to claim.'
+          - '<gray>Click to open!'
       cant-use:
         lore:
           - '<red>You don''t have any premium crates!'
-          - '<red>Buy more at <gradient:yellow:red>svmc.tebex.io</gradient>'
+          - '<red>Buy more at <gradient:yellow:gold>newlandsmc.tebex.io</gradient>'
           - ''
-          - '<gray>Free Premium Crate:'
+          - '<gray>Free Premium Crate(s):'
           - '<gray>{days}/{max_days} days of voting completed.'
+          - ''
+          - '<gray>Get a free rank and DOUBLE how'
+          - '<gray>many premium crates you get from'
+          - '<gray>voting! Do <gradient:#55ff55:#008876>/store</gradient><gray>.'
     vote:
       name: '<green>Vote'
       material: 'CHEST'
@@ -69,18 +86,18 @@ menu:
         lore:
           - '<green>You have {count} crates to claim!'
           - ''
-          - '<dark_gray>Click to claim.'
+          - '<gray>Click to open!'
       cant-use:
         lore:
           - '<red>You don''t have any vote crates!'
-          - '<red>Do <gradient:yellow:red>/vote</gradient> to get more!'
+          - '<red>Do <gradient:yellow:gold>/vote</gradient> to get more!'
 messages:
   crates-left:
-    - '<yellow>You still have {count} crates to claim! use <gradient:yellow:red>/crates</gradient> to claim them!</yellow>'
+    - '<yellow>You still have {count} crates to claim! use <gradient:red:gold>/crates</gradient> to claim them!</yellow>'
   crates-earned-offline:
-    - '<yellow>You received {count} Crate(s) while away! Use <gradient:yellow:red>/crates</gradient> to claim them!</yellow>'
+    - '<yellow>You received {count} Crate(s) while away! Use <gradient:red:gold>/crates</gradient> to claim them!</yellow>'
   crates-gained:
-    - '<yellow>You received {count} {type} Crate(s)! Use <gradient:yellow:red>/crates</gradient> to claim them!</yellow>'
+    - '<yellow>You received {count} {type} Crate(s)! Use <gradient:red:gold>/crates</gradient> to claim them!</yellow>'
   vote:
     - '<yellow>Thanks for voting! You received a Vote Crate(s)!'
   inventory-full:

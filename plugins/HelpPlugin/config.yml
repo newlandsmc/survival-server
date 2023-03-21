@@ -1,120 +1,58 @@
 commands:
-  - help
-  - discord
-  - map
-  - website
-  - vote
-  - donate
-  - store
-  - info
-  - rules
-  - help
+  gui:
+    - help
+    - helpmenu
+    - info
+  books:
+    discord:
+      - discord
+    map:
+      - map
+      - maps
+    website:
+      - website
+    vote:
+      - vote
+    store:
+      - donate
+      - store
+      - ranks
+    rules:
+      - rules
 
 menu-name: 'Help Menu'
 
-items:
-  0:
-    material: 'EMERALD'
-    name: '&aStore'
-    lore:
-      - '&fDonate to support the server!'
-      - '&fHelp us pay the bills.'
-      - ''
-      - '&8Click to get link.'
-    commands:
-      - 'info store'
-  1:
-    material: 'MAP'
-    name: '&eMap'
-    lore:
-      - '&fLive map of the overworld.'
-      - '&fUpdates real-time!'
-      - ''
-      - '&8Click to get link.'
-    commands:
-      - 'info map'
-  2:
-    material: 'NETHER_STAR'
-    name: '&bVote'
-    lore:
-      - '&fVote to support the server!.'
-      - '&fGet rewards every day.'
-      - ''
-      - '&8Click to get link.'
-    commands:
-      - 'info vote'
-  3:
-    material: 'ENCHANTED_BOOK'
-    name: '&cHelp'
-    lore:
-      - '&fTutorials, list of commands,'
-      - '&fand useful links.'
-      - ''
-      - '&8Click to open book.'
-    commands:
-      - 'info help'
-  4:
-    material: 'AMETHYST_SHARD'
-    name: '&dDiscord'
-    lore:
-      - '&fJoin the community.'
-      - '&fWelcome!'
-      - ''
-      - '&8Click to get link.'
-    commands:
-      - 'info discord'
-  5:
-    material: 'GLOBE_BANNER_PATTERN'
-    name: '&7Rules'
-    lore:
-      - '&fRead the rules before you play.'
-      - '&fClick here.'
-      - ''
-      - '&8Click to get link.'
-    commands:
-      - 'info rules'
-  6:
-    material: 'CAMPFIRE'
-    name: '&6Website'
-    lore:
-      - '&fA portal for everything linked'
-      - '&fin this GUI.'
-      - ''
-      - '&8Click to get link.'
-    commands:
-      - 'info website'
 links:
-  store: 'https://svmc.tebex.io'
+  store: 'https://newlandsmc.tebex.io'
   map: 'https://newlandsmc.com/features/map'
   vote: 'https://newlandsmc.com/vote'
   website: 'https://newlandsmc.com'
-  discord: 'https://discord.gg/3WzZ3x6wGp'
+  discord: 'https://discord.gg/CxQP7SD9Ah'
   rules: 'https://newlandsmc.com/rules'
 
 book:
   help:
-    pages: 23
     0:
-      - '    <gradient:#ff5555:#ba0034><bold>New Lands MC</bold></gradient>'
+      - '    <gradient:#55ff55:#008876><bold>New Lands MC</bold></gradient>'
       - '        <bold>Survival</bold>'
       - ''
       - 'Pages:'
-      - '<color:#ff5555> 2</color> - Land Claiming'
-      - '<color:#f64d51> 5</color> - Skills & Abilities'
-      - '<color:#ee454d> 8</color> - Custom Enchants'
-      - '<color:#e53d48>11</color> - Messaging'
-      - '<color:#dc3444>13</color> - Teleporting'
-      - '<color:#d42b40>15</color> - PvP'
-      - '<color:#cb203c>17</color> - Vanilla+'
-      - '<color:#c31338>20</color> - Other'
-      - '<color:#ba0034>22</color> - More Help'
+      - '<color:#55ff55> 2</color> - Land Claiming'
+      - '<color:#32f164> 5</color> - Skills & Abilities'
+      - '<color:#00e26e> 8</color> - Custom Enchants'
+      - '<color:#00d476>11</color> - Messaging'
+      - '<color:#00c57b>13</color> - Teleporting'
+      - '<color:#00b67e>15</color> - PvP'
+      - '<color:#00a67e>17</color> - Vanilla+'
+      - '<color:#00977b>20</color> - Other'
+      - '<color:#008876>22</color> - More Help'
     1:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '       <color:#ff5555><bold>Section I</bold></color>'
+      - '       <color:#55ff55><bold>Section I</bold></color>'
       - '    <bold>Land Claiming</bold>'
     2:
       - '    <bold>Land Claiming</bold>'
@@ -123,8 +61,8 @@ book:
       - 'claiming land with'
       - 'GriefPrevention!'
       - ''
-      - '<color:#ff5555>Warning: unclaimed</color>'
-      - '<color:#ff5555>land is griefable!</color>'
+      - '<color:#55ff55>Warning: unclaimed</color>'
+      - '<color:#55ff55>land is griefable!</color>'
       - ''
       - 'Land claims protect'
       - 'everything inside them'
@@ -144,15 +82,15 @@ book:
       - '<bold>Commands:</bold>'
       - ' - /claim'
       - ''
-      - '    <click:open_url:https://newlandsmc.com/features/claiming><gradient:#ff5555:#ba0034><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://newlandsmc.com/features/claiming><gradient:#ff5555:#ba0034><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://newlandsmc.com/features/claiming><gradient:#55ff55:#008876><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://newlandsmc.com/features/claiming><gradient:#55ff55:#008876><bold>our website!</bold></gradient></click>'
     4:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '      <color:#f64d51><bold>Section II</bold></color>'
+      - '      <color:#32f164><bold>Section II</bold></color>'
       - '  <bold>Skills & Abilities</bold>'
     5:
       - '  <bold>Skills & Abilities</bold>'
@@ -181,15 +119,15 @@ book:
       - ' - /<skillname>'
       - ' - /mana'
       - ''
-      - '    <click:open_url:https://newlandsmc.com/features/skills><gradient:#ff5555:#ba0034><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://newlandsmc.com/features/skills><gradient:#ff5555:#ba0034><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://newlandsmc.com/features/skills><gradient:#55ff55:#008876><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://newlandsmc.com/features/skills><gradient:#55ff55:#008876><bold>our website!</bold></gradient></click>'
     7:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '      <color:#ee454d><bold>Section III</bold></color>'
+      - '      <color:#00e26e><bold>Section III</bold></color>'
       - '  <bold>Custom Enchants</bold>'
     8:
       - '  <bold>Custom Enchants</bold>'
@@ -215,15 +153,15 @@ book:
       - 'books in loot chests'
       - 'and villagers.'
       - ''
-      - '    <click:open_url:https://newlandsmc.com/features/enchants><gradient:#ff5555:#ba0034><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://newlandsmc.com/features/enchants><gradient:#ff5555:#ba0034><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://newlandsmc.com/features/enchants><gradient:#55ff55:#008876><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://newlandsmc.com/features/enchants><gradient:#55ff55:#008876><bold>our website!</bold></gradient></click>'
     10:
       - ''
       - ''
       - ''
       - ''
       - ''
-      - '       <color:#e53d48><bold>Section IV</bold></color>'
+      - '       <color:#00d476><bold>Section IV</bold></color>'
       - '       <bold>Messaging</bold>'
     11:
       - '       <bold>Messaging</bold>'
@@ -243,7 +181,7 @@ book:
       - ''
       - ''
       - ''
-      - '      <color:#dc3444><bold>Section V</bold></color>'
+      - '      <color:#00c57b><bold>Section V</bold></color>'
       - '     <bold>Teleporting</bold>'
     13:
       - '     <bold>Teleporting</bold>'
@@ -263,7 +201,7 @@ book:
       - ''
       - ''
       - ''
-      - '      <color:#d42b40><bold>Section VI</bold></color>'
+      - '      <color:#00b67e><bold>Section VI</bold></color>'
       - '           <bold>PvP</bold>'
     15:
       - '           <bold>PvP</bold>'
@@ -284,7 +222,7 @@ book:
       - ''
       - ''
       - ''
-      - '     <color:#cb203c><bold>Section VII</bold></color>'
+      - '     <color:#00a67e><bold>Section VII</bold></color>'
       - '        <bold>Vanilla+</bold>'
     17:
       - '        <bold>Vanilla+</bold>'
@@ -319,7 +257,7 @@ book:
       - ''
       - ''
       - ''
-      - '     <color:#c31338><bold>Section VIII</bold></color>'
+      - '     <color:#00977b><bold>Section VIII</bold></color>'
       - '         <bold>Other</bold>'
     20:
       - '         <bold>Other</bold>'
@@ -341,7 +279,7 @@ book:
       - ''
       - ''
       - ''
-      - '       <color:#ba0034><bold>Section IV</bold></color>'
+      - '       <color:#008876><bold>Section IV</bold></color>'
       - '       <bold>More Help</bold>'
     22:
       - '       <bold>More Help</bold>'
@@ -352,30 +290,14 @@ book:
       - 'on most things in'
       - 'this book.'
       - ''
-      - '<click:open_url:%website-link%>     <gradient:#ff5555:#ba0034><bold>CLICK HERE</bold></gradient></click>'
+      - '<click:open_url:%website-link%>     <gradient:#55ff55:#008876><bold>CLICK HERE</bold></gradient></click>'
       - ''
       - 'Or, join our Discord!'
       - ''
-      - '<click:open_url:%discord-link%>     <gradient:#ff5555:#ba0034><bold>CLICK HERE</bold></gradient></click>'
-  store:
-    pages: 1
-    0:
-      - '<click:open_url:%store-link%>    <gradient:#ff5555:#ba0034><bold>New Lands MC</bold></gradient></click>'
-      - '<click:open_url:%store-link%>         <bold>Store</bold></click>'
-      - ''
-      - '<click:open_url:%store-link%>Help us share the</click>'
-      - '<click:open_url:%store-link%>adventure for years</click>'
-      - '<click:open_url:%store-link%>to come!</click>'
-      - ''
-      - '<click:open_url:%store-link%>Donate to support the</click>'
-      - '<click:open_url:%store-link%>server. Thank you!</click>'
-      - ''
-      - ''
-      - '<click:open_url:%store-link%>   <gradient:#ff5555:#ba0034><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%discord-link%>     <gradient:#55ff55:#008876><bold>CLICK HERE</bold></gradient></click>'
   map:
-    pages: 1
     0:
-      - '<click:open_url:%map-link%>    <gradient:#ff5555:#ba0034><bold>New Lands MC</bold></gradient></click>'
+      - '<click:open_url:%map-link%>    <gradient:#55ff55:#0aa4cf><bold>New Lands MC</bold></gradient></click>'
       - '<click:open_url:%map-link%>           <bold>Map</bold></click>'
       - ''
       - '<click:open_url:%map-link%>View the entire</click>'
@@ -386,26 +308,41 @@ book:
       - '<click:open_url:%map-link%>Shows exact</click>'
       - '<click:open_url:%map-link%>location.</click>'
       - ''
-      - '<click:open_url:%map-link%>   <gradient:#ff5555:#ba0034><bold>CLICK TO OPEN</bold></gradient></click>'
-  vote:
-    pages: 1
+      - '<click:open_url:%map-link%>   <gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%map-link%>  <gradient:#55ff55:#0aa4cf>newlandsmc.com/map</gradient></click>'
+  store:
     0:
-      - '<click:open_url:%vote-link%>    <gradient:#ff5555:#ba0034><bold>New Lands MC</bold></gradient></click>'
+      - '<click:open_url:%store-link%>    <gradient:#55ff55:#0aa4cf><bold>New Lands MC</bold></gradient></click>'
+      - '<click:open_url:%store-link%>         <bold>Store</bold></click>'
+      - ''
+      - '<click:open_url:%store-link%>Help us share the</click>'
+      - '<click:open_url:%store-link%>adventure for years</click>'
+      - '<click:open_url:%store-link%>to come!</click>'
+      - ''
+      - '<click:open_url:%store-link%>Donate to support the</click>'
+      - '<click:open_url:%store-link%>server. Thank you!</click>'
+      - ''
+      - ''
+      - '<click:open_url:%store-link%>   <gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%store-link%>  <gradient:#55ff55:#0aa4cf>newlandsmc.tebex.io</gradient></click>'
+  vote:
+    0:
+      - '<click:open_url:%vote-link%>    <gradient:#55ff55:#0aa4cf><bold>New Lands MC</bold></gradient></click>'
       - '<click:open_url:%vote-link%>     <bold>Vote Portal</bold></click>'
       - ''
       - '<click:open_url:%vote-link%>Support us by voting</click>'
       - '<click:open_url:%vote-link%>every day and get</click>'
       - '<click:open_url:%vote-link%>rewarded for it!</click>'
       - ''
-      - '<click:open_url:%vote-link%>/crates to claim</click>'
-      - '<click:open_url:%vote-link%>rewards.</click>'
+      - '<click:open_url:%vote-link%>Use /crates to claim</click>'
+      - '<click:open_url:%vote-link%>your rewards!</click>'
       - ''
       - ''
-      - '<click:open_url:%vote-link%>   <gradient:#ff5555:#ba0034><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%vote-link%>   <gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%vote-link%> <gradient:#55ff55:#0aa4cf>newlandsmc.com/vote</gradient></click>'
   website:
-    pages: 1
     0:
-      - '<click:open_url:%website-link%>    <gradient:#ff5555:#ba0034><bold>New Lands MC</bold></gradient></click>'
+      - '<click:open_url:%website-link%>    <gradient:#55ff55:#0aa4cf><bold>New Lands MC</bold></gradient></click>'
       - '<click:open_url:%website-link%>        <bold>Website</bold></click>'
       - ''
       - '<click:open_url:%website-link%>Bookmark us! Favorite</click>'
@@ -413,14 +350,14 @@ book:
       - ''
       - '<click:open_url:%website-link%>This is the portal to</click>'
       - '<click:open_url:%website-link%>our vote sites, store,</click>'
-      - '<click:open_url:%website-link%>Discord, and more.</click>'
+      - '<click:open_url:%website-link%>Discord, and more!</click>'
       - ''
       - ''
-      - '<click:open_url:%website-link%>   <gradient:#ff5555:#ba0034><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%website-link%>   <gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%website-link%>    <gradient:#55ff55:#0aa4cf>newlandsmc.com</gradient></click>'
   discord:
-    pages: 1
     0:
-      - '<click:open_url:%discord-link%>    <gradient:#ff5555:#ba0034><bold>New Lands MC</bold></gradient></click>'
+      - '<click:open_url:%discord-link%>    <gradient:#55ff55:#0aa4cf><bold>New Lands MC</bold></gradient></click>'
       - '<click:open_url:%discord-link%>        <bold>Discord</bold></click>'
       - ''
       - '<click:open_url:%discord-link%>Join the community!</click>'
@@ -431,19 +368,20 @@ book:
       - '<click:open_url:%discord-link%>discussion!</click>'
       - ''
       - ''
-      - '<click:open_url:%discord-link%>   <gradient:#ff5555:#ba0034><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%discord-link%>   <gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%discord-link%>      <gradient:#55ff55:#0aa4cf>dsc.gg/nlmc</gradient></click>'
   rules:
-    pages: 1
     0:
-      - '<click:open_url:%rules-link%>    <gradient:#ff5555:#ba0034><bold>New Lands MC</bold></gradient></click>'
+      - '<click:open_url:%rules-link%>    <gradient:#55ff55:#0aa4cf><bold>New Lands MC</bold></gradient></click>'
       - '<click:open_url:%rules-link%>          <bold>Rules</bold></click>'
       - ''
-      - 'Failure to follow the'
-      - 'rules could result in'
-      - 'permanent ban.'
+      - '<click:open_url:%rules-link%>Failure to follow the</click>'
+      - '<click:open_url:%rules-link%>rules could result in</click>'
+      - '<click:open_url:%rules-link%>permanent ban!</click>'
       - ''
-      - 'Please visit our'
-      - 'website to read our'
-      - 'rules.'
+      - '<click:open_url:%rules-link%>Please visit our</click>'
+      - '<click:open_url:%rules-link%>website to read our</click>'
+      - '<click:open_url:%rules-link%>rules!</click>'
       - ''
-      - '<click:open_url:%rules-link%>   <gradient:#ff5555:#ba0034><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%rules-link%>   <gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient></click>'
+      - '<click:open_url:%rules-link%><gradient:#55ff55:#0aa4cf>newlandsmc.com/rules</gradient></click>'

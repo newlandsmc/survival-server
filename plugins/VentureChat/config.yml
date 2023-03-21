@@ -120,30 +120,48 @@ jsonformatting:
     json_attributes:
       venturechat_channel_prefix:
         hover_text:
-        - '&f{server_name}'
+        - '&f {server_name} &7Click to teleport!'
         click_action: 'run_command'
         click_text: '/server {server_name}'
-      player_displayname:
+      nickname:
         hover_text:
-        - '..{player_name}'
+        - '&f {player_name} &7Click to message!'
         click_action: 'suggest_command'
         click_text: '/msg {player_name}'
-  diamond:
-    priority: 2
+  founder:
+    priority: 12
     json_attributes:
       venturechat_channel_prefix:
         hover_text:
-        - '&f{server_name}'
+        - '&f {server_name} &7Click to teleport!'
         click_action: 'run_command'
         click_text: '/server {server_name}'
-      player_displayname:
+      nickname:
         hover_text:
-        - '&f{player_name}'
+        - '&f {player_name} &7Click to message!'
         click_action: 'suggest_command'
         click_text: '/msg {player_name}'
       luckperms_prefix:
         hover_text:
-        - '&fDonate at &bstore.newlandsmc.com'
+        - '&fSupport the server: &bnewlandsmc.tebex.io&f!'
+        click_action: 'run_command'
+        click_text: '/help store'
+  awoken:
+    priority: 1
+    json_attributes:
+      venturechat_channel_prefix:
+        hover_text:
+        - '&f {server_name} &7Click to teleport!'
+        click_action: 'run_command'
+        click_text: '/server {server_name}'
+      nickname:
+        hover_text:
+        - '&f {player_name} &7Click to message!'
+        click_action: 'suggest_command'
+        click_text: '/msg {player_name}'
+      luckperms_prefix:
+        hover_text:
+        - '&fClaim your free rank at: &bnewlandsmc.tebex.io&f!'
         click_action: 'run_command'
         click_text: '/help store'
     
@@ -254,7 +272,7 @@ channels:
     permissions: None
     speak_permissions: None
     channel_prefix: '&c■'
-    format: '{venturechat_channel_prefix} {luckperms_prefix}&7{nickname}&f:'
+    format: '{venturechat_channel_prefix}&7 {luckperms_prefix}{nickname}&f:'
   Staff:
     color: yellow
     chatcolor: yellow

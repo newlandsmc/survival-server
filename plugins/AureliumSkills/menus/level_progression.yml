@@ -1,7 +1,7 @@
 title: '{level_progression_menu_title}'
 size: 6
 fill:
-  enabled: false
+  enabled: true
   material: black_stained_glass_pane
 items:
   rank:

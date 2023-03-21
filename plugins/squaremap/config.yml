@@ -2,7 +2,7 @@ config-version: 2
 settings:
     language-file: lang-en.yml
     debug-mode: false
-    web-address: https://newlandsmc.com/features/map/asthonia/
+    web-address: https://newlandsmc.com/features/map/survival/
     web-directory:
         path: web
         auto-update: false
@@ -28,7 +28,7 @@ settings:
     render-progress-logging:
         enabled: true
         interval-seconds: 1
-    update-checker: true
+    update-checker: false
 world-settings:
     default:
         map:

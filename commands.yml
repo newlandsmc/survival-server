@@ -17,8 +17,6 @@ aliases:
   - version $1-
   info:
   - helpplugin:info $1-
-  socialspy:
-  - bettercommandspy:commandspy on
   unstuck:
   - griefprevention:trapped
   unclaim:
@@ -26,6 +24,14 @@ aliases:
   claim:
   - essentials:kit claim
   home:
-  - griefpreventiontp:claims
+  - griefpreventiontp:claims $1-
   homes:
-  - griefpreventiontp:claims
+  - griefpreventiontp:claims $1-
+  lobby:
+  - serverselector:server lobby
+  spawn:
+  - serverselector:server lobby
+  creative:
+  - serverselector:server creative
+  survival:
+  - serverselector:server survival

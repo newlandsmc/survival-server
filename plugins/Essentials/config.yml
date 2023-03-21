@@ -193,6 +193,10 @@ disabled-commands:
   - rmhome
   - back
   - return
+  - help
+  - ehelp
+  - eworld
+  - world
 
 # Whether or not Essentials should show detailed command usages.
 # If set to false, Essentials will collapse all usages in to one single usage message.
@@ -378,7 +382,7 @@ auto-afk: 300
 # After this timeout in seconds, the user will be kicked from the server.
 # essentials.afk.kickexempt node overrides this feature.
 # Set to -1 for no timeout.
-auto-afk-kick: 1800
+auto-afk-kick: -1
 
 # Set this to true, if you want to freeze the player, if the player is AFK.
 # Other players or monsters can't push the player out of AFK mode then.
@@ -388,11 +392,11 @@ freeze-afk-players: false
 
 # When the player is AFK, should he be able to pickup items?
 # Enable this, when you don't want people idling in mob traps.
-disable-item-pickup-while-afk: true
+disable-item-pickup-while-afk: false
 
 # This setting controls if a player is marked as active on interaction.
 # When this setting is false, the player would need to manually un-AFK using the /afk command.
-cancel-afk-on-interact: true
+cancel-afk-on-interact: false
 
 # Should we automatically remove afk status when a player moves?
 # Player will be removed from AFK on chat/command regardless of this setting.
@@ -423,7 +427,7 @@ afk-list-name: "none"
 broadcast-afk-message: false
 
 # You can disable the death messages of Minecraft here.
-death-messages: true
+death-messages: false
 
 # How should essentials handle players with the essentials.keepinv permission who have items with
 # curse of vanishing when they die?
@@ -438,7 +442,7 @@ vanishing-items-policy: delete
 binding-items-policy: keep
 
 # When players die, should they receive the coordinates they died at?
-send-info-after-death: false
+send-info-after-death: true
 
 # Should players with permissions be able to join and part silently?
 # You can control this with essentials.silentjoin and essentials.silentquit permissions if it is enabled.
