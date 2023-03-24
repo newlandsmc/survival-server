@@ -143,7 +143,7 @@ jsonformatting:
         click_text: '/msg {player_name}'
       luckperms_prefix:
         hover_text:
-        - '&fSupport the server: &bnewlandsmc.tebex.io&f!'
+        - '&fSupport the server: &bstore.newlandsmc.com&f!'
         click_action: 'run_command'
         click_text: '/help store'
   awoken:
@@ -161,7 +161,7 @@ jsonformatting:
         click_text: '/msg {player_name}'
       luckperms_prefix:
         hover_text:
-        - '&fClaim your free rank at: &bnewlandsmc.tebex.io&f!'
+        - '&fClaim your free rank at: &bstore.newlandsmc.com&f!'
         click_action: 'run_command'
         click_text: '/help store'
     

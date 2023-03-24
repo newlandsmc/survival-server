@@ -1,3 +1,9 @@
+hooks:
+  HolographicDisplays:
+    enabled: true
+  DecentHolograms:
+    enabled: false
+reset-skills-on-death: false
 save-blank-profiles: false
 # +----------------------------------------------------------------------------+ #
 # |                       Aurelium Skills Configuration                        | #

@@ -3424,3 +3424,409 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ SolandMoon was punished for Fast Place (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 14683.300000011921
+ - Y: -21.770518997150422
+ - Z: 10013.300000011921
+
+Information:
+ - UUID: a99e9a65-ae90-4e17-af6c-f62fe9e68c3c
+ - Keep Alive Ping: 833
+ - Transaction Ping: 53
+ - Server TPS: 20
+ - Sensitivity: 50
+ - Gamemode: SURVIVAL
+ - Client Brand: Lunarclient:71aa13d
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 0.15 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 4934
+ - Since Riptide Ticks: 105562
+ - Flying Delay: 64
+ - Since Velocity Ticks: 3
+ - Since Firework Ticks: 5797
+ - Ticks Existed: 123155
+ - Since Vehicle Ticks: 105462
+ - Since Liquid Ticks: 5208
+ - Joined: 18343 seconds ago
+
+All Violations:
+ - Fast Place (Type B) [VL: 5] (Sending too many BlockPlace packets.)
+
+Blocks Nearby: [DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, CRAFTING_TABLE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, AIR, AIR, DEEPSLATE, DARK_OAK_WALL_SIGN, AIR, DEEPSLATE, AIR, AIR, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR]
+Entities Nearby: [CraftZombie, CraftZombie, CraftZombie]
+Potion Effects: [REGENERATION:(308t-x0), DAMAGE_RESISTANCE:(308t-x0), SPEED:2147116793t-x2, HUNGER:362t-x0]
+---------------------------------------------------------------------------
+
+
+--------------[ pdcmaster was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 2288.5312451379446
+ - Y: 87.0
+ - Z: -15755.300000011921
+
+Information:
+ - UUID: 9383bffc-0117-43d4-8191-c13a3070e220
+ - Keep Alive Ping: 111
+ - Transaction Ping: 115
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 23.75 seconds ago
+
+Total Violations: 11
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 7
+
+Misc Information:
+ - Since Teleport Ticks: 5611
+ - Since Riptide Ticks: 3840
+ - Flying Delay: 1
+ - Since Velocity Ticks: 475
+ - Since Firework Ticks: 3840
+ - Ticks Existed: 5511
+ - Since Vehicle Ticks: 3740
+ - Since Liquid Ticks: 2860
+ - Joined: 579 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+ - Baritone (Type A) [VL: 7] (Checks for Baritone like rotations.)
+
+Blocks Nearby: [STONE, STONE, STONE, STONE, GRASS_BLOCK, AIR, STONE, DIRT, AIR, STONE, STONE, STONE, STONE, STONE, STONE, STONE, AIR, DIRT, STONE, AIR, AIR, STONE, STONE, STONE, STONE, STONE, STONE, STONE, GRASS_BLOCK, AIR, STONE, DIRT, AIR, STONE, STONE, STONE]
+Entities Nearby: [CraftZombie]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ pdcmaster was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 2219.7271466734796
+ - Y: 158.1801987728558
+ - Z: -15795.34633390012
+
+Information:
+ - UUID: 9383bffc-0117-43d4-8191-c13a3070e220
+ - Keep Alive Ping: 108
+ - Transaction Ping: 113
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 73.65 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1473
+ - Since Riptide Ticks: 1514
+ - Flying Delay: 58
+ - Since Velocity Ticks: 1473
+ - Since Firework Ticks: 1514
+ - Ticks Existed: 1373
+ - Since Vehicle Ticks: 1414
+ - Since Liquid Ticks: 82
+ - Joined: 184 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ pdcmaster was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 2214.263878602745
+ - Y: 110.41999998688698
+ - Z: -15792.31845113932
+
+Information:
+ - UUID: 9383bffc-0117-43d4-8191-c13a3070e220
+ - Keep Alive Ping: 0
+ - Transaction Ping: 117
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 9.45 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 189
+ - Since Riptide Ticks: 286
+ - Flying Delay: 53
+ - Since Velocity Ticks: 189
+ - Since Firework Ticks: 286
+ - Ticks Existed: 89
+ - Since Vehicle Ticks: 186
+ - Since Liquid Ticks: 186
+ - Joined: 7 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [GRASS_BLOCK, OAK_LEAVES, OAK_LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ pdcmaster was punished for Bad Packets (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 2234.637037930827
+ - Y: -6.429801328753905
+ - Z: -15679.699999988079
+
+Information:
+ - UUID: 9383bffc-0117-43d4-8191-c13a3070e220
+ - Keep Alive Ping: 112
+ - Transaction Ping: 121
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 118.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1832
+ - Since Riptide Ticks: 3842
+ - Flying Delay: 53
+ - Since Velocity Ticks: 2365
+ - Since Firework Ticks: 3842
+ - Ticks Existed: 4330
+ - Since Vehicle Ticks: 3742
+ - Since Liquid Ticks: 3742
+ - Joined: 613 seconds ago
+
+All Violations:
+ - Bad Packets (Type A) [VL: 3] (Spoofed abilities packets.)
+
+Blocks Nearby: [DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, TUFF, DEEPSLATE, TUFF, TUFF, TUFF, TUFF, TUFF, DEEPSLATE, AIR, DEEPSLATE, DEEPSLATE, AIR, TUFF, TUFF, AIR, TUFF, TUFF, AIR, TUFF, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, TUFF, TUFF, TUFF, TUFF, TUFF, TUFF, TUFF, TUFF]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ SirLordHacker was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 9841.035863248171
+ - Y: 96.7531999805212
+ - Z: 7221.126385740931
+
+Information:
+ - UUID: b9ad50e0-0529-41e3-93eb-63f3fa551d96
+ - Keep Alive Ping: 24
+ - Transaction Ping: 201
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 19.6 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 392
+ - Since Riptide Ticks: 474
+ - Flying Delay: 0
+ - Since Velocity Ticks: 392
+ - Since Firework Ticks: 474
+ - Ticks Existed: 292
+ - Since Vehicle Ticks: 374
+ - Since Liquid Ticks: 374
+ - Joined: 20 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ SirLordHacker was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 9920.334927509217
+ - Y: 98.37293547433653
+ - Z: 7229.3678966237985
+
+Information:
+ - UUID: b9ad50e0-0529-41e3-93eb-63f3fa551d96
+ - Keep Alive Ping: 0
+ - Transaction Ping: 61
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 13.95 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 279
+ - Since Riptide Ticks: 371
+ - Flying Delay: 67
+ - Since Velocity Ticks: 279
+ - Since Firework Ticks: 371
+ - Ticks Existed: 179
+ - Since Vehicle Ticks: 271
+ - Since Liquid Ticks: 271
+ - Joined: 12 seconds ago
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Murfdoge was punished for Motion (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -575.1042149946556
+ - Y: 93.319999396801
+ - Z: 9733.300000011921
+
+Information:
+ - UUID: e153e090-70a5-4a4f-898a-f3c29ed6745f
+ - Keep Alive Ping: 147
+ - Transaction Ping: 470
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 35.85 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 717
+ - Since Riptide Ticks: 659
+ - Flying Delay: 35
+ - Since Velocity Ticks: 717
+ - Since Firework Ticks: 659
+ - Ticks Existed: 617
+ - Since Vehicle Ticks: 559
+ - Since Liquid Ticks: 559
+ - Joined: 43 seconds ago
+
+All Violations:
+ - Motion (Type A) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_LEAVES, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ LemonStingles was punished for Velocity (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: 6960.7787027770055
+ - Y: 6.0
+ - Z: 6457.522820652101
+
+Information:
+ - UUID: 29ce6249-b04e-4aa0-b91a-0b9b788452a3
+ - Keep Alive Ping: 83
+ - Transaction Ping: 100
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 0.55 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 15
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 19335
+ - Since Riptide Ticks: 97190
+ - Flying Delay: 50
+ - Since Velocity Ticks: 11
+ - Since Firework Ticks: 133708
+ - Ticks Existed: 161022
+ - Since Vehicle Ticks: 133608
+ - Since Liquid Ticks: 1589
+ - Joined: 15228 seconds ago
+
+All Violations:
+ - Velocity (Type C) [VL: 15] (Vertical velocity modifications.)
+
+Blocks Nearby: [CRIMSON_NYLIUM, CRIMSON_NYLIUM, CRIMSON_NYLIUM, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, CRIMSON_NYLIUM, NETHERRACK, NETHERRACK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, NETHERRACK, NETHERRACK, NETHERRACK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [DAMAGE_RESISTANCE:(336t-x1), SPEED:(336t-x1), JUMP:(336t-x1), FAST_DIGGING:(336t-x1), INCREASE_DAMAGE:(336t-x1), REGENERATION:(336t-x0)]
+---------------------------------------------------------------------------
+
+

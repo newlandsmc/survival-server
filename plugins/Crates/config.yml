@@ -71,7 +71,7 @@ menu:
       cant-use:
         lore:
           - '<red>You don''t have any premium crates!'
-          - '<red>Buy more at <gradient:yellow:gold>newlandsmc.tebex.io</gradient>'
+          - '<red>Buy more at <gradient:yellow:gold>store.newlandsmc.com</gradient>'
           - ''
           - '<gray>Free Premium Crate(s):'
           - '<gray>{days}/{max_days} days of voting completed.'

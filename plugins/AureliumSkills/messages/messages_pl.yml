@@ -662,6 +662,25 @@ commands:
     remove: '&7Usunięto &b{amount} &7XP &b{skill} &7graczowi &6{player}'
   unknown_skill: '&eNieznana umiejętność!'
   no_profile: '&eGracz nie ma profilu umiejętności!'
+  profile:
+    skills: |-
+      Profil Aurelium Skills dla &6{name}:
+      &7UUID: &f{uuid}
+      &7Umiejętności:{skill_entries}
+    skill_entry: |2-
+
+        &3{skill} &7- Poziom: &f{level}&7, XP: &f{xp}
+    stats: |-
+      Profil statystyk Aurelium Skills dla &6{name}:
+      &7UUID: &f{uuid}
+      &7Statystyki:{stat_entries}
+    stat_entry: |2-
+
+        &3{stat} &7- Całkowity poziom: &f{total_level}&7, Podstawowy poziom: &f{base_level}&7, Zmodyfikowany poziom: &f{modified_level}
+  transfer:
+    success: '&aPomyślnie przeniesiono dane gracza z &7{from} &ado &7{to}'
+    error: '&cWystąpił błąd podczas przenoszenia danych gracza. Sprawdź konsolę w
+      poszukiwaniu błędów.'
 leveler:
   title: '&aNowy Poziom {skill}'
   subtitle: '&6{old} ➜ {new}'
@@ -835,6 +854,7 @@ menus:
     unlocked_desc_maxed: |-
       &fOpis:
         &7{desc}
+    desc_upgrade_value: '&7{current}&8→{next}&7'
 mana_abilities:
   replenish:
     name: Autoprzesadzanie
@@ -1039,7 +1059,7 @@ units:
   mana: Mana
   hp: HP
   xp: XP
-file_version: 25
+file_version: 29
 sources:
   farming:
     wheat: Pszenica
@@ -1082,6 +1102,9 @@ sources:
     flowering_azalea: Kwitnąca azalia
     azalea_leaves: Liście azalii
     flowering_azalea_leaves: Kwitnące liście azalii
+    mangrove_log: Namorzynowy pień
+    mangrove_leaves: Namorzynowe liście
+    mangrove_roots: Namorzynowe korzenie
   mining:
     stone: Kamień
     cobblestone: Bruk
@@ -1130,6 +1153,7 @@ sources:
     ice: Lód
     packed_ice: Zbity lód
     blue_ice: Niebieski lód lodowcowy
+    reinforced_deepslate: Zbrojony łupek
   fishing:
     cod: Dorsz
     salmon: Łosoś
@@ -1152,6 +1176,8 @@ sources:
     soul_soil: Gleba dusz
     red_sand: Czerwony piasek
     rooted_dirt: Zakorzeniona ziemia
+    mud: Błoto
+    muddy_mangrove_roots: Zabłocone namorzynowe korzenie
   mobs:
     player: Gracz
     bat: Nietoperz
@@ -1225,6 +1251,10 @@ sources:
     axolotl: Aksolotl
     glow_squid: Świecąca kałamarnica
     goat: Koza
+    allay: Otuszek
+    frog: Żaba
+    tadpole: Kijanka
+    warden: Nadzorca
   defense:
     mob_damage: Obrażenia od mobów
     player_damage: Obrażenia od graczy
@@ -1249,6 +1279,11 @@ sources:
     book_per_level: Książka
   sorcery:
     mana_ability_use: Używanie Zdolności Many
+    sculk: Sculk
+    sculk_vein: Żyły sculku
+    sculk_sensor: Sculkowy czujnik
+    sculk_catalyst: Sculkowy katalizator
+    sculk_shrieker: Sculkowe wrzeszczydło
   healing:
     drink_regular: Picie zwykłej mikstury
     drink_extended: Picie mikstury z wydłużonym czasem trwania

@@ -2970,12 +2970,12 @@ players:
     newbie_timeleft: 0
     newbie: false
     pvpstatus: false
-    toggletime: 1679361158916
+    toggletime: 1679515287752
   3c0075d0-f021-48c2-a979-32235e6c36ca:
     newbie_timeleft: 0
     newbie: false
     pvpstatus: false
-    toggletime: 1678635838416
+    toggletime: 1679431242508
   cf816e27-a4d8-41c9-9a9a-e24df2db0b98:
     newbie_timeleft: 0
     newbie: false
@@ -3425,7 +3425,7 @@ players:
     newbie_timeleft: 0
     newbie: false
     pvpstatus: false
-    toggletime: 1679352579859
+    toggletime: 1679440066240
   dfb09414-7094-4f81-a75b-483848007395:
     newbie_timeleft: 0
     newbie: false
@@ -4435,7 +4435,7 @@ players:
     newbie_timeleft: 0
     newbie: false
     pvpstatus: false
-    toggletime: 1679190196953
+    toggletime: 1679513826875
   b80871a4-ab31-4713-8910-9c82bb3d19c3:
     newbie_timeleft: 0
     newbie: false
@@ -5460,7 +5460,7 @@ players:
     newbie_timeleft: 0
     newbie: false
     pvpstatus: false
-    toggletime: 1679178905580
+    toggletime: 1679361605663
   00000000-0000-0000-0009-01fcd1f311ca:
     newbie_timeleft: 0
     newbie: false
@@ -5646,3 +5646,208 @@ players:
     newbie: false
     pvpstatus: false
     toggletime: 1679355413980
+  f8080dd2-9696-44bc-b355-4cd574b49309:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679366686986
+  882e9074-2a4a-49ae-bc0c-eb7c4b3297ab:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679370127776
+  e52b0726-1d45-4aec-8060-729bfba4dda8:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679374822423
+  00000000-0000-0000-0009-01ff82729017:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679378159336
+  00000000-0000-0000-0009-01f566828f19:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679382124884
+  87b363be-fd2c-4844-85a6-4c33c193c1aa:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679384853109
+  6d288f95-2256-4495-9dcd-fb196f540dd8:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679374044425
+  4174fa7b-347d-4f15-bf0a-c37323dd81fc:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679402649844
+  a7d29352-d7fb-4bb7-9c3c-31c219bb71e1:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679405893155
+  981f98e0-270b-4083-8ac3-16fd3de6e5ee:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679413077980
+  07071753-1f2f-4609-9178-00e511f712f5:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679437098425
+  00000000-0000-0000-0009-01f2be9249cf:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679455519709
+  125f92ae-8aed-4dc4-a0e3-2fc846cad445:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679454820654
+  98066739-31eb-4038-9842-91c53d647dcc:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679495013272
+  ef436fbc-d5ec-47d2-a7ff-5a935898291c:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679498058513
+  4b7f689e-53af-4f04-8316-a1955e57a5b9:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679501722769
+  00000000-0000-0000-0009-01f61b9a41e0:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679502638559
+  9383bffc-0117-43d4-8191-c13a3070e220:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679504930866
+  15f212c1-475e-41d7-a31e-a371851568db:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679501798333
+  d8cea24f-6ab7-4d2f-83cb-9fcd7a5346aa:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679509964058
+  0447d55d-763f-404d-aa82-6a2d0d8b7098:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679512231025
+  b9ad50e0-0529-41e3-93eb-63f3fa551d96:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679512967017
+  00884d0f-affa-41d8-9c1c-20c282c5b24c:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679516514755
+  00000000-0000-0000-0009-01fe4fc2c446:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679514829818
+  ccd329cc-440f-4ec1-938b-4f614aa13fdb:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679518501850
+  84da9aaf-0f49-4db1-8092-2756d5776ecf:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679526063363
+  00000000-0000-0000-0009-01f31d2b6c53:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679531636309
+  1f781387-e97a-4b24-a0d6-b8875096ee8d:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679556647210
+  17f0ee8b-852e-4234-9ba7-6bc5dfa4f4c9:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679555110312
+  00000000-0000-0000-0009-01f423cd4119:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679556655835
+  f254c930-a4a5-4087-bdbf-d439c1033652:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679572125065
+  00000000-0000-0000-0009-01f8f206cda9:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679587959769
+  00000000-0000-0000-0009-01fd07489f23:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679588105490
+  afc80b3a-b699-4089-884e-7abd698a4960:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679597112325
+  00000000-0000-0000-0009-01f8cb6655c2:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679599690177
+  b24110ea-bb3e-4839-a2e1-2c70c289d448:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679602220912
+  00000000-0000-0000-0009-01f850b9319d:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679602632661
+  54a0809b-b17c-4d12-9c53-86f9019b6172:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679599070318
+  92fd0f80-5135-4618-b561-99b49fda422a:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679614767800
+  43d113b3-f359-4c54-add6-de7bde34cf73:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679616545411
+  63599dfd-36f9-4c18-83e3-735c5b2a6ac0:
+    newbie_timeleft: 0
+    newbie: false
+    pvpstatus: false
+    toggletime: 1679616533473
