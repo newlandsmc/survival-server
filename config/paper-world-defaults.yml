@@ -18,29 +18,30 @@ anticheat:
     enabled: true
     engine-mode: 1
     hidden-blocks:
+    - mossy_cobblestone
+    - obsidian
+    - chest
+    - clay
+    - coal_ore
+    - deepslate_coal_ore
     - copper_ore
     - deepslate_copper_ore
+    - raw_copper_block
+    - diamond_ore
+    - deepslate_diamond_ore
+    - emerald_ore
+    - deepslate_emerald_ore
     - gold_ore
     - deepslate_gold_ore
     - iron_ore
     - deepslate_iron_ore
-    - coal_ore
-    - deepslate_coal_ore
+    - raw_iron_block
     - lapis_ore
     - deepslate_lapis_ore
-    - mossy_cobblestone
-    - obsidian
-    - chest
-    - diamond_ore
-    - deepslate_diamond_ore
     - redstone_ore
     - deepslate_redstone_ore
-    - clay
-    - emerald_ore
-    - deepslate_emerald_ore
-    - ender_chest
     lava-obscures: false
-    max-block-height: 64
+    max-block-height: 128
     replacement-blocks:
     - stone
     update-radius: 2
@@ -129,21 +130,12 @@ entities:
     alt-item-despawn-rate:
       enabled: true
       items:
-        andesite: 600
-        bone: 600
-        cactus: 600
         cobbled_deepslate: 600
         cobblestone: 600
-        deepslate: 600
-        diorite: 600
         dirt: 600
-        egg: 600
-        ender_pearl: 600
-        granite: 600
         gravel: 600
         netherrack: 600
         rotten_flesh: 600
-        stone: 600
     count-all-mobs-for-spawning: false
     creative-arrow-despawn-rate: default
     despawn-ranges:

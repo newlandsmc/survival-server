@@ -24,7 +24,7 @@ Protect your home by claiming land with GriefPrevention!
 &0 
 You can claim up to 1,000 blocks initially. You get 1,000 more claim blocks every mining level!
 &0 
-You can create up to 5 claims. (You can increase this limit at our donation store!)
+You can create up to 3 claims. (You can increase this limit at our donation store!)
 &0 
 &lCREATING A NEW CLAIM:
 &0 
@@ -46,4 +46,4 @@ There is a lot more you can do with GriefPrevention! You can trust others, split
 &0 
 See more on our website:
 &0 
-https://semivanilla.com/claiming
+https://newlandsmc.com/claiming

@@ -24,7 +24,7 @@ sync_dupeip_notifications: false
 # If you need per-server bans, you have to change server_name on all instances
 # The "$serverScope" and "$serverOrigin" variables can be used in messages.
 # Maximum length is 32 characters.
-server_name: 'asthonia'
+server_name: 'newlands-survival'
 
 # This option decides which server(s) will be affected in commands by default.
 default_server_scope: '*'
@@ -164,10 +164,10 @@ notify:
   # This requires `dupeip_on_join: true` but does not depend on `dupeip_on_join_threshold`.
   dupeip_on_banned_account: true
   # Same as above, but for muted accounts.
-  dupeip_on_muted_account: false
+  dupeip_on_muted_account: true
   # If you set this to a lower value, players with X accounts will send dupeip notifications.
   # This requires `dupeip_on_join: true`.
-  dupeip_on_join_threshold: 9999999
+  dupeip_on_join_threshold: 2
   # If enabled, muted accounts will be detected with /dupeip.
   # This is disabled by default since it can increase the database load on larger servers especially if dupeip_on_join is enabled.
   dupeip_show_muted_accounts: false

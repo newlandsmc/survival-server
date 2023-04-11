@@ -7,13 +7,13 @@
     <meta property="og:url" content="https://newlandsmc.com" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="New Lands Survival" />
-    <meta property="og:description" content="Web map for the creative world on New Lands Survival. See the Minecraft world in real time and the players online!" />
+    <meta property="og:description" content="Web map for the survival world on New Lands Survival. See the Minecraft world in real time and the players online!" />
     <meta property="og:image" content="https://newlandsmc.com/assets/images/promo-card.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="twitter:domain" content="newlandsmc.com" />
     <meta property="twitter:url" content="https://newlandsmc.com" />
     <meta name="twitter:title" content="New Lands Survival" />
-    <meta name="twitter:description" content="Web map for the creative world on New Lands Survival. See the Minecraft world in real time and the players online!" />
+    <meta name="twitter:description" content="Web map for the survival world on New Lands Survival. See the Minecraft world in real time and the players online!" />
     <meta name="twitter:image" content="https://newlandsmc.com/assets/images/promo-card.jpg" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />

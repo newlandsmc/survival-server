@@ -169,7 +169,7 @@ command:
     broadcast_unwarn: '&a$executor &funwarned &a$warnedPlayer'
   history:
     usage: '&c/history <player> [entries=10]'
-    start: '&e&m                        &r History (Limit $limit) &e&m                        &r'
+    start: '&e&m                        &e History (Limit $limit) &e&m                        &e'
     ban_entry: |2-
 
       &e$name banned $timeSince ago:&r
@@ -200,42 +200,36 @@ command:
     error_no_loginrecord: '&cUser has not joined before.'
   warnings:
     usage: '&c/warnings <player>'
-    start: '&e&m                     &r Active Warnings &e&m                     &r'
+    start: '&e&m                     &e Active Warnings &e&m                     &e'
   prunehistory:
     usage: '&c/prunehistory <player> [duration]'
     message: '&aHistory pruned.'
   staffhistory:
     usage: '&c/staffhistory <player> [entries=10]'
-    start: '&e&m                 &r Staff History (Limit $limit) &e&m                 &r'
+    start: '&e&m                 &e Staff History (Limit $limit) &e&m                 &e'
   staffrollback:
     usage: '&c/staffrollback <player> [duration]'
     message: '&aRollback completed, total entries removed: $amount'
   banlist:
-    start: '&e&m                           &r Banlist &e&m                           &r'
+    start: '&e&m                           &e Banlist &e&m                           &e'
   iphistory:
     usage: '&c/iphistory <player> [entries=10]'
-    start: '&e&m             &r Login History (Limit $limit) &e&m             &r'
+    start: '&e&m             &e Login History (Limit $limit) &e&m             &e'
     entry: '&a - [&f$date&a]&f $name&a:&f $ip'
     error_no_history: '&cNo history found.'
   dupeip:
     usage: '&c/dupeip <player>'
-    start: |-
-      &e&m            &r Potential alts of $name &e&m            &r
-      &f(Key: &aOnline &7Offline &cBanned &eMuted&f)
+    start: '&e&m            &e Potential alts of $name &e&m            &e'
     separator: \n
-    online: '&f - &a'
-    offline: '&f - &7'
-    banned: '&f - &c'
+    online: '&f - &a[Online] '
+    offline: '&f - &7[Offline] '
+    banned: '&f - &c[Banned] '
     multiple_addresses: '[$num addresses]'
-    start_no_ip: |-
-      &e&m              &r Potential alts of $name &e&m              &r
-      &f(Key: &aOnline &7Offline &cBanned &eMuted&f)
-    muted: ' &f- &e'
-    ip_banned: '&f - &c'
+    start_no_ip: '&e&m              &e Potential alts of $name &e&m              &e'
+    muted: ' &f- &e[Muted] '
+    ip_banned: '&f - &c[IP Banned] '
   ipreport:
-    start: |-
-      &e&m             &r Potential alts of online users &e&m             &r
-      &f(Key: &aOnline &7Offline &cBanned &eMuted&f)
+    start: '&e&m             &e Potential alts of online users &e&m             &e'
     entry: '&f - $player&f: $result'
   checkban:
     usage: '&c/checkban <player>'

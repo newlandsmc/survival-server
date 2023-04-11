@@ -197,6 +197,8 @@ disabled-commands:
   - ehelp
   - eworld
   - world
+  - rules
+  - erules
 
 # Whether or not Essentials should show detailed command usages.
 # If set to false, Essentials will collapse all usages in to one single usage message.
@@ -1067,13 +1069,13 @@ newbies:
 # Set this to high, if you want EssentialsSpawn to handle the respawning.
 # Set this to highest, if you want to force EssentialsSpawn to handle the respawning.
 # Note: Changes will not apply until after the server is restarted.
-respawn-listener-priority: highest
+respawn-listener-priority: none
 
 # What priority should we use for handling spawning on joining the server?
 # See respawn-listener-priority for possible values.
 # Note: Changing this may impact or break spawn-on-join functionality.
 # Note: Changes will not apply until after the server is restarted.
-spawn-join-listener-priority: lowest
+spawn-join-listener-priority: none
 
 # When users die, should they respawn at their first home or bed, instead of the spawnpoint?
 respawn-at-home: false

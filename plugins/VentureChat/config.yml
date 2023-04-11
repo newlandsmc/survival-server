@@ -129,7 +129,7 @@ jsonformatting:
         click_action: 'suggest_command'
         click_text: '/msg {player_name}'
   founder:
-    priority: 12
+    priority: 1
     json_attributes:
       venturechat_channel_prefix:
         hover_text:
@@ -147,7 +147,7 @@ jsonformatting:
         click_action: 'run_command'
         click_text: '/help store'
   awoken:
-    priority: 1
+    priority: 12
     json_attributes:
       venturechat_channel_prefix:
         hover_text:

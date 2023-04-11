@@ -1,0 +1,21 @@
+# ===========================================================
+# THIS FILE WILL EVENTUALLY BE REPLACED. WITH THE V2 REWRITE.
+# ===========================================================
+
+title: 'Are you sure?'
+confirm:
+  type: 'GREEN_STAINED_GLASS_PANE'
+  name: '<green>Yes'
+  lore:
+    - '<dark_gray>Click to confirm.'
+cancel:
+  type: 'RED_STAINED_GLASS_PANE'
+  name: '<red>No'
+  lore:
+    - '<dark_gray>Click to cancel.'
+info:
+  type: 'PAPER'
+  name: '<gray>Are you sure you want to {action}?'
+  lore:
+    - '<gray>Click <green>yes</green> to confirm, or <red>no</red> to cancel.'
+    - '<red>This action cannot be undone!'

@@ -20,7 +20,7 @@ settings:
   update-folder: update
   world-container: worlds
   plugin-profiling: false
-  connection-throttle: 1000
+  connection-throttle: -1
   query-plugins: true
   deprecated-verbose: default
   shutdown-message: '&cSurvival rebooting, please rejoin in a few minutes!'

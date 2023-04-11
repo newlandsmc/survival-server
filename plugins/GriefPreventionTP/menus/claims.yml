@@ -1,0 +1,32 @@
+# ===========================================================
+# THIS FILE WILL EVENTUALLY BE REPLACED. WITH THE V2 REWRITE.
+# ===========================================================
+
+title: 'Claims'
+
+filter:
+  enabled:
+    name: '<green>Toggle Viewing Mode'
+    lore:
+      - '<gray>Viewing public claims:<green> Yes'
+      - ''
+      - '<dark_gray>Click to toggle'
+  disabled:
+    name: '<green>Toggle Viewing Mode'
+    lore:
+      - '<gray>Viewing public claims:<red> No'
+      - ''
+      - '<dark_gray>Click to toggle'
+claim:
+  name: '<green>{name}'
+  lore:
+    - '<gray>Owner: {owner}'
+    - '<gray>Coords: {x}, {y}, {z}'
+    - ''
+    - '<dark_gray>Click to teleport.'
+    - 'canEdit:<dark_gray>Right click to manage.'
+search:
+  type: OAK_SIGN
+  name: '<green>Search'
+  lore:
+    - '<dark_gray>Click to search claims!'
