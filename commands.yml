@@ -27,6 +27,8 @@ aliases:
   - griefpreventiontp:claims $1-
   homes:
   - griefpreventiontp:claims $1-
+  manclaim:
+  - griefpreventiontp:manageclaim $1-
   lobby:
   - serverselector:server lobby
   spawn:

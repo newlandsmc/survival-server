@@ -58,7 +58,7 @@ ChatFilter:
       Staff: true
       Player: false
       Console: true
-    Regex: (a|4)b(o|0)rt(i|1)(o|0)n|r+(a+|4)(p(e|3)+|p{2,50}(3|e){2,50}|p+(i|1)st)
+    Regex: (a|4)b(o|0)rt(i|1)(o|0)n|r+(a+|4)(p(e|3)+\b|p{2,50}(3|e){2,50}|p+(i|1)st)
     CancelChat:
       Cancel: true
       Replace: false

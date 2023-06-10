@@ -44,7 +44,7 @@ GriefPrevention:
       AllClaims:
         DaysInactive: 30
         ExceptWhenOwnerHasTotalClaimBlocks: 25000
-        ExceptWhenOwnerHasBonusClaimBlocks: -1
+        ExceptWhenOwnerHasBonusClaimBlocks: 25000
       AutomaticNatureRestoration:
         SurvivalWorlds: false
     AllowTrappedInAdminClaims: true
@@ -165,7 +165,7 @@ GriefPrevention:
   BanCommandPattern: ban %name% %reason%
   Advanced:
     fixNegativeClaimblockAmounts: true
-    ClaimExpirationCheckRate: 60
+    ClaimExpirationCheckRate: 5
     OfflinePlayer_cache_days: 365
   Abridged Logs:
     Days To Keep: -1

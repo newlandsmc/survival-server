@@ -23,8 +23,9 @@ claim:
     - '<gray>Owner: {owner}'
     - '<gray>Coords: {x}, {y}, {z}'
     - ''
-    - '<dark_gray>Click to teleport.'
-    - 'canEdit:<dark_gray>Right click to manage.'
+    - '<dark_gray>Left click to teleport.'
+    - 'canEdit:<dark_gray>Java: Right click to manage.'
+    - 'canEdit:<dark_gray>Bedrock: Use /manclaim <name> to manage.'
 search:
   type: OAK_SIGN
   name: '<green>Search'

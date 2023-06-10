@@ -35,8 +35,8 @@
       ],
       "actions": [
         {
-          "type": "book",
-          "book": "website"
+          "type": "message",
+          "key": "website"
         }
       ]
     },
@@ -52,8 +52,8 @@
       ],
       "actions": [
         {
-          "type": "book",
-          "book": "rules"
+          "type": "message",
+          "key": "rules"
         }
       ]
     },
@@ -69,8 +69,8 @@
       ],
       "actions": [
         {
-          "type": "book",
-          "book": "store"
+          "type": "message",
+          "key": "store"
         }
       ]
     },
@@ -86,8 +86,8 @@
       ],
       "actions": [
         {
-          "type": "book",
-          "book": "vote"
+          "type": "message",
+          "key": "vote"
         }
       ]
     },
@@ -103,8 +103,8 @@
       ],
       "actions": [
         {
-          "type": "book",
-          "book": "discord"
+          "type": "message",
+          "key": "discord"
         }
       ]
     }
